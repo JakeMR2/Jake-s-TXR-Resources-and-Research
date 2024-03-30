@@ -10,3 +10,6 @@ These range from Cheat Engine tables to .txt stuff about the .DAT/.TOC format, t
 
 > [!IMPORTANT]
 > If you can. Anyone can contribute to the research and make things further for actual research to be done about the series. It's still being done but at a slow rate.
+
+> [!WARNING]
+> A lot of my old Tables are from 2018, they need to be updated to the current 1.7 PCSX2, but refer to the PCSX2 Server on how to do so, at a later date I will update this.
