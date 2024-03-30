@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>48</ID>
+      <Description>"Menu Stuff"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"UCD Cars"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>FF8080</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>13</ID>
+              <Description>"Used Car #6"</Description>
+              <Color>0000FF</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>206484D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>12</ID>
+              <Description>"Used Car #5"</Description>
+              <Color>0000FF</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20648490</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11</ID>
+              <Description>"Used Car #4"</Description>
+              <Color>0000FF</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2064844C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>9</ID>
+              <Description>"Used Car #3"</Description>
+              <Color>0000FF</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20648408</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>7</ID>
+              <Description>"Used Car #2"</Description>
+              <Color>0000FF</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>206483C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>10</ID>
+              <Description>"Used Car #1"</Description>
+              <Color>0000FF</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20648380</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"Garage"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>FF8080</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"Garage Car #1"</Description>
+              <Options moHideChildren="1"/>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20645E10</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>41</ID>
+                  <Description>"Engine Tune"</Description>
+                  <Options moManualExpandCollapse="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>42</ID>
+                      <Description>"Engine"</Description>
+                      <VariableType>Byte</VariableType>
+                      <Address>20645E80</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>43</ID>
+                      <Description>"Muffler"</Description>
+                      <VariableType>Byte</VariableType>
+                      <Address>20645E88</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>44</ID>
+                      <Description>"Turbo Kit"</Description>
+                      <VariableType>Byte</VariableType>
+                      <Address>20645E84</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>45</ID>
+                      <Description>"Air Cleaner"</Description>
+                      <VariableType>Byte</VariableType>
+                      <Address>20645E8C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>46</ID>
+                      <Description>"Cooling Module"</Description>
+                      <VariableType>Byte</VariableType>
+                      <Address>20645E90</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>66</ID>
+                  <Description>"Wheel Front"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>20645EB4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>67</ID>
+                  <Description>"Wheel Rear"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>20645EB8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>16</ID>
+              <Description>"Garage Car #2"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20645EDC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>17</ID>
+              <Description>"Garage Car #3"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20645FA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>18</ID>
+              <Description>"Garage Car #4"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646074</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>19</ID>
+              <Description>"Garage Car #5"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646140</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>20</ID>
+              <Description>"Garage Car #6"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2064620C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"Garage Car #7"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>206462D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>22</ID>
+              <Description>"Garage Car #8"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>206463A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"Garage Car #9"</Description>
+              <Options moHideChildren="1"/>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646470</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>40</ID>
+                  <Description>"Engine Tune"</Description>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"Garage Car #10"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2064653C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"Garage Car #11"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646608</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>26</ID>
+              <Description>"Garage Car #12"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>206466D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"Garage Car #13"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>206467A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"Garage Car #14"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2064686C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"Garage Car #15"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646938</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>30</ID>
+              <Description>"Garage Car #16"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646938</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>31</ID>
+              <Description>"Garage Car #17"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646AD0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"Garage Car #18"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646B9C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>33</ID>
+              <Description>"Garage Car #19"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646C68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"Garage Car #20"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646D34</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"Garage Car #21"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646E00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>36</ID>
+              <Description>"Garage Car #22"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646ECC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>37</ID>
+              <Description>"Garage Car #23"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20646F98</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>38</ID>
+              <Description>"Garage Car #24"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20647064</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>39</ID>
+              <Description>"Garage Car #25"</Description>
+              <Color>800000</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20647130</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"Sponsor Cars"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>000080</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>49</ID>
+              <Description>"Sponsor Car ID"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>21791A68</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>62</ID>
+          <Description>"Altercations"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>51</ID>
+              <Description>"Change Menus"</Description>
+              <Color>008000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>21261D70</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>75</ID>
+              <Description>"change menu (JP)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>3128C670</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>61</ID>
+              <Description>"Show Car 1 = On"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>21261D80</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>63</ID>
+              <Description>"Activate Transition"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>21261D78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>65</ID>
+              <Description>"Music Change"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>21261D8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"Change Music (JP)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>3128C68D</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>79</ID>
+              <Description>"Change Car (Forced) (JP)"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>3128CB8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>80</ID>
+              <Description>"Force Category (JP)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>3128CB88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>81</ID>
+              <Description>"Menu Interchange? (JP)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>30A04FC0</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>52</ID>
+      <Description>"Player Data"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>808000</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"$"</Description>
+          <Color>0046D7</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>20648548</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"Fans"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>20648554</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"Day/Night"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>20648540</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"Weather"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>20648541</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description>"Account Name"</Description>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>20648A0C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"BAD Name Changer (Text IDs)"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000CA</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>55</ID>
+              <Description>"B.A.D 1"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>2064854D</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>60</ID>
+              <Description>"B.A.D 2"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>2064854F</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"Garage Total Amount"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>206474F4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>53</ID>
+      <Description>"ID Changers"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>47</ID>
+          <Description>"New Car ID Change"</Description>
+          <VariableType>2 Bytes</VariableType>
+          <Address>21262B84</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Decrease Value</Action>
+              <Keys>
+                <Key>190</Key>
+              </Keys>
+              <Value>1</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Increase Value</Action>
+              <Keys>
+                <Key>191</Key>
+              </Keys>
+              <Value>1</Value>
+              <ID>1</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>64</ID>
+      <Description>"No description"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>21263004</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>68</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>2065366E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>69</ID>
+      <Description>"No description"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>205DC037</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>72</ID>
+      <Description>"No description"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>2126CD34</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"Car Struct (model) data (UCL)"</Description>
+      <VariableType>String</VariableType>
+      <Length>3</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>20472938</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>74</ID>
+      <Description>"decompressed model data?"</Description>
+      <VariableType>String</VariableType>
+      <Length>3</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>217E5A78</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>76</ID>
+      <Description>"Car Slot 2 (JP)"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>30758268</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>77</ID>
+      <Description>"Car Slot 1 (JP)"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>307580D0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>82</ID>
+      <Description>"change car"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>213627B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"menu"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>31357730</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>".Car Model ID View"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>218873A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"No description"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>2135EB80</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"cash"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>30829030</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"day"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>20829004</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"cash (final)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2075A808</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>84</ID>
+      <Description>"starting DB car"</Description>
+      <VariableType>String</VariableType>
+      <Length>5</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>20C85E38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>85</ID>
+      <Description>"Money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>30829030</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>86</ID>
+      <Description>"Menu Changer"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>31357730</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

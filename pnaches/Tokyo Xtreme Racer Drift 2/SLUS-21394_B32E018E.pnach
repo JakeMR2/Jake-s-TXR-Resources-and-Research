@@ -1,0 +1,277 @@
+[Fixes\No-Interlacing]
+comment=Attempts to disable interlaced offset rendering
+author=Unknown
+patch=1,EE,20153B90,extended,00000000
+
+[Fixes\Coloured Boxes Fix]
+comment=Removes the coloured boxes before a race with a tricker
+author=Strawberry Shortcake
+patch=1,EE,203f5a1c,extended,3A83126F
+
+[Fixes\Red Rain Fix]
+comment=Fixes red rain on interior, only needed at high aspect ratios
+author=Strawberry Shortcake
+patch=1,EE,203F825c,extended,3f800000
+
+[Camera\Rigid Third Person Camera]
+comment=MAY BREAK FMVs, skip them if it does
+author=Strawberry Shortcake using codes found by Leopard Yiu
+patch=1,EE,20B70305,extended,00000000
+patch=1,EE,D0B88F60,extended,01
+patch=1,EE,20B88EB6,extended,00003Fe3
+
+[Camera\Replay Camera in Gameplay]
+comment=Replay Camera in Gameplay
+author=Strawberry Shortcake
+patch=1,EE,00B70304,extended,03
+
+[Camera\Third Person Look Back]
+comment=Press Select to look back in third person
+author=Strawberry Shortcake
+//Press Select to look back
+patch=1,EE,D03F3204,extended,ff
+patch=1,EE,20B88EB0,extended,40CF0D3D
+//release select to look forwards
+patch=1,EE,D03F3204,extended,00
+patch=1,EE,20B88EB0,extended,C0C96b8f
+//attach interior cam to car
+patch=1,EE,D0B88F60,extended,00
+patch=1,EE,20B88EB0,extended,BEC624DD
+
+[Progression\All Prizes]
+comment=Get all prizes
+author=JakeMR2
+patch=1,EE,20768DFC,extended,FFFFFFFF
+patch=1,EE,00768E00,extended,FF
+
+[Progression\Max C-Level]
+comment=Set C-Level to Level 20
+author=Strawberry Shortcake
+patch=1,EE,20768E74,extended,00000A78
+
+[Progression\Max Fans]
+comment=Set fans to 10,000
+author=Strawberry Shortcake
+patch=1,EE,2075CB2C,extended,05F5E0FF
+
+[Progression\Max Money]
+comment=Set money to maximum value
+author=Leopard Yiu
+patch=1,EE,2075CB30,extended,3B9AC9FF
+
+[Progression\Unlock All Courses]
+comment=Unlocks all courses
+author=Strawberry Shortcake
+patch=1,EE,20760784,extended,0007FFFF
+
+[Progression\Unlock All Cars]
+comment=Unlocks all acquireable cars for purchase
+author=JakeMR2
+patch=1,EE,2075F9A0,extended,FFFFFFFF
+patch=1,EE,2075F9a4,extended,FFFFFFFF
+patch=1,EE,2075F9a8,extended,FFFFFFFF
+patch=1,EE,2075F9ac,extended,FFFFFFFF
+patch=1,EE,2075F9b0,extended,FFFFFFFF
+patch=1,EE,2075F9b4,extended,FDFFFFFF
+patch=1,EE,2075F9b8,extended,07FFFFFF
+
+[Progression\Unlock Rival Cars for Purchase]
+comment=Unlocks rival cars for purchase
+author=JakeMR2
+patch=1,EE,0075F9b7,extended,FF
+patch=1,EE,0075F9bb,extended,FF
+patch=1,EE,2075F9bc,extended,FFFFFFFF
+patch=1,EE,0075F9c0,extended,FF
+
+[Progression\Unlock All Parts]
+comment=Unlocks all parts for purchase
+author=Strawberry Shortcake
+patch=1,EE,207603ac,extended,BEFBEFBE
+patch=1,EE,207603B0,extended,EFBEFBEF
+patch=1,EE,207603B4,extended,FBEFBEFB
+patch=1,EE,207603B8,extended,BEFBEFBE
+patch=1,EE,207603BC,extended,EFBEFBEF
+patch=1,EE,207603C0,extended,FBEFBEFB
+patch=1,EE,207603C4,extended,BEFBEFBE
+patch=1,EE,207603C8,extended,EFBEFBEF
+patch=1,EE,207603CC,extended,FBEFBEFB
+patch=1,EE,207603D0,extended,BEFBEFBE
+patch=1,EE,207603D4,extended,EFBEFBEF
+patch=1,EE,207603D8,extended,EFBEFBFB
+patch=1,EE,207603DC,extended,FBEFBEFB
+patch=1,EE,207603E0,extended,BEFBEFBE
+patch=1,EE,207603E4,extended,EFBEFBEF
+patch=1,EE,207603E8,extended,FBEFBEFB
+patch=1,EE,207603EC,extended,BBBBEFBE
+patch=1,EE,207603F0,extended,EFBEFBEF
+patch=1,EE,107603F4,extended,BEFB
+
+[Progression\Free New Cars]
+comment=ONLY HAVE THIS ON WHEN BUYING A CAR
+author=Strawberry Shortcake
+patch=1,EE,20DE443C,extended,00000000
+
+[Progression\Free Used Cars]
+comment=ONLY HAVE THIS ON WHEN BUYING A CAR
+author=Strawberry Shortcake
+patch=1,EE,20DE4420,extended,00000000
+
+[Progression\Free Tuner Cars]
+comment=ONLY HAVE THIS ON WHEN BUYING A CAR
+author=Strawberry Shortcake
+patch=1,EE,20DE44F8,extended,00000000
+
+[Game Additions\Open All Vinyl Categories]
+comment=Enables the hidden category called Art in the vinyl editor
+author=JakeMR2
+patch=1,EE,00DE4498,word,0000000B
+
+[Game Additions\Better Chances With Rarer Cars (UCD)]
+comment=What it states, it's to increase your chances of Rare's, CAUTION: New Saves have 7 Rare's
+author=JakeMR2
+patch=1,EE,00238FB0,byte,1
+patch=1,EE,00238FB1,byte,0
+
+[Game Additions\Customizable Special Cars]
+comment=When this is active all special cars purchased or won are customizable, does not effect cars already acquired
+author=JakeMR2 and Leopard Yiu
+//Set Mercedes Benz Evo II/I To Be NORMAL Category
+patch=1,EE,00C38720,word,00000000
+patch=1,EE,00C3A320,word,00000000
+
+patch=1,EE,00C09320,word,00000000 //Ridox Supra
+patch=1,EE,00C0AF20,word,00000000 //NOB S15
+patch=1,EE,00C0CB20,word,00000000 //Re Ameniya FD
+patch=1,EE,00C0E720,word,00000000 //MCR R34
+patch=1,EE,00C10320,word,00000000 //Fujitsubo Evo 7
+patch=1,EE,00C11F20,word,00000000 //Fujitsubo Impreza GD
+patch=1,EE,00C13B20,word,00000000 //Mine's R34
+patch=1,EE,00C15720,word,00000000 //5zign Integra DC5
+patch=1,EE,00C17320,word,00000000 //Genki S2000
+patch=1,EE,00C18F20,word,00000000 //HKS S15 (Genki Hyper Silvia)
+patch=1,EE,00C1AB20,word,00000000 //HKS SXE10 (Altezza)
+patch=1,EE,00C1C720,word,00000000 //NOMUKEN ER34 (Blitz)
+patch=1,EE,00C1E320,word,00000000 //Yosiouka AE86
+patch=1,EE,00C1FF20,word,00000000 //UTUMI FD3S
+patch=1,EE,00C21B20,word,00000000 //Haxasi S15
+patch=1,EE,00C23720,word,00000000 //Izumi Z33
+patch=1,EE,00C25320,word,00000000 //Gunma Rally Evo 8
+patch=1,EE,00C26F20,word,00000000 //Rallyart Evo 9
+patch=1,EE,00C28B20,word,00000000 //WRC Xsara Kit Car
+patch=1,EE,00C2A720,word,00000000 //WRC 206
+patch=1,EE,00C2C320,word,00000000 //WRC Lancer Evo
+patch=1,EE,00C2DF20,word,00000000 //Starion AWD 
+patch=1,EE,00C2FB20,word,00000000 //WRC Impreza GD
+patch=1,EE,00C31720,word,00000000 //WRC Punto
+patch=1,EE,00C33320,word,00000000 //WRC Corsa
+patch=1,EE,00C34F20,word,00000000 //WRC Clio
+patch=1,EE,00C36B20,word,00000000 //WRC Ignis
+
+[Options\Force LOD0]
+comment=Forces LOD0 in InGame Sessions, breaks rival intro scenes
+author=JakeMR2	
+patch=1,EE,00B89890,word,00000002
+patch=1,EE,00B89894,word,00000002
+patch=1,EE,00B8988C,word,00000003
+
+[Options\Mirror On]
+comment=Forces mirror on at all times
+author=Strawberry Shortcake
+patch=1,EE,00B889FC,extended,01
+
+[Rivals\Disable Rival SP Loss]
+comment=Keeps rival SP at the default value
+author=Strawberry Shortcake
+patch=1,EE,10B88878,extended,2ee0
+
+[Units\Convert speeds from mph to km/h]
+comment=Changes the ingame speedo and gear menu to km/h
+author=JakeMR2
+patch=1,EE,001DBD88,extended,00003f80 //ingame
+patch=1,EE,002ECD14,extended,00003f80 //gear menu
+
+[Units\Convert ingame Speed from km/h to m/s]
+comment=Only works with JakeMR2s km/h conversion activated
+author=Strawberry Shortcake
+patch=1,EE,10170824,extended,3F80 //ingame
+
+[Widescreen\Widescreen 16:9]
+comment=Fixes all rendering to be in the correct aspect ratio
+author=nemesis2000 and Strawberry Shortcake
+//16:9 Rendering
+patch=1,EE,203f59d0,extended,3F400000
+//16:9 Road Reflections		
+patch=1,EE,203F6b10,extended,3f400000
+
+[Widescreen\Widescreen 16:9 HUD and Menus]
+comment=Fixes all menus and FMVs to be in the correct aspect ratio
+author=Strawberry Shortcake
+
+//16:9 HUD Scale
+patch=1,EE,203fb1e0,extended,3F400000
+//16:9 HUD Position
+patch=1,EE,203fb1e8,extended,42a00000
+//16:9 HUD BG Scale
+patch=1,EE,203fb100,extended,3F400000
+//16:9 Background Position
+patch=1,EE,203fb108,extended,42a00000
+//16:9 HUD BG Gradient Scale
+patch=1,EE,203fb170,extended,3F400000
+//16:9 HUD BG Gradient Position
+patch=1,EE,203fb178,extended,42a00000
+
+[Widescreen\Widescreen 21:9]
+comment=Fixes all rendering to be in the correct aspect ratio
+author=Strawberry Shortcake
+
+//21:9 Rendering
+patch=1,EE,203f59d0,extended,3f124925
+//21:9 Road Reflections		
+patch=1,EE,203F6b10,extended,3f124925
+
+[Widescreen\Widescreen 21:9 HUD and Menus]
+comment=Fixes all menus and FMVs to be in the correct aspect ratio
+author=Strawberry Shortcake
+
+//21:9 HUD Scale
+patch=1,EE,203fb1e0,extended,3f124925
+//21:9 HUD Position
+patch=1,EE,203fb1e8,extended,43098000
+//21:9 HUD BG Scale
+patch=1,EE,203fb100,extended,3f124925
+//21:9 Background Position
+patch=1,EE,203fb108,extended,43098000
+//21:9 HUD BG Gradient Scale
+patch=1,EE,203fb170,extended,3f124925
+//21:9 HUD BG Gradient Position
+patch=1,EE,203fb178,extended,43098000
+
+[Widescreen\Widescreen 32:9]
+comment=Fixes all rendering to be in the correct aspect ratio
+author=Strawberry Shortcake
+
+//32:9 Ultrawidescreen Rendering
+patch=1,EE,203f59d0,extended,3ec00000
+//32:9 Road Reflections		
+patch=1,EE,203F6b10,extended,3EC00000
+
+[Widescreen\Widescreen 32:9 HUD and Menus]
+comment=Fixes all menus and FMVs to be in the correct aspect ratio
+author=Strawberry Shortcake
+
+//32:9 HUD Scale
+patch=1,EE,203fb1e0,extended,3ec00000
+//32:9 HUD Position
+patch=1,EE,203fb1e8,extended,43480000
+//32:9 HUD BG Scale
+patch=1,EE,203fb100,extended,3ec00000
+//32:9 Background Position
+patch=1,EE,203fb108,extended,43480000
+//32:9 HUD BG Gradient Scale
+patch=1,EE,203fb170,extended,3ec00000
+//32:9 HUD BG Gradient Position
+patch=1,EE,203fb178,extended,43480000
+
+[Version\Strawberry Shortcake cheats v2]
+comment=This is here for version tracking, enabling does nothing
+author=Strawberry Shortcake

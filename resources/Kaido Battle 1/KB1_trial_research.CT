@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Freeze Frame"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>2034B7B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Frame Speed"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>2034B7B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"interlacing?"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>2034D2C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Interlacing?"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>2034D2C8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Interlacing_box"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>2034CCA9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"cur_sel"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>20DB8D08</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"cur_sel"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>21DF0930</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Menu Changer ID"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>20223308</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Players Cash"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>20357AE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Category Menu"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>20223308</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Player Cash"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>30357AE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Frame_Increase"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>3034B7B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"Freeze Frame"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>3034B7B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"Camera Change"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>30A03084</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"pause_menu"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>31DF0F18</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"Time Attack"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Array of byte</VariableType>
+      <ByteLength>4</ByteLength>
+      <Address>202224A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>20343f80</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>20DB8CEA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"Menu Changer?"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>20DB8D04</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>

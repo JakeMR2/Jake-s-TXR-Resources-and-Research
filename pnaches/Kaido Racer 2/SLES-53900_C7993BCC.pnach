@@ -1,0 +1,2 @@
+[Game Save\Disable Save Check (FOR TESTING PURPOSES)]
+patch=1,EE,00343084,word,0000000

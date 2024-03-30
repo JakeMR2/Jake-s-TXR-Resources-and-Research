@@ -1,0 +1,42 @@
+# By JakeMR2, TXR3 (US) fixes
+[Improvements\Draw Distance]
+author=JakeMR2
+description=Increases the fog distance
+patch=1,EE,00889E4A,word,00004E20
+patch=1,EE,00873F2A,word,00004E20
+patch=1,EE,0088020A,word,00004E20
+
+[Improvements\lightmap change]
+patch=1,EE,003481F0,word,E1FF0000
+
+[Experimental\Change View]
+//patch=1,EE,0028c730,word,24060014
+
+[Progression\Unlock Everything From The Start]
+author=JakeMR2
+description=Unlocks everything
+patch=1,EE,208153FD,word,00004E07
+
+[Progression\Unlock All Cars]
+patch=1,EE,20816756,word,FFFFFFFF
+patch=1,EE,2081675A,word,FFFFFFFF
+patch=1,EE,2081675E,word,FFFFFFFF
+patch=1,EE,20816761,word,FFFFFFFF
+
+[Progression\Unlock All Parts]
+patch=1,EE,20816765,word,0206060A
+patch=1,EE,20816769,word,06060606
+patch=1,EE,2081676D,word,06060606
+
+#test of something
+//patch=1,EE,301FCCD9,word,0200FF50 //Camera Speed/Stiffness/Sound?
+
+//Disabled as I'm still finding ways to find a replacement code for this, just don't mind it for now.
+
+
+/* Technical Stuffs *\
+[Experimental\Every Rival Increases Earnings]
+patch=1,EE,201767cc,word,dd0502ae //What this code does is increase the winngings tenfold, manipulates the game into doing so.
+
+[Experimental\Change R3 Boost Button]
+pathc=1,EE,2014208C,word,40006330

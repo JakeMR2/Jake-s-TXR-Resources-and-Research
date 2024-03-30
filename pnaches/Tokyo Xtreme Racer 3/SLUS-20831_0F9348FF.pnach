@@ -1,0 +1,34 @@
+# By JakeMR2, TXR3 (US) fixes
+
+[Increase Draw Distance]
+patch=1,EE,00889E4A,word,00004E2
+patch=1,EE,00873F2A,word,00004E20
+patch=1,EE,0088020A,word,00004E20
+
+[Progression Cheat]
+description=For challenges sake, unlocks stuff upon initial new game.
+patch=1,EE,208153FD,word,00004E07
+
+[Unlock All Cars]
+patch=1,EE,20816756,word,FFFFFFFF
+patch=1,EE,2081675A,word,FFFFFFFF
+patch=1,EE,2081675E,word,FFFFFFFF
+patch=1,EE,20816761,word,FFFFFFFF
+
+[Unlock All Cars]
+patch=1,EE,20816765,word,0206060A
+patch=1,EE,20816769,word,06060606
+patch=1,EE,2081676D,word,06060606
+
+#test of something
+//patch=1,EE,301FCCD9,word,0200FF50 //Camera Speed/Stiffness/Sound?
+
+//Disabled as I'm still finding ways to find a replacement code for this, just don't mind it for now.
+
+
+/* Technical Stuffs *\
+#Get Max Money from beating a rival
+//patch=1,EE,201767cc,word,dd0502ae //What this code does is increase the winngings tenfold, manipulates the game into doing so.
+
+[Change boost to R3]
+pathc=1,EE,2014208C,word,40006330
