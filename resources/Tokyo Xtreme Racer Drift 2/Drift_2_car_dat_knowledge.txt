@@ -1,0 +1,2289 @@
+Offset-Description                                                                   
+0000 - String            20C3A040 : DCH_EVO1           20BFCC40 : FIA_COU            
+0009 - Byte              20C3A049 : 0                  20BFCC49 : 0                  
+000A - Byte              20C3A04A : 0                  20BFCC4A : 0                  
+000B - Byte              20C3A04B : 0                  20BFCC4B : 0                  
+000C - 4 Bytes           20C3A04C : 0                  20BFCC4C : 0                  
+0010 - Float             20C3A050 : 0.3966136873       20BFCC50 : 0.4126041532       
+0014 - Double            20C3A054 : 0.641954064259251  20BFCC54 : 0.316420853028451  
+001C - Double            20C3A05C : 952.31982421875    20BFCC5C : 768                
+0024 - Double            20C3A064 : 0.440000116518699  20BFCC64 : 0.560000061388128  
+002C - 4 Bytes           20C3A06C : 0                  20BFCC6C : 0                  
+0030 - Pointer           20C3A070 : P->3E10B7B3        20BFCC70 : P->3E8400ED        
+0034 - Pointer           20C3A074 : P->3E9F6E70        20BFCC74 : P->3EA661AE        
+0038 - 4 Bytes           20C3A078 : 0                  20BFCC78 : 0                  
+003C - Double            20C3A07C : -3.31999969482422  20BFCC7C : -2.60000038146973  
+0044 - Double            20C3A084 : -0.001718750223517420BFCC84 : -0.00218749977648258
+004C - Double            20C3A08C : 3.31999969482422   20BFCC8C : 2.60000038146973   
+0054 - Double            20C3A094 : 0.0017187504551511720BFCC94 : 0.00218750023979737
+005C - Double            20C3A09C : -0.0078125         20BFCC9C : -0.0078125         
+0064 - Pointer           20C3A0A4 : P->3DB9D7FA        20BFCCA4 : P->00000000        
+0068 - Double            20C3A0A8 : 0.0078125          20BFCCA8 : 0.0078125          
+0070 - Float             20C3A0B0 : 1                  20BFCCB0 : 1                  
+0074 - Float             20C3A0B4 : 1                  20BFCCB4 : 1                  
+0078 - 4 Bytes           20C3A0B8 : 0                  20BFCCB8 : 0                  
+007C - 4 Bytes           20C3A0BC : 0                  20BFCCBC : 0                  
+0080 - 4 Bytes           20C3A0C0 : 0                  20BFCCC0 : 0                  
+0084 - 4 Bytes           20C3A0C4 : 0                  20BFCCC4 : 0                  
+0088 - 4 Bytes           20C3A0C8 : 0                  20BFCCC8 : 1056964608         
+008C - 4 Bytes           20C3A0CC : 0                  20BFCCCC : 0                  
+0090 - 4 Bytes           20C3A0D0 : 0                  20BFCCD0 : 1119223808         
+0094 - Pointer           20C3A0D4 : P->3D810625        20BFCCD4 : P->3D872B02        
+0098 - Pointer           20C3A0D8 : P->3DCCCCCD        20BFCCD8 : P->3DCCCCCD        
+009C - Float             20C3A0DC : -0.200000003       20BFCCDC : -0.200000003       
+00A0 - Float             20C3A0E0 : -1.666666627       20BFCCE0 : -1.666666627       
+00A4 - Pointer           20C3A0E4 : P->3E229CE8        20BFCCE4 : P->BDC0B5FE        
+00A8 - Double            20C3A0E8 : 0.0078125          20BFCCE8 : 0.0078125          
+00B0 - Float             20C3A0F0 : 1                  20BFCCF0 : 1                  
+00B4 - Float             20C3A0F4 : 1                  20BFCCF4 : 1                  
+00B8 - 4 Bytes           20C3A0F8 : 0                  20BFCCF8 : 0                  
+00BC - 4 Bytes           20C3A0FC : 0                  20BFCCFC : 0                  
+00C0 - 4 Bytes           20C3A100 : 0                  20BFCD00 : 0                  
+00C4 - Double            20C3A104 : 0.125              20BFCD04 : 0                  
+00CC - 4 Bytes           20C3A10C : 1065353216         20BFCD0C : 0                  
+00D0 - Float             20C3A110 : 71                 20BFCD10 : 0                  
+00D4 - Pointer           20C3A114 : P->3D810625        20BFCD14 : P->3D872B02        
+00D8 - Pointer           20C3A118 : P->3DA3D70A        20BFCD18 : P->3DA3D70A        
+00DC - Float             20C3A11C : -0.1599999964      20BFCD1C : -0.1599999964      
+00E0 - Pointer           20C3A120 : P->40E283E4        20BFCD20 : P->40C5FBA7        
+00E4 - Pointer           20C3A124 : P->3DCCCCCD        20BFCD24 : P->3DCCCCCD        
+00E8 - Pointer           20C3A128 : P->3EB33333        20BFCD28 : P->3EB33333        
+00EC - Byte              20C3A12C : 36                 20BFCD2C : 149                
+00ED - Byte              20C3A12D : 40                 20BFCD2D : 101                
+00EE - Byte              20C3A12E : 62                 20BFCD2E : 40                 
+00EF - Byte              20C3A12F : 62                 20BFCD2F : 62                 
+00F0 - Float             20C3A130 : 7.422350407        20BFCD30 : 1.916027784        
+00F4 - Pointer           20C3A134 : P->40BD6D90        20BFCD34 : P->4085D855        
+00F8 - Float             20C3A138 : 0.25               20BFCD38 : 0.25               
+00FC - Pointer           20C3A13C : P->3EB33333        20BFCD3C : P->3EB33333        
+0100 - Byte              20C3A140 : 36                 20BFCD40 : 149                
+0101 - String            20C3A141 : (>>ƒ               20BFCD41 : e(>J               
+0105 - Byte              20C3A145 : 127                20BFCD45 : 160                
+0106 - Byte              20C3A146 : 180                20BFCD46 : 9                  
+0107 - Byte              20C3A147 : 64                 20BFCD47 : 65                 
+0108 - Float             20C3A148 : 2                  20BFCD48 : 2                  
+010C - Double            20C3A14C : 0.0002929687616187920BFCD4C : 0.000292968761618795
+0114 - Double            20C3A154 : 3.44000053411639   20BFCD54 : 3.44000053408695   
+011C - Double            20C3A15C : 0.0002929687616187920BFCD5C : 0.000292968761618795
+0124 - 4 Bytes (Hex)     20C3A164 : 00010501           20BFCD64 : 00020201           
+0128 - Float             20C3A168 : 800                20BFCD68 : 800                
+012C - Float             20C3A16C : 650                20BFCD6C : 350                
+0130 - 4 Bytes           20C3A170 : 0                  20BFCD70 : 0                  
+0134 - Float             20C3A174 : 0.009999999776     20BFCD74 : 0.009999999776     
+0138 - Pointer           20C3A178 : P->3FEF8034        20BFCD78 : P->4003B646        
+013C - Double            20C3A17C : 0.000030517578125  20BFCD7C : 0.000030517578125  
+0144 - Float             20C3A184 : 1                  20BFCD84 : 1                  
+0148 - Float             20C3A188 : 1                  20BFCD88 : 1                  
+014C - Float             20C3A18C : 1                  20BFCD8C : 1                  
+0150 - Float             20C3A190 : 1                  20BFCD90 : 1                  
+0154 - Float             20C3A194 : 1                  20BFCD94 : 1                  
+0158 - Float             20C3A198 : 1                  20BFCD98 : 1                  
+015C - Float             20C3A19C : 1                  20BFCD9C : 1                  
+0160 - Float             20C3A1A0 : 1                  20BFCDA0 : 1                  
+0164 - 4 Bytes           20C3A1A4 : 1                  20BFCDA4 : 0                  
+0168 - 4 Bytes           20C3A1A8 : 0                  20BFCDA8 : 0                  
+016C - 4 Bytes           20C3A1AC : 0                  20BFCDAC : 1065353216         
+0170 - Double            20C3A1B0 : 69.1199951171876   20BFCDB0 : 54.5280151367188   
+0178 - Double            20C3A1B8 : 0.0027343746925180320BFCDB8 : 0.00273437469251803
+0180 - Float             20C3A1C0 : -4.079999924       20BFCDC0 : -3.799999952       
+0184 - Float             20C3A1C4 : 4.079999924        20BFCDC4 : 3.799999952        
+0188 - Float             20C3A1C8 : 2.519999981        20BFCDC8 : 2.234999895        
+018C - Float             20C3A1CC : 1.769999981        20BFCDCC : 1.519999981        
+0190 - Float             20C3A1D0 : 1.25999999         20BFCDD0 : 1.156000018        
+0194 - Byte              20C3A1D4 : 0                  20BFCDD4 : 231                
+0195 - Byte              20C3A1D5 : 0                  20BFCDD5 : 251                
+0196 - Byte              20C3A1D6 : 128                20BFCDD6 : 105                
+0197 - Byte              20C3A1D7 : 63                 20BFCDD7 : 63                 
+0198 - 4 Bytes           20C3A1D8 : 0                  20BFCDD8 : 0                  
+019C - 4 Bytes           20C3A1DC : 0                  20BFCDDC : 0                  
+01A0 - 4 Bytes           20C3A1E0 : 0                  20BFCDE0 : 0                  
+01A4 - Pointer           20C3A1E4 : P->3C23D70A        20BFCDE4 : P->3C23D70A        
+01A8 - Pointer           20C3A1E8 : P->3C23D70A        20BFCDE8 : P->3C23D70A        
+01AC - Pointer           20C3A1EC : P->3C0B4396        20BFCDEC : P->3C0B4396        
+01B0 - Float             20C3A1F0 : 0.007000000216     20BFCDF0 : 0.007000000216     
+01B4 - Float             20C3A1F4 : 0.00549999997      20BFCDF4 : 0.00549999997      
+01B8 - Float             20C3A1F8 : 0.00400000019      20BFCDF8 : 0.00400000019      
+01BC - Float             20C3A1FC : 0.002499999944     20BFCDFC : 0.002499999944     
+01C0 - Pointer           20C3A200 : P->3C23D70A        20BFCE00 : P->3C23D70A        
+01C4 - Float             20C3A204 : 0.001000000047     20BFCE04 : 0.001000000047     
+01C8 - Float             20C3A208 : 1                  20BFCE08 : 1                  
+01CC - Double            20C3A20C : 0.0065625021158484720BFCE0C : 0.00656250211584847
+01D4 - Double            20C3A214 : 0.0065625021158484720BFCE14 : 0.00656250211584847
+01DC - Double            20C3A21C : 0.0065625021158484720BFCE1C : 0.00656250211584847
+01E4 - Double            20C3A224 : 0.0065625021158484720BFCE24 : 0.00656250211584847
+01EC - Double            20C3A22C : 0.0008789064582742820BFCE2C : 0.000878906458274287
+01F4 - Double            20C3A234 : 0.0008789064582742820BFCE34 : 0.000878906458274287
+01FC - Double            20C3A23C : 0.0008789064582742820BFCE3C : 0.000878906458274287
+0204 - Double            20C3A244 : 0.0008789064582742820BFCE44 : 0.000878906458274287
+020C - Pointer           20C3A24C : P->3F4CCCCD        20BFCE4C : P->3F4CCCCD        
+0210 - Pointer           20C3A250 : P->3C23D70A        20BFCE50 : P->3C23D70A        
+0214 - Float             20C3A254 : 1217               20BFCE54 : 1231               
+0218 - Double            20C3A258 : 0.114000037351216  20BFCE58 : 0.120000019700965  
+0220 - Pointer           20C3A260 : P->3FB9FBE7        20BFCE60 : P->3FBCCCCD        
+0224 - 4 Bytes           20C3A264 : 0                  20BFCE64 : 0                  
+0228 - 4 Bytes           20C3A268 : 0                  20BFCE68 : 0                  
+022C - Pointer           20C3A26C : P->3C23D70A        20BFCE6C : P->3C23D70A        
+0230 - Float             20C3A270 : 54.12755203        20BFCE70 : -108.2551041       
+0234 - Float             20C3A274 : 108.2551041        20BFCE74 : -108.2551041       
+0238 - Float             20C3A278 : 0.002000000095     20BFCE78 : 0.002000000095     
+023C - Float             20C3A27C : 0.3400000036       20BFCE7C : 0.3400000036       
+0240 - Float             20C3A280 : 0.75               20BFCE80 : 0.75               
+0244 - Float             20C3A284 : 0.75               20BFCE84 : 0.75               
+0248 - 4 Bytes           20C3A288 : 0                  20BFCE88 : 0                  
+024C - 4 Bytes           20C3A28C : 0                  20BFCE8C : 0                  
+0250 - 4 Bytes           20C3A290 : 0                  20BFCE90 : 0                  
+0254 - Pointer           20C3A294 : P->3D810625        20BFCE94 : P->3D872B02        
+0258 - Float             20C3A298 : 800                20BFCE98 : 800                
+025C - String            20C3A29C : fff?               20BFCE9C : fff?               
+0261 - Byte              20C3A2A1 : 0                  20BFCEA1 : 0                  
+0262 - Byte              20C3A2A2 : 128                20BFCEA2 : 128                
+0263 - Byte              20C3A2A3 : 63                 20BFCEA3 : 63                 
+0264 - Float             20C3A2A4 : 1                  20BFCEA4 : 1                  
+0268 - Double            20C3A2A8 : 4.56000233689882   20BFCEA8 : 4.56000233689882   
+0270 - Float             20C3A2B0 : 9                  20BFCEB0 : 12                 
+0274 - Float             20C3A2B4 : 36                 20BFCEB4 : 36                 
+0278 - 4 Bytes           20C3A2B8 : 0                  20BFCEB8 : 0                  
+027C - 4 Bytes           20C3A2BC : 0                  20BFCEBC : 0                  
+0280 - String            20C3A2C0 : DCH_EVO1           20BFCEC0 : FIA_COU            
+0288 - CC                20C3A2C8 : 2463               20BFCEC8 : 1996               
+028C - PS                20C3A2CC : 194                20BFCECC : 220                
+0290 - HP RPM            20C3A2D0 : 6800               20BFCED0 : 5750               
+0294 - k-gm              20C3A2D4 : 24                 20BFCED4 : 31                 
+0298 - Torque RPM        20C3A2D8 : 5000               20BFCED8 : 2500               
+029C - Float             20C3A2DC : -4.079999924       20BFCEDC : -3.799999952       
+02A0 - Float             20C3A2E0 : 4.079999924        20BFCEE0 : 3.799999952        
+02A4 - Float             20C3A2E4 : 2.519999981        20BFCEE4 : 2.234999895        
+02A8 - Float             20C3A2E8 : 1.769999981        20BFCEE8 : 1.519999981        
+02AC - Float             20C3A2EC : 1.25999999         20BFCEEC : 1.156000018        
+02B0 - Byte              20C3A2F0 : 0                  20BFCEF0 : 231                
+02B1 - Byte              20C3A2F1 : 0                  20BFCEF1 : 251                
+02B2 - Byte              20C3A2F2 : 128                20BFCEF2 : 105                
+02B3 - Byte              20C3A2F3 : 63                 20BFCEF3 : 63                 
+02B4 - 4 Bytes           20C3A2F4 : 0                  20BFCEF4 : 0                  
+02B8 - 4 Bytes           20C3A2F8 : 0                  20BFCEF8 : 0                  
+02BC - Double            20C3A2FC : 69.1199951171875   20BFCEFC : 54.5280151367188   
+02C4 - Sound?            20C3A304 : 1                  20BFCF04 : 256                
+02C8 - Weight            20C3A308 : 1320               20BFCF08 : 1330               
+02CC - 4 Bytes           20C3A30C : 4430               20BFCF0C : 4250               
+02D0 - 4 Bytes           20C3A310 : 1342               20BFCF10 : 1355               
+02D4 - 4 Bytes           20C3A314 : 1720               20BFCF14 : 1765               
+02D8 - 4 Bytes           20C3A318 : 5                  20BFCF18 : 5                  
+02DC - Price             20C3A31C : 9350               20BFCF1C : 3890               
+02E0 - Category          20C3A320 : 0                  20BFCF20 : 0                  
+02E4 - 4 Bytes           20C3A324 : 0                  20BFCF24 : 0                  
+02E8 - 4 Bytes           20C3A328 : 0                  20BFCF28 : 0                  
+02EC - 4 Bytes           20C3A32C : 1                  20BFCF2C : 0                  
+02F0 - 4 Bytes           20C3A330 : 0                  20BFCF30 : 8191               
+02F4 - Manufacture       20C3A334 : FF011100           20BFCF34 : FF000B00           
+02F8 - String            20C3A338 : 190E EVOLUTION I   20BFCF38 : COUPE FIAT TURBOPLUS   
+0310 - String            20C3A350 : DCH_EVO1           20BFCF50 : FIA_COU            
+0319 - Byte              20C3A359 : 0                  20BFCF59 : 0                  
+031A - Byte              20C3A35A : 0                  20BFCF5A : 0                  
+031B - Byte              20C3A35B : 0                  20BFCF5B : 0                  
+031C - Float             20C3A35C : 12800              20BFCF5C : 12800              
+0320 - Float             20C3A360 : 12800              20BFCF60 : 12800              
+0324 - Float             20C3A364 : 7500               20BFCF64 : 6500               
+0328 - Float             20C3A368 : 235.1999969        20BFCF68 : 303.7999878        
+032C - Double            20C3A36C : 0.0000331625995530220BFCF6C : 0.000141287134723708
+0334 - Double            20C3A374 : 0.0007519532212798620BFCF74 : 0.00237146997303259
+033C - Double            20C3A37C : 0.0029296879609592 20BFCF7C : 0.00781250184744544
+0344 - Byte              20C3A384 : 29                 20BFCF84 : 202                
+0345 - Byte              20C3A385 : 34                 20BFCF85 : 25                 
+0346 - 2 Bytes           20C3A386 : 16242              20BFCF86 : 16254              
+0348 - Float             20C3A388 : 0.9604169726       20BFCF88 : 0.9906449914       
+034C - Float             20C3A38C : 0.9670829773       20BFCF8C : 0.9864519835       
+0350 - Double            20C3A390 : 0.0069791870115417 20BFCF90 : 0.00615925061691087
+0358 - Byte              20C3A398 : 125                20BFCF98 : 10                 
+0359 - String            20C3A399 : w?                20BFCF99 : Út?]               
+035D - Byte              20C3A39D : 0                  20BFCF9D : 140                
+035E - Byte              20C3A39E : 128                20BFCF9E : 113                
+035F - Byte              20C3A39F : 63                 20BFCF9F : 63                 
+0360 - Double            20C3A3A0 : 0.0049218768179889620BFCFA0 : 0.00133064039768097
+0368 - Double            20C3A3A8 : 0.0016080785986772120BFCFA8 : 0.0000670996521931088
+0370 - Byte              20C3A3B0 : 195                20BFCFB0 : 230                
+0371 - String            20C3A3B1 : õH?"              20BFCFB1 : ê¿>
+Ö              
+0376 - Byte              20C3A3B6 : 50                 20BFCFB6 : 72                 
+0377 - Byte              20C3A3B7 : 63                 20BFCFB7 : 62                 
+0378 - Pointer           20C3A3B8 : P->3F147AE1        20BFCFB8 : P->3649539C        
+037C - String            20C3A3BC : %–ì>)              20BFCFBC : œSI6œ              
+0381 - Byte              20C3A3C1 : 92                 20BFCFC1 : 83                 
+0382 - Byte              20C3A3C2 : 159                20BFCFC2 : 73                 
+0383 - Byte              20C3A3C3 : 62                 20BFCFC3 : 54                 
+0384 - 4 Bytes           20C3A3C4 : 1042983617         20BFCFC4 : 910775196          
+0388 - 4 Bytes           20C3A3C8 : 0                  20BFCFC8 : 910775196          
+038C - 4 Bytes           20C3A3CC : 0                  20BFCFCC : 910775196          
+0390 - 4 Bytes           20C3A3D0 : 0                  20BFCFD0 : 910775196          
+0394 - 4 Bytes           20C3A3D4 : 0                  20BFCFD4 : 910775196          
+0398 - 4 Bytes           20C3A3D8 : 0                  20BFCFD8 : 910775196          
+039C - 4 Bytes           20C3A3DC : 0                  20BFCFDC : 910775196          
+03A0 - 4 Bytes           20C3A3E0 : 0                  20BFCFE0 : 910775196          
+03A4 - 4 Bytes           20C3A3E4 : 0                  20BFCFE4 : 910775196          
+03A8 - 4 Bytes           20C3A3E8 : 0                  20BFCFE8 : 910775196          
+03AC - Double            20C3A3EC : 0.0027343747006671 20BFCFEC : 0.0027343747006671 
+03B4 - Float             20C3A3F4 : 1                  20BFCFF4 : 1                  
+03B8 - Pointer           20C3A3F8 : P->3D75C28F        20BFCFF8 : P->3E1EB852        
+03BC - Double            20C3A3FC : 853.33349609375    20BFCFFC : 3.14285659790039   
+03C4 - Pointer           20C3A404 : P->00000000        20BFD004 : P->3FB33333        
+03C8 - Float             20C3A408 : 10                 20BFD008 : 10                 
+03CC - Byte              20C3A40C : 174                20BFD00C : 174                
+03CD - Byte              20C3A40D : 71                 20BFD00D : 71                 
+03CE - Byte              20C3A40E : 97                 20BFD00E : 97                 
+03CF - Byte              20C3A40F : 62                 20BFD00F : 62                 
+03D0 - 4 Bytes           20C3A410 : 0                  20BFD010 : 0                  
+03D4 - Float             20C3A414 : 10                 20BFD014 : 10                 
+03D8 - 4 Bytes           20C3A418 : 1796               20BFD018 : 1028               
+03DC - String            20C3A41C : DCH_EVO1           20BFD01C : FIA_COU            
+03E5 - Byte              20C3A425 : 0                  20BFD025 : 0                  
+03E6 - Byte              20C3A426 : 0                  20BFD026 : 0                  
+03E7 - Byte              20C3A427 : 0                  20BFD027 : 0                  
+03E8 - Float             20C3A428 : 12800              20BFD028 : 12800              
+03EC - Float             20C3A42C : 12800              20BFD02C : 12800              
+03F0 - Float             20C3A430 : 7500               20BFD030 : 6500               
+03F4 - Pointer           20C3A434 : P->437481C2        20BFD034 : P->439CA97A        
+03F8 - Double            20C3A438 : 0.0000331625995530220BFD038 : 0.000141287134723708
+0400 - Double            20C3A440 : 0.0007519532212798620BFD040 : 0.00237146997303259
+0408 - Double            20C3A448 : 0.0029296879609592 20BFD048 : 0.00781250184744544
+0410 - Byte              20C3A450 : 29                 20BFD050 : 202                
+0411 - Byte              20C3A451 : 34                 20BFD051 : 25                 
+0412 - 2 Bytes           20C3A452 : 16242              20BFD052 : 16254              
+0414 - Float             20C3A454 : 0.9604169726       20BFD054 : 0.9906449914       
+0418 - Float             20C3A458 : 0.9670829773       20BFD058 : 0.9864519835       
+041C - Double            20C3A45C : 0.0069791870115417 20BFD05C : 0.00615925061691087
+0424 - Byte              20C3A464 : 125                20BFD064 : 10                 
+0425 - String            20C3A465 : w?                20BFD065 : Út?]               
+0429 - Byte              20C3A469 : 0                  20BFD069 : 140                
+042A - Byte              20C3A46A : 128                20BFD06A : 113                
+042B - Byte              20C3A46B : 63                 20BFD06B : 63                 
+042C - Double            20C3A46C : 0.0049218768179889620BFD06C : 0.00133064039768097
+0434 - Double            20C3A474 : 0.0016080785986772120BFD074 : 0.0000670996521931088
+043C - Byte              20C3A47C : 195                20BFD07C : 230                
+043D - String            20C3A47D : õH?"              20BFD07D : ê¿>
+Ö              
+0442 - Byte              20C3A482 : 50                 20BFD082 : 72                 
+0443 - Byte              20C3A483 : 63                 20BFD083 : 62                 
+0444 - Pointer           20C3A484 : P->3F147AE1        20BFD084 : P->3649539C        
+0448 - String            20C3A488 : %–ì>)              20BFD088 : œSI6œ              
+044D - Byte              20C3A48D : 92                 20BFD08D : 83                 
+044E - Byte              20C3A48E : 159                20BFD08E : 73                 
+044F - Byte              20C3A48F : 62                 20BFD08F : 54                 
+0450 - 4 Bytes           20C3A490 : 1042983617         20BFD090 : 910775196          
+0454 - 4 Bytes           20C3A494 : 0                  20BFD094 : 910775196          
+0458 - 4 Bytes           20C3A498 : 0                  20BFD098 : 910775196          
+045C - 4 Bytes           20C3A49C : 0                  20BFD09C : 910775196          
+0460 - 4 Bytes           20C3A4A0 : 0                  20BFD0A0 : 910775196          
+0464 - 4 Bytes           20C3A4A4 : 0                  20BFD0A4 : 910775196          
+0468 - 4 Bytes           20C3A4A8 : 0                  20BFD0A8 : 910775196          
+046C - 4 Bytes           20C3A4AC : 0                  20BFD0AC : 910775196          
+0470 - 4 Bytes           20C3A4B0 : 0                  20BFD0B0 : 910775196          
+0474 - 4 Bytes           20C3A4B4 : 0                  20BFD0B4 : 910775196          
+0478 - Double            20C3A4B8 : 0.0027343747006671 20BFD0B8 : 0.0027343747006671 
+0480 - Float             20C3A4C0 : 1                  20BFD0C0 : 1                  
+0484 - Pointer           20C3A4C4 : P->3D7F7C17        20BFD0C4 : P->3E23B221        
+0488 - Double            20C3A4C8 : 449.939453125      20BFD0C8 : 1.38461494445801   
+0490 - Double            20C3A4D0 : 0.0019986517727375 20BFD0D0 : 7.05641269356012   
+0498 - Byte              20C3A4D8 : 174                20BFD0D8 : 174                
+0499 - Byte              20C3A4D9 : 71                 20BFD0D9 : 71                 
+049A - Byte              20C3A4DA : 97                 20BFD0DA : 97                 
+049B - Byte              20C3A4DB : 62                 20BFD0DB : 62                 
+049C - 4 Bytes           20C3A4DC : 0                  20BFD0DC : 0                  
+04A0 - Float             20C3A4E0 : 10                 20BFD0E0 : 10                 
+04A4 - 4 Bytes           20C3A4E4 : 1796               20BFD0E4 : 1028               
+04A8 - String            20C3A4E8 : DCH_EVO1           20BFD0E8 : FIA_COU            
+04B1 - Byte              20C3A4F1 : 0                  20BFD0F1 : 0                  
+04B2 - Byte              20C3A4F2 : 0                  20BFD0F2 : 0                  
+04B3 - Byte              20C3A4F3 : 0                  20BFD0F3 : 0                  
+04B4 - Float             20C3A4F4 : 12800              20BFD0F4 : 12800              
+04B8 - Float             20C3A4F8 : 12800              20BFD0F8 : 12800              
+04BC - Float             20C3A4FC : 7500               20BFD0FC : 6500               
+04C0 - Pointer           20C3A500 : P->437DD051        20BFD100 : P->43A16C8D        
+04C4 - Double            20C3A504 : 0.0000331625995530220BFD104 : 0.000141287134723708
+04CC - Double            20C3A50C : 0.0007519532212798620BFD10C : 0.00237146997303259
+04D4 - Double            20C3A514 : 0.0029296879609592 20BFD114 : 0.00781250184744544
+04DC - Byte              20C3A51C : 29                 20BFD11C : 202                
+04DD - Byte              20C3A51D : 34                 20BFD11D : 25                 
+04DE - 2 Bytes           20C3A51E : 16242              20BFD11E : 16254              
+04E0 - Float             20C3A520 : 0.9604169726       20BFD120 : 0.9906449914       
+04E4 - Float             20C3A524 : 0.9670829773       20BFD124 : 0.9864519835       
+04E8 - Double            20C3A528 : 0.0069791870115417 20BFD128 : 0.00615925061691087
+04F0 - Byte              20C3A530 : 125                20BFD130 : 10                 
+04F1 - String            20C3A531 : w?                20BFD131 : Út?]               
+04F5 - Byte              20C3A535 : 0                  20BFD135 : 140                
+04F6 - Byte              20C3A536 : 128                20BFD136 : 113                
+04F7 - Byte              20C3A537 : 63                 20BFD137 : 63                 
+04F8 - Double            20C3A538 : 0.0049218768179889620BFD138 : 0.00133064039768097
+0500 - Double            20C3A540 : 0.0016080785986772120BFD140 : 0.0000670996521931088
+0508 - Byte              20C3A548 : 195                20BFD148 : 230                
+0509 - String            20C3A549 : õH?"              20BFD149 : ê¿>
+Ö              
+050E - Byte              20C3A54E : 50                 20BFD14E : 72                 
+050F - Byte              20C3A54F : 63                 20BFD14F : 62                 
+0510 - Pointer           20C3A550 : P->3F147AE1        20BFD150 : P->3649539C        
+0514 - String            20C3A554 : %–ì>)              20BFD154 : œSI6œ              
+0519 - Byte              20C3A559 : 92                 20BFD159 : 83                 
+051A - Byte              20C3A55A : 159                20BFD15A : 73                 
+051B - Byte              20C3A55B : 62                 20BFD15B : 54                 
+051C - 4 Bytes           20C3A55C : 1042983617         20BFD15C : 910775196          
+0520 - 4 Bytes           20C3A560 : 0                  20BFD160 : 910775196          
+0524 - 4 Bytes           20C3A564 : 0                  20BFD164 : 910775196          
+0528 - 4 Bytes           20C3A568 : 0                  20BFD168 : 910775196          
+052C - 4 Bytes           20C3A56C : 0                  20BFD16C : 910775196          
+0530 - 4 Bytes           20C3A570 : 0                  20BFD170 : 910775196          
+0534 - 4 Bytes           20C3A574 : 0                  20BFD174 : 910775196          
+0538 - 4 Bytes           20C3A578 : 0                  20BFD178 : 910775196          
+053C - 4 Bytes           20C3A57C : 0                  20BFD17C : 910775196          
+0540 - 4 Bytes           20C3A580 : 0                  20BFD180 : 910775196          
+0544 - Double            20C3A584 : 0.0027343747006671 20BFD184 : 0.0027343747006671 
+054C - Float             20C3A58C : 1                  20BFD18C : 1                  
+0550 - Pointer           20C3A590 : P->3D849ACF        20BFD190 : P->3E28ABF1        
+0554 - Double            20C3A594 : 184.888916015625   20BFD194 : 0.488372087478638  
+055C - Double            20C3A59C : 0.0051415599882602720BFD19C : 9.16589545786381   
+0564 - Byte              20C3A5A4 : 174                20BFD1A4 : 174                
+0565 - Byte              20C3A5A5 : 71                 20BFD1A5 : 71                 
+0566 - Byte              20C3A5A6 : 97                 20BFD1A6 : 97                 
+0567 - Byte              20C3A5A7 : 62                 20BFD1A7 : 62                 
+0568 - 4 Bytes           20C3A5A8 : 0                  20BFD1A8 : 0                  
+056C - Float             20C3A5AC : 10                 20BFD1AC : 10                 
+0570 - 4 Bytes           20C3A5B0 : 1796               20BFD1B0 : 1028               
+0574 - String            20C3A5B4 : DCH_EVO1           20BFD1B4 : FIA_COU            
+057D - Byte              20C3A5BD : 0                  20BFD1BD : 0                  
+057E - Byte              20C3A5BE : 0                  20BFD1BE : 0                  
+057F - Byte              20C3A5BF : 0                  20BFD1BF : 0                  
+0580 - Float             20C3A5C0 : 12800              20BFD1C0 : 12800              
+0584 - Float             20C3A5C4 : 12800              20BFD1C4 : 12800              
+0588 - Float             20C3A5C8 : 7500               20BFD1C8 : 6500               
+058C - Pointer           20C3A5CC : P->43838F6F        20BFD1CC : P->43A62FA1        
+0590 - Double            20C3A5D0 : 0.0000331625995530220BFD1D0 : 0.000141287134723708
+0598 - Double            20C3A5D8 : 0.0007519532212798620BFD1D8 : 0.00237146997303259
+05A0 - Double            20C3A5E0 : 0.0029296879609592 20BFD1E0 : 0.00781250184744544
+05A8 - Byte              20C3A5E8 : 29                 20BFD1E8 : 202                
+05A9 - Byte              20C3A5E9 : 34                 20BFD1E9 : 25                 
+05AA - 2 Bytes           20C3A5EA : 16242              20BFD1EA : 16254              
+05AC - Float             20C3A5EC : 0.9604169726       20BFD1EC : 0.9906449914       
+05B0 - Float             20C3A5F0 : 0.9670829773       20BFD1F0 : 0.9864519835       
+05B4 - Double            20C3A5F4 : 0.0069791870115417 20BFD1F4 : 0.00615925061691087
+05BC - Byte              20C3A5FC : 125                20BFD1FC : 10                 
+05BD - String            20C3A5FD : w?                20BFD1FD : Út?]               
+05C1 - Byte              20C3A601 : 0                  20BFD201 : 140                
+05C2 - Byte              20C3A602 : 128                20BFD202 : 113                
+05C3 - Byte              20C3A603 : 63                 20BFD203 : 63                 
+05C4 - Double            20C3A604 : 0.0049218768179889620BFD204 : 0.00133064039768097
+05CC - Double            20C3A60C : 0.0016080785986772120BFD20C : 0.0000670996521931088
+05D4 - Byte              20C3A614 : 195                20BFD214 : 230                
+05D5 - String            20C3A615 : õH?"              20BFD215 : ê¿>
+Ö              
+05DA - Byte              20C3A61A : 50                 20BFD21A : 72                 
+05DB - Byte              20C3A61B : 63                 20BFD21B : 62                 
+05DC - Pointer           20C3A61C : P->3F147AE1        20BFD21C : P->3649539C        
+05E0 - String            20C3A620 : %–ì>)              20BFD220 : œSI6œ              
+05E5 - Byte              20C3A625 : 92                 20BFD225 : 83                 
+05E6 - Byte              20C3A626 : 159                20BFD226 : 73                 
+05E7 - Byte              20C3A627 : 62                 20BFD227 : 54                 
+05E8 - 4 Bytes           20C3A628 : 1042983617         20BFD228 : 910775196          
+05EC - 4 Bytes           20C3A62C : 0                  20BFD22C : 910775196          
+05F0 - 4 Bytes           20C3A630 : 0                  20BFD230 : 910775196          
+05F4 - 4 Bytes           20C3A634 : 0                  20BFD234 : 910775196          
+05F8 - 4 Bytes           20C3A638 : 0                  20BFD238 : 910775196          
+05FC - 4 Bytes           20C3A63C : 0                  20BFD23C : 910775196          
+0600 - 4 Bytes           20C3A640 : 0                  20BFD240 : 910775196          
+0604 - 4 Bytes           20C3A644 : 0                  20BFD244 : 910775196          
+0608 - 4 Bytes           20C3A648 : 0                  20BFD248 : 910775196          
+060C - 4 Bytes           20C3A64C : 0                  20BFD24C : 910775196          
+0610 - Double            20C3A650 : 0.0027343747006671 20BFD250 : 0.0027343747006671 
+0618 - Float             20C3A658 : 1                  20BFD258 : 1                  
+061C - Pointer           20C3A65C : P->3D897793        20BFD25C : P->3E2DA5C0        
+0620 - Double            20C3A660 : 85.3333129882813   20BFD260 : 0.220744729042053  
+0628 - Double            20C3A668 : 0.0094150677323341420BFD268 : 11.6992893201113   
+0630 - Byte              20C3A670 : 174                20BFD270 : 174                
+0631 - Byte              20C3A671 : 71                 20BFD271 : 71                 
+0632 - Byte              20C3A672 : 97                 20BFD272 : 97                 
+0633 - Byte              20C3A673 : 62                 20BFD273 : 62                 
+0634 - 4 Bytes           20C3A674 : 0                  20BFD274 : 0                  
+0638 - Float             20C3A678 : 10                 20BFD278 : 10                 
+063C - 4 Bytes           20C3A67C : 1796               20BFD27C : 1028               
+0640 - String            20C3A680 : DCH_EVO1           20BFD280 : FIA_COU            
+0649 - Byte              20C3A689 : 0                  20BFD289 : 0                  
+064A - Byte              20C3A68A : 0                  20BFD28A : 0                  
+064B - Byte              20C3A68B : 0                  20BFD28B : 0                  
+064C - Float             20C3A68C : 12800              20BFD28C : 12800              
+0650 - Float             20C3A690 : 12800              20BFD290 : 12800              
+0654 - Float             20C3A694 : 8000               20BFD294 : 7000               
+0658 - Pointer           20C3A698 : P->438836B7        20BFD298 : P->43AAF2B4        
+065C - Pointer           20C3A69C : P->3E4A3D71        20BFD29C : P->3EB9CE6C        
+0660 - Double            20C3A6A0 : 0.0000331625995530220BFD2A0 : 0.000141287134723708
+0668 - Double            20C3A6A8 : 0.0007519532212798620BFD2A8 : 0.00237146997303259
+0670 - Double            20C3A6B0 : 0.0029296879609592 20BFD2B0 : 0.00781250184744544
+0678 - Byte              20C3A6B8 : 29                 20BFD2B8 : 202                
+0679 - Byte              20C3A6B9 : 34                 20BFD2B9 : 25                 
+067A - 2 Bytes           20C3A6BA : 16242              20BFD2BA : 16254              
+067C - Float             20C3A6BC : 0.9604169726       20BFD2BC : 0.9906449914       
+0680 - Float             20C3A6C0 : 0.9670829773       20BFD2C0 : 0.9864519835       
+0684 - Double            20C3A6C4 : 0.0069791870115417 20BFD2C4 : 0.00615925061691087
+068C - Byte              20C3A6CC : 125                20BFD2CC : 10                 
+068D - String            20C3A6CD : w?                20BFD2CD : Út?Ð               
+0691 - Byte              20C3A6D1 : 0                  20BFD2D1 : 209                
+0692 - Byte              20C3A6D2 : 128                20BFD2D2 : 106                
+0693 - Byte              20C3A6D3 : 63                 20BFD2D3 : 63                 
+0694 - Double            20C3A6D4 : 0.0049218768179889620BFD2D4 : 0.000971851520051745
+069C - Double            20C3A6DC : 0.0011527969013509920BFD2DC : 0.0000563315478762002
+06A4 - Double            20C3A6E4 : 0.0002139882705060620BFD2E4 : 8.96025117238502E-9
+06AC - Pointer           20C3A6EC : P->3F0F685A        20BFD2EC : P->3649539C        
+06B0 - Pointer           20C3A6F0 : P->3EE4810A        20BFD2F0 : P->3649539C        
+06B4 - 4 Bytes           20C3A6F4 : 1050274425         20BFD2F4 : 910775196          
+06B8 - 4 Bytes           20C3A6F8 : 1042601499         20BFD2F8 : 910775196          
+06BC - 4 Bytes           20C3A6FC : 0                  20BFD2FC : 910775196          
+06C0 - 4 Bytes           20C3A700 : 0                  20BFD300 : 910775196          
+06C4 - 4 Bytes           20C3A704 : 0                  20BFD304 : 910775196          
+06C8 - 4 Bytes           20C3A708 : 0                  20BFD308 : 910775196          
+06CC - 4 Bytes           20C3A70C : 0                  20BFD30C : 910775196          
+06D0 - 4 Bytes           20C3A710 : 0                  20BFD310 : 910775196          
+06D4 - 4 Bytes           20C3A714 : 0                  20BFD314 : 910775196          
+06D8 - 4 Bytes           20C3A718 : 0                  20BFD318 : 910775196          
+06DC - Double            20C3A71C : 0.0027343747006671 20BFD31C : 0.0027343747006671 
+06E4 - Float             20C3A724 : 1                  20BFD324 : 1                  
+06E8 - Pointer           20C3A728 : P->3D8E5456        20BFD328 : P->3E329F8F        
+06EC - Double            20C3A72C : 85.3333129882813   20BFD32C : 0.43137264251709   
+06F4 - Double            20C3A734 : 0.0119791701436043 20BFD334 : 6.6509828568995    
+06FC - Byte              20C3A73C : 174                20BFD33C : 174                
+06FD - Byte              20C3A73D : 71                 20BFD33D : 71                 
+06FE - Byte              20C3A73E : 97                 20BFD33E : 97                 
+06FF - Byte              20C3A73F : 62                 20BFD33F : 62                 
+0700 - 4 Bytes           20C3A740 : 0                  20BFD340 : 0                  
+0704 - Float             20C3A744 : 10                 20BFD344 : 10                 
+0708 - 4 Bytes           20C3A748 : 2052               20BFD348 : 1284               
+070C - String            20C3A74C : DCH_EVO1           20BFD34C : FIA_COU            
+0715 - Byte              20C3A755 : 0                  20BFD355 : 0                  
+0716 - Byte              20C3A756 : 0                  20BFD356 : 0                  
+0717 - Byte              20C3A757 : 0                  20BFD357 : 0                  
+0718 - Float             20C3A758 : 12800              20BFD358 : 12800              
+071C - Float             20C3A75C : 12800              20BFD35C : 12800              
+0720 - Float             20C3A760 : 8000               20BFD360 : 7000               
+0724 - Pointer           20C3A764 : P->438CDDFE        20BFD364 : P->43AFB5C8        
+0728 - Pointer           20C3A768 : P->3E4A3D71        20BFD368 : P->3EB9CE6C        
+072C - Double            20C3A76C : 0.0000331625995530220BFD36C : 0.000141287134723708
+0734 - Double            20C3A774 : 0.0007519532212798620BFD374 : 0.00237146997303259
+073C - Double            20C3A77C : 0.0029296879609592 20BFD37C : 0.00781250184744544
+0744 - Byte              20C3A784 : 29                 20BFD384 : 202                
+0745 - Byte              20C3A785 : 34                 20BFD385 : 25                 
+0746 - 2 Bytes           20C3A786 : 16242              20BFD386 : 16254              
+0748 - Float             20C3A788 : 0.9604169726       20BFD388 : 0.9906449914       
+074C - Float             20C3A78C : 0.9670829773       20BFD38C : 0.9864519835       
+0750 - Double            20C3A790 : 0.0069791870115417 20BFD390 : 0.00615925061691087
+0758 - Byte              20C3A798 : 125                20BFD398 : 10                 
+0759 - String            20C3A799 : w?                20BFD399 : Út?Ð               
+075D - Byte              20C3A79D : 0                  20BFD39D : 209                
+075E - Byte              20C3A79E : 128                20BFD39E : 106                
+075F - Byte              20C3A79F : 63                 20BFD39F : 63                 
+0760 - Double            20C3A7A0 : 0.0049218768179889620BFD3A0 : 0.000971851520051745
+0768 - Double            20C3A7A8 : 0.0011527969013509920BFD3A8 : 0.0000563315478762002
+0770 - Double            20C3A7B0 : 0.0002139882705060620BFD3B0 : 8.96025117238502E-9
+0778 - Pointer           20C3A7B8 : P->3F0F685A        20BFD3B8 : P->3649539C        
+077C - Pointer           20C3A7BC : P->3EE4810A        20BFD3BC : P->3649539C        
+0780 - 4 Bytes           20C3A7C0 : 1050274425         20BFD3C0 : 910775196          
+0784 - 4 Bytes           20C3A7C4 : 1042601499         20BFD3C4 : 910775196          
+0788 - 4 Bytes           20C3A7C8 : 0                  20BFD3C8 : 910775196          
+078C - 4 Bytes           20C3A7CC : 0                  20BFD3CC : 910775196          
+0790 - 4 Bytes           20C3A7D0 : 0                  20BFD3D0 : 910775196          
+0794 - 4 Bytes           20C3A7D4 : 0                  20BFD3D4 : 910775196          
+0798 - 4 Bytes           20C3A7D8 : 0                  20BFD3D8 : 910775196          
+079C - 4 Bytes           20C3A7DC : 0                  20BFD3DC : 910775196          
+07A0 - 4 Bytes           20C3A7E0 : 0                  20BFD3E0 : 910775196          
+07A4 - 4 Bytes           20C3A7E4 : 0                  20BFD3E4 : 910775196          
+07A8 - Double            20C3A7E8 : 0.0027343747006671 20BFD3E8 : 0.0027343747006671 
+07B0 - Float             20C3A7F0 : 1                  20BFD3F0 : 1                  
+07B4 - Byte              20C3A7F4 : 26                 20BFD3F4 : 95                 
+07B5 - Byte              20C3A7F5 : 49                 20BFD3F5 : 153                
+07B6 - 2 Bytes           20C3A7F6 : 15763              20BFD3F6 : 15927              
+07B8 - Double            20C3A7F8 : 46.2222290039063   20BFD3F8 : 0.215909123420715  
+07C0 - Double            20C3A800 : 0.0151537731289864 20BFD400 : 7.56363773420453   
+07C8 - Byte              20C3A808 : 174                20BFD408 : 174                
+07C9 - Byte              20C3A809 : 71                 20BFD409 : 71                 
+07CA - Byte              20C3A80A : 97                 20BFD40A : 97                 
+07CB - Byte              20C3A80B : 62                 20BFD40B : 62                 
+07CC - 4 Bytes           20C3A80C : 0                  20BFD40C : 0                  
+07D0 - Float             20C3A810 : 10                 20BFD410 : 10                 
+07D4 - 4 Bytes           20C3A814 : 2052               20BFD414 : 1284               
+07D8 - String            20C3A818 : DCH_EVO1           20BFD418 : FIA_COU            
+07E1 - Byte              20C3A821 : 0                  20BFD421 : 0                  
+07E2 - Byte              20C3A822 : 0                  20BFD422 : 0                  
+07E3 - Byte              20C3A823 : 0                  20BFD423 : 0                  
+07E4 - Float             20C3A824 : 12800              20BFD424 : 12800              
+07E8 - Float             20C3A828 : 12800              20BFD428 : 12800              
+07EC - Float             20C3A82C : 8000               20BFD42C : 7000               
+07F0 - Pointer           20C3A830 : P->43918546        20BFD430 : P->43B478DB        
+07F4 - Pointer           20C3A834 : P->3E4A3D71        20BFD434 : P->3EB9CE6C        
+07F8 - Double            20C3A838 : 0.0000331625995530220BFD438 : 0.000141287134723708
+0800 - Double            20C3A840 : 0.0007519532212798620BFD440 : 0.00237146997303259
+0808 - Double            20C3A848 : 0.0029296879609592 20BFD448 : 0.00781250184744544
+0810 - Byte              20C3A850 : 29                 20BFD450 : 202                
+0811 - Byte              20C3A851 : 34                 20BFD451 : 25                 
+0812 - 2 Bytes           20C3A852 : 16242              20BFD452 : 16254              
+0814 - Float             20C3A854 : 0.9604169726       20BFD454 : 0.9906449914       
+0818 - Float             20C3A858 : 0.9670829773       20BFD458 : 0.9864519835       
+081C - Double            20C3A85C : 0.0069791870115417 20BFD45C : 0.00615925061691087
+0824 - Byte              20C3A864 : 125                20BFD464 : 10                 
+0825 - String            20C3A865 : w?                20BFD465 : Út?Ð               
+0829 - Byte              20C3A869 : 0                  20BFD469 : 209                
+082A - Byte              20C3A86A : 128                20BFD46A : 106                
+082B - Byte              20C3A86B : 63                 20BFD46B : 63                 
+082C - Double            20C3A86C : 0.0049218768179889620BFD46C : 0.000971851520051745
+0834 - Double            20C3A874 : 0.0011527969013509920BFD474 : 0.0000563315478762002
+083C - Double            20C3A87C : 0.0002139882705060620BFD47C : 8.96025117238502E-9
+0844 - Pointer           20C3A884 : P->3F0F685A        20BFD484 : P->3649539C        
+0848 - Pointer           20C3A888 : P->3EE4810A        20BFD488 : P->3649539C        
+084C - 4 Bytes           20C3A88C : 1050274425         20BFD48C : 910775196          
+0850 - 4 Bytes           20C3A890 : 1042601499         20BFD490 : 910775196          
+0854 - 4 Bytes           20C3A894 : 0                  20BFD494 : 910775196          
+0858 - 4 Bytes           20C3A898 : 0                  20BFD498 : 910775196          
+085C - 4 Bytes           20C3A89C : 0                  20BFD49C : 910775196          
+0860 - 4 Bytes           20C3A8A0 : 0                  20BFD4A0 : 910775196          
+0864 - 4 Bytes           20C3A8A4 : 0                  20BFD4A4 : 910775196          
+0868 - 4 Bytes           20C3A8A8 : 0                  20BFD4A8 : 910775196          
+086C - 4 Bytes           20C3A8AC : 0                  20BFD4AC : 910775196          
+0870 - 4 Bytes           20C3A8B0 : 0                  20BFD4B0 : 910775196          
+0874 - Double            20C3A8B4 : 0.0027343747006671 20BFD4B4 : 0.0027343747006671 
+087C - Float             20C3A8BC : 1                  20BFD4BC : 1                  
+0880 - Byte              20C3A8C0 : 222                20BFD4C0 : 46                 
+0881 - Byte              20C3A8C1 : 13                 20BFD4C1 : 147                
+0882 - Byte              20C3A8C2 : 152                20BFD4C2 : 60                 
+0883 - Byte              20C3A8C3 : 61                 20BFD4C3 : 62                 
+0884 - Double            20C3A8C4 : 26.6666717529297   20BFD4C4 : 0.116525411605835  
+088C - Double            20C3A8CC : 0.0202381014823914 20BFD4CC : 8.70508766442537   
+0894 - Byte              20C3A8D4 : 174                20BFD4D4 : 174                
+0895 - Byte              20C3A8D5 : 71                 20BFD4D5 : 71                 
+0896 - Byte              20C3A8D6 : 97                 20BFD4D6 : 97                 
+0897 - Byte              20C3A8D7 : 62                 20BFD4D7 : 62                 
+0898 - 4 Bytes           20C3A8D8 : 0                  20BFD4D8 : 0                  
+089C - Float             20C3A8DC : 10                 20BFD4DC : 10                 
+08A0 - 4 Bytes           20C3A8E0 : 2052               20BFD4E0 : 1284               
+08A4 - String            20C3A8E4 : DCH_EVO1           20BFD4E4 : FIA_COU            
+08AD - Byte              20C3A8ED : 0                  20BFD4ED : 0                  
+08AE - Byte              20C3A8EE : 0                  20BFD4EE : 0                  
+08AF - Byte              20C3A8EF : 0                  20BFD4EF : 0                  
+08B0 - Float             20C3A8F0 : 12800              20BFD4F0 : 12800              
+08B4 - Float             20C3A8F4 : 12800              20BFD4F4 : 12800              
+08B8 - Float             20C3A8F8 : 8000               20BFD4F8 : 7000               
+08BC - Pointer           20C3A8FC : P->43962C8D        20BFD4FC : P->43B93BEF        
+08C0 - Pointer           20C3A900 : P->3E4A3D71        20BFD500 : P->3EB9CE6C        
+08C4 - Double            20C3A904 : 0.0000331625995530220BFD504 : 0.000141287134723708
+08CC - Double            20C3A90C : 0.0007519532212798620BFD50C : 0.00237146997303259
+08D4 - Double            20C3A914 : 0.0029296879609592 20BFD514 : 0.00781250184744544
+08DC - Byte              20C3A91C : 29                 20BFD51C : 202                
+08DD - Byte              20C3A91D : 34                 20BFD51D : 25                 
+08DE - 2 Bytes           20C3A91E : 16242              20BFD51E : 16254              
+08E0 - Float             20C3A920 : 0.9604169726       20BFD520 : 0.9906449914       
+08E4 - Float             20C3A924 : 0.9670829773       20BFD524 : 0.9864519835       
+08E8 - Double            20C3A928 : 0.0069791870115417 20BFD528 : 0.00615925061691087
+08F0 - Byte              20C3A930 : 125                20BFD530 : 10                 
+08F1 - String            20C3A931 : w?                20BFD531 : Út?Ð               
+08F5 - Byte              20C3A935 : 0                  20BFD535 : 209                
+08F6 - Byte              20C3A936 : 128                20BFD536 : 106                
+08F7 - Byte              20C3A937 : 63                 20BFD537 : 63                 
+08F8 - Double            20C3A938 : 0.0049218768179889620BFD538 : 0.000971851520051745
+0900 - Double            20C3A940 : 0.0011527969013509920BFD540 : 0.0000563315478762002
+0908 - Double            20C3A948 : 0.0002139882705060620BFD548 : 8.96025117238502E-9
+0910 - Pointer           20C3A950 : P->3F0F685A        20BFD550 : P->3649539C        
+0914 - Pointer           20C3A954 : P->3EE4810A        20BFD554 : P->3649539C        
+0918 - 4 Bytes           20C3A958 : 1050274425         20BFD558 : 910775196          
+091C - 4 Bytes           20C3A95C : 1042601499         20BFD55C : 910775196          
+0920 - 4 Bytes           20C3A960 : 0                  20BFD560 : 910775196          
+0924 - 4 Bytes           20C3A964 : 0                  20BFD564 : 910775196          
+0928 - 4 Bytes           20C3A968 : 0                  20BFD568 : 910775196          
+092C - 4 Bytes           20C3A96C : 0                  20BFD56C : 910775196          
+0930 - 4 Bytes           20C3A970 : 0                  20BFD570 : 910775196          
+0934 - 4 Bytes           20C3A974 : 0                  20BFD574 : 910775196          
+0938 - 4 Bytes           20C3A978 : 0                  20BFD578 : 910775196          
+093C - 4 Bytes           20C3A97C : 0                  20BFD57C : 910775196          
+0940 - Double            20C3A980 : 0.0027343747006671 20BFD580 : 0.0027343747006671 
+0948 - Float             20C3A988 : 1                  20BFD588 : 1                  
+094C - Pointer           20C3A98C : P->3D9CEAA2        20BFD58C : P->3E418CFD        
+0950 - Double            20C3A990 : 15.8431396484375   20BFD590 : 0.0694444179534912 
+0958 - String            20C3A998 :                    20BFD598 : ®G!@               
+095C - Pointer           20C3A99C : P->3F6992F5        20BFD59C : P->40242A43        
+0960 - Byte              20C3A9A0 : 174                20BFD5A0 : 174                
+0961 - Byte              20C3A9A1 : 71                 20BFD5A1 : 71                 
+0962 - Byte              20C3A9A2 : 97                 20BFD5A2 : 97                 
+0963 - Byte              20C3A9A3 : 62                 20BFD5A3 : 62                 
+0964 - 4 Bytes           20C3A9A4 : 0                  20BFD5A4 : 0                  
+0968 - Float             20C3A9A8 : 10                 20BFD5A8 : 10                 
+096C - 4 Bytes           20C3A9AC : 2052               20BFD5AC : 1284               
+0970 - String            20C3A9B0 : DCH_EVO1           20BFD5B0 : FIA_COU            
+0979 - Byte              20C3A9B9 : 0                  20BFD5B9 : 0                  
+097A - Byte              20C3A9BA : 0                  20BFD5BA : 0                  
+097B - Byte              20C3A9BB : 0                  20BFD5BB : 0                  
+097C - Float             20C3A9BC : 12800              20BFD5BC : 12800              
+0980 - Float             20C3A9C0 : 12800              20BFD5C0 : 12800              
+0984 - Float             20C3A9C4 : 8500               20BFD5C4 : 7500               
+0988 - Pointer           20C3A9C8 : P->439AD3D4        20BFD5C8 : P->43BDFF02        
+098C - Pointer           20C3A9CC : P->3E17AE14        20BFD5CC : P->3E8B5AC9        
+0990 - Pointer           20C3A9D0 : P->3E4A3D71        20BFD5D0 : P->3EB9CE6C        
+0994 - Double            20C3A9D4 : 0.0000331625995530220BFD5D4 : 0.000141287134723708
+099C - Double            20C3A9DC : 0.0007519532212798620BFD5DC : 0.00237146997303259
+09A4 - Double            20C3A9E4 : 0.0029296879609592 20BFD5E4 : 0.00781250184744544
+09AC - Byte              20C3A9EC : 29                 20BFD5EC : 202                
+09AD - Byte              20C3A9ED : 34                 20BFD5ED : 25                 
+09AE - 2 Bytes           20C3A9EE : 16242              20BFD5EE : 16254              
+09B0 - Float             20C3A9F0 : 0.9604169726       20BFD5F0 : 0.9906449914       
+09B4 - Float             20C3A9F4 : 0.9670829773       20BFD5F4 : 0.9864519835       
+09B8 - Double            20C3A9F8 : 0.0069791870115417 20BFD5F8 : 0.00615925061691087
+09C0 - Byte              20C3AA00 : 125                20BFD600 : 242                
+09C1 - String            20C3AA01 : w?                20BFD601 : ¶n?$               
+09C5 - Byte              20C3AA05 : 0                  20BFD605 : 239                
+09C6 - Byte              20C3AA06 : 128                20BFD606 : 100                
+09C7 - Byte              20C3AA07 : 63                 20BFD607 : 63                 
+09C8 - Byte              20C3AA08 : 143                20BFD608 : 78                 
+09C9 - Byte              20C3AA09 : 194                20BFD609 : 183                
+09CA - Byte              20C3AA0A : 125                20BFD60A : 92                 
+09CB - Byte              20C3AA0B : 63                 20BFD60B : 63                 
+09CC - Byte              20C3AA0C : 78                 20BFD60C : 211                
+09CD - Byte              20C3AA0D : 210                20BFD60D : 162                
+09CE - Byte              20C3AA0E : 108                20BFD60E : 74                 
+09CF - Byte              20C3AA0F : 63                 20BFD60F : 63                 
+09D0 - Double            20C3AA10 : 0.0008712500554767620BFD610 : 0.0000495654311619518
+09D8 - Double            20C3AA18 : 0.0001745370969890220BFD618 : 7.06601086961811E-9
+09E0 - Pointer           20C3AA20 : P->3F0B18EC        20BFD620 : P->3649539C        
+09E4 - Pointer           20C3AA24 : P->3EDDA2F9        20BFD624 : P->3649539C        
+09E8 - 4 Bytes           20C3AA28 : 1049971260         20BFD628 : 910775196          
+09EC - 4 Bytes           20C3AA2C : 1042276826         20BFD62C : 910775196          
+09F0 - 4 Bytes           20C3AA30 : 0                  20BFD630 : 910775196          
+09F4 - 4 Bytes           20C3AA34 : 0                  20BFD634 : 910775196          
+09F8 - 4 Bytes           20C3AA38 : 0                  20BFD638 : 910775196          
+09FC - 4 Bytes           20C3AA3C : 0                  20BFD63C : 910775196          
+0A00 - 4 Bytes           20C3AA40 : 0                  20BFD640 : 910775196          
+0A04 - 4 Bytes           20C3AA44 : 0                  20BFD644 : 910775196          
+0A08 - 4 Bytes           20C3AA48 : 0                  20BFD648 : 910775196          
+0A0C - Double            20C3AA4C : 0.0027343747006671 20BFD64C : 0.0027343747006671 
+0A14 - Float             20C3AA54 : 1                  20BFD654 : 1                  
+0A18 - Pointer           20C3AA58 : P->3DA1C766        20BFD658 : P->3E4686CD        
+0A1C - Double            20C3AA5C : 17.7777709960938   20BFD65C : 0.121268630027771  
+0A24 - Byte              20C3AA64 : 0                  20BFD664 : 30                 
+0A25 - Byte              20C3AA65 : 0                  20BFD665 : 133                
+0A26 - Byte              20C3AA66 : 0                  20BFD666 : 43                 
+0A27 - Byte              20C3AA67 : 0                  20BFD667 : 64                 
+0A28 - Pointer           20C3AA68 : P->3F6F3679        20BFD668 : P->4019CA82        
+0A2C - Byte              20C3AA6C : 174                20BFD66C : 174                
+0A2D - Byte              20C3AA6D : 71                 20BFD66D : 71                 
+0A2E - Byte              20C3AA6E : 97                 20BFD66E : 97                 
+0A2F - Byte              20C3AA6F : 62                 20BFD66F : 62                 
+0A30 - 4 Bytes           20C3AA70 : 0                  20BFD670 : 0                  
+0A34 - Float             20C3AA74 : 10                 20BFD674 : 10                 
+0A38 - 4 Bytes           20C3AA78 : 2564               20BFD678 : 1796               
+0A3C - String            20C3AA7C : DCH_EVO1           20BFD67C : FIA_COU            
+0A45 - Byte              20C3AA85 : 0                  20BFD685 : 0                  
+0A46 - Byte              20C3AA86 : 0                  20BFD686 : 0                  
+0A47 - Byte              20C3AA87 : 0                  20BFD687 : 0                  
+0A48 - Float             20C3AA88 : 12800              20BFD688 : 12800              
+0A4C - Float             20C3AA8C : 12800              20BFD68C : 12800              
+0A50 - Float             20C3AA90 : 8500               20BFD690 : 7500               
+0A54 - Pointer           20C3AA94 : P->439F7B1B        20BFD694 : P->43C2C215        
+0A58 - Pointer           20C3AA98 : P->3E17AE14        20BFD698 : P->3E8B5AC9        
+0A5C - Pointer           20C3AA9C : P->3E4A3D71        20BFD69C : P->3EB9CE6C        
+0A60 - Double            20C3AAA0 : 0.0000331625995530220BFD6A0 : 0.000141287134723708
+0A68 - Double            20C3AAA8 : 0.0007519532212798620BFD6A8 : 0.00237146997303259
+0A70 - Double            20C3AAB0 : 0.0029296879609592 20BFD6B0 : 0.00781250184744544
+0A78 - Byte              20C3AAB8 : 29                 20BFD6B8 : 202                
+0A79 - Byte              20C3AAB9 : 34                 20BFD6B9 : 25                 
+0A7A - 2 Bytes           20C3AABA : 16242              20BFD6BA : 16254              
+0A7C - Float             20C3AABC : 0.9604169726       20BFD6BC : 0.9906449914       
+0A80 - Float             20C3AAC0 : 0.9670829773       20BFD6C0 : 0.9864519835       
+0A84 - Double            20C3AAC4 : 0.0069791870115417 20BFD6C4 : 0.00615925061691087
+0A8C - Byte              20C3AACC : 125                20BFD6CC : 242                
+0A8D - String            20C3AACD : w?                20BFD6CD : ¶n?$               
+0A91 - Byte              20C3AAD1 : 0                  20BFD6D1 : 239                
+0A92 - Byte              20C3AAD2 : 128                20BFD6D2 : 100                
+0A93 - Byte              20C3AAD3 : 63                 20BFD6D3 : 63                 
+0A94 - Byte              20C3AAD4 : 143                20BFD6D4 : 78                 
+0A95 - Byte              20C3AAD5 : 194                20BFD6D5 : 183                
+0A96 - Byte              20C3AAD6 : 125                20BFD6D6 : 92                 
+0A97 - Byte              20C3AAD7 : 63                 20BFD6D7 : 63                 
+0A98 - Byte              20C3AAD8 : 78                 20BFD6D8 : 211                
+0A99 - Byte              20C3AAD9 : 210                20BFD6D9 : 162                
+0A9A - Byte              20C3AADA : 108                20BFD6DA : 74                 
+0A9B - Byte              20C3AADB : 63                 20BFD6DB : 63                 
+0A9C - Double            20C3AADC : 0.0008712500554767620BFD6DC : 0.0000495659259270695
+0AA4 - Double            20C3AAE4 : 0.0001745370969890220BFD6E4 : 7.06601086961811E-9
+0AAC - Pointer           20C3AAEC : P->3F0B18EC        20BFD6EC : P->3649539C        
+0AB0 - Pointer           20C3AAF0 : P->3EDDA2F9        20BFD6F0 : P->3649539C        
+0AB4 - 4 Bytes           20C3AAF4 : 1049971260         20BFD6F4 : 910775196          
+0AB8 - 4 Bytes           20C3AAF8 : 1042276826         20BFD6F8 : 910775196          
+0ABC - 4 Bytes           20C3AAFC : 0                  20BFD6FC : 910775196          
+0AC0 - 4 Bytes           20C3AB00 : 0                  20BFD700 : 910775196          
+0AC4 - 4 Bytes           20C3AB04 : 0                  20BFD704 : 910775196          
+0AC8 - 4 Bytes           20C3AB08 : 0                  20BFD708 : 910775196          
+0ACC - 4 Bytes           20C3AB0C : 0                  20BFD70C : 910775196          
+0AD0 - 4 Bytes           20C3AB10 : 0                  20BFD710 : 910775196          
+0AD4 - 4 Bytes           20C3AB14 : 0                  20BFD714 : 910775196          
+0AD8 - Double            20C3AB18 : 0.0027343747006671 20BFD718 : 0.0027343747006671 
+0AE0 - Float             20C3AB20 : 1                  20BFD720 : 1                  
+0AE4 - Byte              20C3AB24 : 41                 20BFD724 : 156                
+0AE5 - Byte              20C3AB25 : 164                20BFD725 : 128                
+0AE6 - Byte              20C3AB26 : 166                20BFD726 : 75                 
+0AE7 - Byte              20C3AB27 : 61                 20BFD727 : 62                 
+0AE8 - Double            20C3AB28 : 12.2105255126953   20BFD728 : 0.0792253613471985 
+0AF0 - Double            20C3AB30 : 0.0056633763015270220BFD730 : 6.98591709449887   
+0AF8 - Byte              20C3AB38 : 174                20BFD738 : 174                
+0AF9 - Byte              20C3AB39 : 71                 20BFD739 : 71                 
+0AFA - Byte              20C3AB3A : 97                 20BFD73A : 97                 
+0AFB - Byte              20C3AB3B : 62                 20BFD73B : 62                 
+0AFC - 4 Bytes           20C3AB3C : 0                  20BFD73C : 0                  
+0B00 - Float             20C3AB40 : 10                 20BFD740 : 10                 
+0B04 - 4 Bytes           20C3AB44 : 2564               20BFD744 : 1796               
+0B08 - String            20C3AB48 : DCH_EVO1           20BFD748 : FIA_COU            
+0B11 - Byte              20C3AB51 : 0                  20BFD751 : 0                  
+0B12 - Byte              20C3AB52 : 0                  20BFD752 : 0                  
+0B13 - Byte              20C3AB53 : 0                  20BFD753 : 0                  
+0B14 - Float             20C3AB54 : 12800              20BFD754 : 12800              
+0B18 - Float             20C3AB58 : 12800              20BFD758 : 12800              
+0B1C - Float             20C3AB5C : 8500               20BFD75C : 7500               
+0B20 - Pointer           20C3AB60 : P->43A42263        20BFD760 : P->43C78529        
+0B24 - Pointer           20C3AB64 : P->3E17AE14        20BFD764 : P->3E8B5AC9        
+0B28 - Pointer           20C3AB68 : P->3E4A3D71        20BFD768 : P->3EB9CE6C        
+0B2C - Double            20C3AB6C : 0.0000331625995530220BFD76C : 0.000141287134723708
+0B34 - Double            20C3AB74 : 0.0007519532212798620BFD774 : 0.00237146997303259
+0B3C - Double            20C3AB7C : 0.0029296879609592 20BFD77C : 0.00781250184744544
+0B44 - Byte              20C3AB84 : 29                 20BFD784 : 202                
+0B45 - Byte              20C3AB85 : 34                 20BFD785 : 25                 
+0B46 - 2 Bytes           20C3AB86 : 16242              20BFD786 : 16254              
+0B48 - Float             20C3AB88 : 0.9604169726       20BFD788 : 0.9906449914       
+0B4C - Float             20C3AB8C : 0.9670829773       20BFD78C : 0.9864519835       
+0B50 - Double            20C3AB90 : 0.0069791870115417 20BFD790 : 0.00615925061691087
+0B58 - Byte              20C3AB98 : 125                20BFD798 : 242                
+0B59 - String            20C3AB99 : w?                20BFD799 : ¶n?$               
+0B5D - Byte              20C3AB9D : 0                  20BFD79D : 239                
+0B5E - Byte              20C3AB9E : 128                20BFD79E : 100                
+0B5F - Byte              20C3AB9F : 63                 20BFD79F : 63                 
+0B60 - Byte              20C3ABA0 : 143                20BFD7A0 : 78                 
+0B61 - Byte              20C3ABA1 : 194                20BFD7A1 : 183                
+0B62 - Byte              20C3ABA2 : 125                20BFD7A2 : 92                 
+0B63 - Byte              20C3ABA3 : 63                 20BFD7A3 : 63                 
+0B64 - Byte              20C3ABA4 : 78                 20BFD7A4 : 211                
+0B65 - Byte              20C3ABA5 : 210                20BFD7A5 : 162                
+0B66 - Byte              20C3ABA6 : 108                20BFD7A6 : 74                 
+0B67 - Byte              20C3ABA7 : 63                 20BFD7A7 : 63                 
+0B68 - Double            20C3ABA8 : 0.0008712500554767620BFD7A8 : 0.0000495659259270695
+0B70 - Double            20C3ABB0 : 0.0001745370969890220BFD7B0 : 7.06601086961811E-9
+0B78 - Pointer           20C3ABB8 : P->3F0B18EC        20BFD7B8 : P->3649539C        
+0B7C - Pointer           20C3ABBC : P->3EDDA2F9        20BFD7BC : P->3649539C        
+0B80 - 4 Bytes           20C3ABC0 : 1049971260         20BFD7C0 : 910775196          
+0B84 - 4 Bytes           20C3ABC4 : 1042276826         20BFD7C4 : 910775196          
+0B88 - 4 Bytes           20C3ABC8 : 0                  20BFD7C8 : 910775196          
+0B8C - 4 Bytes           20C3ABCC : 0                  20BFD7CC : 910775196          
+0B90 - 4 Bytes           20C3ABD0 : 0                  20BFD7D0 : 910775196          
+0B94 - 4 Bytes           20C3ABD4 : 0                  20BFD7D4 : 910775196          
+0B98 - 4 Bytes           20C3ABD8 : 0                  20BFD7D8 : 910775196          
+0B9C - 4 Bytes           20C3ABDC : 0                  20BFD7DC : 910775196          
+0BA0 - 4 Bytes           20C3ABE0 : 0                  20BFD7E0 : 910775196          
+0BA4 - Double            20C3ABE4 : 0.0027343747006671 20BFD7E4 : 0.0027343747006671 
+0BAC - Float             20C3ABEC : 1                  20BFD7EC : 1                  
+0BB0 - Pointer           20C3ABF0 : P->3DAB80ED        20BFD7F0 : P->3E507A6C        
+0BB4 - Double            20C3ABF4 : 8                  20BFD7F4 : 0.0520833432674408 
+0BBC - Float             20C3ABFC : 0                  20BFD7FC : 3                  
+0BC0 - Pointer           20C3AC00 : P->3F7E6217        20BFD800 : P->401DDDDE        
+0BC4 - Byte              20C3AC04 : 174                20BFD804 : 174                
+0BC5 - Byte              20C3AC05 : 71                 20BFD805 : 71                 
+0BC6 - Byte              20C3AC06 : 97                 20BFD806 : 97                 
+0BC7 - Byte              20C3AC07 : 62                 20BFD807 : 62                 
+0BC8 - 4 Bytes           20C3AC08 : 0                  20BFD808 : 0                  
+0BCC - Float             20C3AC0C : 10                 20BFD80C : 10                 
+0BD0 - 4 Bytes           20C3AC10 : 2564               20BFD810 : 1796               
+0BD4 - String            20C3AC14 : DCH_EVO1           20BFD814 : FIA_COU            
+0BDD - Byte              20C3AC1D : 211                20BFD81D : 211                
+0BDE - 2 Bytes           20C3AC1E : 18370              20BFD81E : 18370              
+0BE0 - Float             20C3AC20 : 10000              20BFD820 : 10000              
+0BE4 - Pointer           20C3AC24 : P->3DCCCCCD        20BFD824 : P->3DCCCCCD        
+0BE8 - 4 Bytes           20C3AC28 : 0                  20BFD828 : 0                  
+0BEC - Float             20C3AC2C : 70000              20BFD82C : 70000              
+0BF0 - Float             20C3AC30 : 10000              20BFD830 : 10000              
+0BF4 - Pointer           20C3AC34 : P->3DCCCCCD        20BFD834 : P->3DCCCCCD        
+0BF8 - 4 Bytes           20C3AC38 : 0                  20BFD838 : 0                  
+0BFC - 4 Bytes           20C3AC3C : 0                  20BFD83C : 0                  
+0C00 - Pointer           20C3AC40 : P->3EA1A36F        20BFD840 : P->3E9BE0DF        
+0C04 - Pointer           20C3AC44 : P->3E666666        20BFD844 : P->3E666666        
+0C08 - Float             20C3AC48 : 26.5               20BFD848 : 25.5               
+0C0C - Float             20C3AC4C : 1                  20BFD84C : 1                  
+0C10 - Double            20C3AC50 : 0.0102812516939593 20BFD850 : 0.0096250045549823 
+0C18 - Double            20C3AC58 : 0.0250000096578005 20BFD858 : 0.025000009657495  
+0C20 - Float             20C3AC60 : 6012               20BFD860 : 5510               
+0C24 - Float             20C3AC64 : 16                 20BFD864 : 16                 
+0C28 - Float             20C3AC68 : 0.5                20BFD868 : 0.4499999881       
+0C2C - Float             20C3AC6C : 7.5                20BFD86C : 7.5                
+0C30 - String            20C3AC70 : DCH_EVO1           20BFD870 : FIA_COU            
+0C39 - Byte              20C3AC79 : 211                20BFD879 : 211                
+0C3A - 2 Bytes           20C3AC7A : 18370              20BFD87A : 18370              
+0C3C - Float             20C3AC7C : 10000              20BFD87C : 10000              
+0C40 - Pointer           20C3AC80 : P->3DCCCCCD        20BFD880 : P->3DCCCCCD        
+0C44 - 4 Bytes           20C3AC84 : 0                  20BFD884 : 0                  
+0C48 - Float             20C3AC88 : 70000              20BFD888 : 70000              
+0C4C - Float             20C3AC8C : 10000              20BFD88C : 10000              
+0C50 - Pointer           20C3AC90 : P->3DCCCCCD        20BFD890 : P->3DCCCCCD        
+0C54 - 4 Bytes           20C3AC94 : 0                  20BFD894 : 0                  
+0C58 - 4 Bytes           20C3AC98 : 0                  20BFD898 : 0                  
+0C5C - Pointer           20C3AC9C : P->3EA1A36F        20BFD89C : P->3E9BE0DF        
+0C60 - Pointer           20C3ACA0 : P->3E666666        20BFD8A0 : P->3E666666        
+0C64 - Float             20C3ACA4 : 26.5               20BFD8A4 : 25.5               
+0C68 - Float             20C3ACA8 : 1                  20BFD8A8 : 1                  
+0C6C - Double            20C3ACAC : 0.012230316127534  20BFD8AC : 0.0115543771040393 
+0C74 - Double            20C3ACB4 : 0.0250000096587082 20BFD8B4 : 0.0250000096583934 
+0C7C - Float             20C3ACBC : 6012               20BFD8BC : 5510               
+0C80 - Float             20C3ACC0 : 16                 20BFD8C0 : 16                 
+0C84 - Float             20C3ACC4 : 0.5                20BFD8C4 : 0.4499999881       
+0C88 - Float             20C3ACC8 : 7.5                20BFD8C8 : 7.5                
+0C8C - String            20C3ACCC : DCH_EVO1           20BFD8CC : FIA_COU            
+0C95 - Byte              20C3ACD5 : 211                20BFD8D5 : 211                
+0C96 - 2 Bytes           20C3ACD6 : 18370              20BFD8D6 : 18370              
+0C98 - Float             20C3ACD8 : 10000              20BFD8D8 : 10000              
+0C9C - Pointer           20C3ACDC : P->3DCCCCCD        20BFD8DC : P->3DCCCCCD        
+0CA0 - 4 Bytes           20C3ACE0 : 0                  20BFD8E0 : 0                  
+0CA4 - Float             20C3ACE4 : 70000              20BFD8E4 : 70000              
+0CA8 - Float             20C3ACE8 : 10000              20BFD8E8 : 10000              
+0CAC - Pointer           20C3ACEC : P->3DCCCCCD        20BFD8EC : P->3DCCCCCD        
+0CB0 - 4 Bytes           20C3ACF0 : 0                  20BFD8F0 : 0                  
+0CB4 - 4 Bytes           20C3ACF4 : 0                  20BFD8F4 : 0                  
+0CB8 - Pointer           20C3ACF8 : P->3EA1A36F        20BFD8F8 : P->3E9BE0DF        
+0CBC - Pointer           20C3ACFC : P->3E666666        20BFD8FC : P->3E666666        
+0CC0 - Float             20C3AD00 : 26.5               20BFD900 : 25.5               
+0CC4 - Float             20C3AD04 : 1                  20BFD904 : 1                  
+0CC8 - Double            20C3AD08 : 0.0141793731105281 20BFD908 : 0.0134837496530963 
+0CD0 - Double            20C3AD10 : 0.0250000096596158 20BFD910 : 0.0250000096592918 
+0CD8 - Float             20C3AD18 : 6012               20BFD918 : 5510               
+0CDC - Float             20C3AD1C : 16                 20BFD91C : 16                 
+0CE0 - Float             20C3AD20 : 0.5                20BFD920 : 0.4499999881       
+0CE4 - Float             20C3AD24 : 7.5                20BFD924 : 7.5                
+0CE8 - String            20C3AD28 : DCH_EVO1           20BFD928 : FIA_COU            
+0CF1 - Byte              20C3AD31 : 211                20BFD931 : 211                
+0CF2 - 2 Bytes           20C3AD32 : 18370              20BFD932 : 18370              
+0CF4 - Float             20C3AD34 : 10000              20BFD934 : 10000              
+0CF8 - Pointer           20C3AD38 : P->3DCCCCCD        20BFD938 : P->3DCCCCCD        
+0CFC - 4 Bytes           20C3AD3C : 0                  20BFD93C : 0                  
+0D00 - Float             20C3AD40 : 70000              20BFD940 : 70000              
+0D04 - Float             20C3AD44 : 10000              20BFD944 : 10000              
+0D08 - Pointer           20C3AD48 : P->3DCCCCCD        20BFD948 : P->3DCCCCCD        
+0D0C - 4 Bytes           20C3AD4C : 0                  20BFD94C : 0                  
+0D10 - 4 Bytes           20C3AD50 : 0                  20BFD950 : 0                  
+0D14 - Pointer           20C3AD54 : P->3EA1A36F        20BFD954 : P->3E9BE0DF        
+0D18 - Pointer           20C3AD58 : P->3E666666        20BFD958 : P->3E666666        
+0D1C - Float             20C3AD5C : 26.5               20BFD95C : 25.5               
+0D20 - Float             20C3AD60 : 1                  20BFD960 : 1                  
+0D24 - Double            20C3AD64 : 0.0166318750882056 20BFD964 : 0.0154131296527339 
+0D2C - Double            20C3AD6C : 0.0250000096605234 20BFD96C : 0.0250000096601903 
+0D34 - Float             20C3AD74 : 6012               20BFD974 : 5510               
+0D38 - Float             20C3AD78 : 16                 20BFD978 : 16                 
+0D3C - Float             20C3AD7C : 0.5                20BFD97C : 0.4499999881       
+0D40 - Float             20C3AD80 : 7.5                20BFD980 : 7.5                
+0D44 - String            20C3AD84 : DCH_EVO1           20BFD984 : FIA_COU            
+0D4D - Byte              20C3AD8D : 211                20BFD98D : 211                
+0D4E - 2 Bytes           20C3AD8E : 18370              20BFD98E : 18370              
+0D50 - Float             20C3AD90 : 10000              20BFD990 : 10000              
+0D54 - Pointer           20C3AD94 : P->3DCCCCCD        20BFD994 : P->3DCCCCCD        
+0D58 - 4 Bytes           20C3AD98 : 0                  20BFD998 : 0                  
+0D5C - Float             20C3AD9C : 70000              20BFD99C : 70000              
+0D60 - Float             20C3ADA0 : 10000              20BFD9A0 : 10000              
+0D64 - Pointer           20C3ADA4 : P->3DCCCCCD        20BFD9A4 : P->3DCCCCCD        
+0D68 - 4 Bytes           20C3ADA8 : 0                  20BFD9A8 : 0                  
+0D6C - 4 Bytes           20C3ADAC : 0                  20BFD9AC : 0                  
+0D70 - Pointer           20C3ADB0 : P->3EA1A36F        20BFD9B0 : P->3E9BE0DF        
+0D74 - Pointer           20C3ADB4 : P->3E666666        20BFD9B4 : P->3E666666        
+0D78 - Float             20C3ADB8 : 26.5               20BFD9B8 : 25.5               
+0D7C - Float             20C3ADBC : 1                  20BFD9BC : 1                  
+0D80 - Double            20C3ADC0 : 0.0205300039553549 20BFD9C0 : 0.0190600044035818 
+0D88 - Double            20C3ADC8 : 0.025000009661431  20BFD9C8 : 0.0250000096610887 
+0D90 - Float             20C3ADD0 : 6012               20BFD9D0 : 5510               
+0D94 - Float             20C3ADD4 : 16                 20BFD9D4 : 16                 
+0D98 - Float             20C3ADD8 : 0.5                20BFD9D8 : 0.4499999881       
+0D9C - Float             20C3ADDC : 7.5                20BFD9DC : 7.5                
+0DA0 - String            20C3ADE0 : DCH_EVO1           20BFD9E0 : FIA_COU            
+0DA9 - Byte              20C3ADE9 : 211                20BFD9E9 : 211                
+0DAA - 2 Bytes           20C3ADEA : 18370              20BFD9EA : 18370              
+0DAC - Float             20C3ADEC : 10000              20BFD9EC : 10000              
+0DB0 - Pointer           20C3ADF0 : P->3DCCCCCD        20BFD9F0 : P->3DCCCCCD        
+0DB4 - 4 Bytes           20C3ADF4 : 0                  20BFD9F4 : 0                  
+0DB8 - Float             20C3ADF8 : 70000              20BFD9F8 : 70000              
+0DBC - Float             20C3ADFC : 10000              20BFD9FC : 10000              
+0DC0 - Pointer           20C3AE00 : P->3DCCCCCD        20BFDA00 : P->3DCCCCCD        
+0DC4 - 4 Bytes           20C3AE04 : 0                  20BFDA04 : 0                  
+0DC8 - 4 Bytes           20C3AE08 : 0                  20BFDA08 : 0                  
+0DCC - Pointer           20C3AE0C : P->3EA1A36F        20BFDA0C : P->3E9BE0DF        
+0DD0 - Pointer           20C3AE10 : P->3E666666        20BFDA10 : P->3E666666        
+0DD4 - Float             20C3AE14 : 26.5               20BFDA14 : 25.5               
+0DD8 - Float             20C3AE18 : 1                  20BFDA18 : 1                  
+0DDC - Double            20C3AE1C : 0.0244281328225043 20BFDA1C : 0.0229187495016959 
+0DE4 - Double            20C3AE24 : 0.0250000096623386 20BFDA24 : 0.0250000096619871 
+0DEC - Float             20C3AE2C : 6012               20BFDA2C : 5510               
+0DF0 - Float             20C3AE30 : 16                 20BFDA30 : 16                 
+0DF4 - Float             20C3AE34 : 0.5                20BFDA34 : 0.4499999881       
+0DF8 - Float             20C3AE38 : 7.5                20BFDA38 : 7.5                
+0DFC - String            20C3AE3C : DCH_EVO1           20BFDA3C : FIA_COU            
+0E05 - Byte              20C3AE45 : 211                20BFDA45 : 211                
+0E06 - 2 Bytes           20C3AE46 : 18370              20BFDA46 : 18370              
+0E08 - Float             20C3AE48 : 10000              20BFDA48 : 10000              
+0E0C - Pointer           20C3AE4C : P->3DCCCCCD        20BFDA4C : P->3DCCCCCD        
+0E10 - 4 Bytes           20C3AE50 : 0                  20BFDA50 : 0                  
+0E14 - Float             20C3AE54 : 70000              20BFDA54 : 70000              
+0E18 - Float             20C3AE58 : 10000              20BFDA58 : 10000              
+0E1C - Pointer           20C3AE5C : P->3DCCCCCD        20BFDA5C : P->3DCCCCCD        
+0E20 - 4 Bytes           20C3AE60 : 0                  20BFDA60 : 0                  
+0E24 - 4 Bytes           20C3AE64 : 0                  20BFDA64 : 0                  
+0E28 - Pointer           20C3AE68 : P->3EA1A36F        20BFDA68 : P->3E9BE0DF        
+0E2C - Pointer           20C3AE6C : P->3E666666        20BFDA6C : P->3E666666        
+0E30 - Float             20C3AE70 : 26.5               20BFDA70 : 25.5               
+0E34 - Float             20C3AE74 : 1                  20BFDA74 : 1                  
+0E38 - Double            20C3AE78 : 0.0179312563443091 20BFDA78 : 0.0164874977373984 
+0E40 - Double            20C3AE80 : 0.0250000096608259 20BFDA80 : 0.0250000096604897 
+0E48 - Float             20C3AE88 : 6012               20BFDA88 : 5510               
+0E4C - Float             20C3AE8C : 16                 20BFDA8C : 16                 
+0E50 - Float             20C3AE90 : 0.5                20BFDA90 : 0.4499999881       
+0E54 - Float             20C3AE94 : 7.5                20BFDA94 : 7.5                
+0E58 - String            20C3AE98 : DCH_EVO1           20BFDA98 : FIA_COU            
+0E61 - Byte              20C3AEA1 : 211                20BFDAA1 : 211                
+0E62 - 2 Bytes           20C3AEA2 : 18370              20BFDAA2 : 18370              
+0E64 - Float             20C3AEA4 : 10000              20BFDAA4 : 10000              
+0E68 - Pointer           20C3AEA8 : P->3DCCCCCD        20BFDAA8 : P->3DCCCCCD        
+0E6C - 4 Bytes           20C3AEAC : 0                  20BFDAAC : 0                  
+0E70 - Float             20C3AEB0 : 70000              20BFDAB0 : 70000              
+0E74 - Float             20C3AEB4 : 10000              20BFDAB4 : 10000              
+0E78 - Pointer           20C3AEB8 : P->3DCCCCCD        20BFDAB8 : P->3DCCCCCD        
+0E7C - 4 Bytes           20C3AEBC : 0                  20BFDABC : 0                  
+0E80 - 4 Bytes           20C3AEC0 : 0                  20BFDAC0 : 0                  
+0E84 - Pointer           20C3AEC4 : P->3EA1A36F        20BFDAC4 : P->3E9BE0DF        
+0E88 - Pointer           20C3AEC8 : P->3E666666        20BFDAC8 : P->3E666666        
+0E8C - Float             20C3AECC : 26.5               20BFDACC : 25.5               
+0E90 - Float             20C3AED0 : 1                  20BFDAD0 : 1                  
+0E94 - Double            20C3AED4 : 0.0244281328225043 20BFDAD4 : 0.0229187495016959 
+0E9C - Double            20C3AEDC : 0.0250000096623386 20BFDADC : 0.0250000096619871 
+0EA4 - Float             20C3AEE4 : 6012               20BFDAE4 : 5510               
+0EA8 - Float             20C3AEE8 : 16                 20BFDAE8 : 16                 
+0EAC - Float             20C3AEEC : 0.5                20BFDAEC : 0.4499999881       
+0EB0 - Float             20C3AEF0 : 7.5                20BFDAF0 : 7.5                
+0EB4 - String            20C3AEF4 : DCH_EVO1           20BFDAF4 : FIA_COU            
+0EBD - Byte              20C3AEFD : 211                20BFDAFD : 211                
+0EBE - 2 Bytes           20C3AEFE : 18370              20BFDAFE : 18370              
+0EC0 - Float             20C3AF00 : 10000              20BFDB00 : 10000              
+0EC4 - Pointer           20C3AF04 : P->3DCCCCCD        20BFDB04 : P->3DCCCCCD        
+0EC8 - 4 Bytes           20C3AF08 : 0                  20BFDB08 : 0                  
+0ECC - Float             20C3AF0C : 70000              20BFDB0C : 70000              
+0ED0 - Float             20C3AF10 : 10000              20BFDB10 : 10000              
+0ED4 - Pointer           20C3AF14 : P->3DCCCCCD        20BFDB14 : P->3DCCCCCD        
+0ED8 - 4 Bytes           20C3AF18 : 0                  20BFDB18 : 0                  
+0EDC - 4 Bytes           20C3AF1C : 0                  20BFDB1C : 0                  
+0EE0 - Pointer           20C3AF20 : P->3EA1A36F        20BFDB20 : P->3E9BE0DF        
+0EE4 - Pointer           20C3AF24 : P->3E666666        20BFDB24 : P->3E666666        
+0EE8 - Float             20C3AF28 : 26.5               20BFDB28 : 25.5               
+0EEC - Float             20C3AF2C : 1                  20BFDB2C : 1                  
+0EF0 - Double            20C3AF30 : 0.0309250093006995 20BFDB30 : 0.0293500012659933 
+0EF8 - Double            20C3AF38 : 0.0250000096638512 20BFDB38 : 0.0250000096634845 
+0F00 - Float             20C3AF40 : 6012               20BFDB40 : 5510               
+0F04 - Float             20C3AF44 : 16                 20BFDB44 : 16                 
+0F08 - Float             20C3AF48 : 0.5                20BFDB48 : 0.4499999881       
+0F0C - Float             20C3AF4C : 7.5                20BFDB4C : 7.5                
+0F10 - String            20C3AF50 : DCH_EVO1           20BFDB50 : FIA_COU            
+0F19 - Byte              20C3AF59 : 211                20BFDB59 : 211                
+0F1A - 2 Bytes           20C3AF5A : 18370              20BFDB5A : 18370              
+0F1C - Float             20C3AF5C : 10000              20BFDB5C : 10000              
+0F20 - Pointer           20C3AF60 : P->3DCCCCCD        20BFDB60 : P->3DCCCCCD        
+0F24 - 4 Bytes           20C3AF64 : 0                  20BFDB64 : 0                  
+0F28 - Float             20C3AF68 : 70000              20BFDB68 : 70000              
+0F2C - Float             20C3AF6C : 10000              20BFDB6C : 10000              
+0F30 - Pointer           20C3AF70 : P->3DCCCCCD        20BFDB70 : P->3DCCCCCD        
+0F34 - 4 Bytes           20C3AF74 : 0                  20BFDB74 : 0                  
+0F38 - 4 Bytes           20C3AF78 : 0                  20BFDB78 : 0                  
+0F3C - Pointer           20C3AF7C : P->3EA1A36F        20BFDB7C : P->3E9BE0DF        
+0F40 - Pointer           20C3AF80 : P->3E666666        20BFDB80 : P->3E666666        
+0F44 - Float             20C3AF84 : 26.5               20BFDB84 : 25.5               
+0F48 - Float             20C3AF88 : 1                  20BFDB88 : 1                  
+0F4C - Double            20C3AF8C : 0.0435937715577893 20BFDB8C : 0.0403125060605817 
+0F54 - Double            20C3AF94 : 0.0250000096653639 20BFDB94 : 0.0250000096649819 
+0F5C - Float             20C3AF9C : 6012               20BFDB9C : 5510               
+0F60 - Float             20C3AFA0 : 16                 20BFDBA0 : 16                 
+0F64 - Float             20C3AFA4 : 0.5                20BFDBA4 : 0.4499999881       
+0F68 - Float             20C3AFA8 : 7.5                20BFDBA8 : 7.5                
+0F6C - String            20C3AFAC : DCH_EVO1           20BFDBAC : FIA_COU            
+0F75 - Byte              20C3AFB5 : 211                20BFDBB5 : 211                
+0F76 - 2 Bytes           20C3AFB6 : 18370              20BFDBB6 : 18370              
+0F78 - Float             20C3AFB8 : 10000              20BFDBB8 : 10000              
+0F7C - Pointer           20C3AFBC : P->3DCCCCCD        20BFDBBC : P->3DCCCCCD        
+0F80 - 4 Bytes           20C3AFC0 : 0                  20BFDBC0 : 0                  
+0F84 - Float             20C3AFC4 : 70000              20BFDBC4 : 70000              
+0F88 - Float             20C3AFC8 : 10000              20BFDBC8 : 10000              
+0F8C - Pointer           20C3AFCC : P->3DCCCCCD        20BFDBCC : P->3DCCCCCD        
+0F90 - 4 Bytes           20C3AFD0 : 0                  20BFDBD0 : 0                  
+0F94 - 4 Bytes           20C3AFD4 : 0                  20BFDBD4 : 0                  
+0F98 - Pointer           20C3AFD8 : P->3EA1A36F        20BFDBD8 : P->3E9BE0DF        
+0F9C - Pointer           20C3AFDC : P->3E666666        20BFDBDC : P->3E666666        
+0FA0 - Float             20C3AFE0 : 26.5               20BFDBE0 : 25.5               
+0FA4 - Float             20C3AFE4 : 1                  20BFDBE4 : 1                  
+0FA8 - Double            20C3AFE8 : 0.0565874947118573 20BFDBE8 : 0.0531750095891766 
+0FB0 - Double            20C3AFF0 : 0.0250000096668766 20BFDBF0 : 0.0250000096664793 
+0FB8 - Float             20C3AFF8 : 6012               20BFDBF8 : 5510               
+0FBC - Float             20C3AFFC : 16                 20BFDBFC : 16                 
+0FC0 - Float             20C3B000 : 0.5                20BFDC00 : 0.4499999881       
+0FC4 - Float             20C3B004 : 7.5                20BFDC04 : 7.5                
+0FC8 - String            20C3B008 : DCH_EVO1           20BFDC08 : FIA_COU            
+0FD1 - Byte              20C3B011 : 211                20BFDC11 : 211                
+0FD2 - 2 Bytes           20C3B012 : 18370              20BFDC12 : 18370              
+0FD4 - Float             20C3B014 : 10000              20BFDC14 : 10000              
+0FD8 - Pointer           20C3B018 : P->3DCCCCCD        20BFDC18 : P->3DCCCCCD        
+0FDC - 4 Bytes           20C3B01C : 0                  20BFDC1C : 0                  
+0FE0 - Float             20C3B020 : 70000              20BFDC20 : 70000              
+0FE4 - Float             20C3B024 : 10000              20BFDC24 : 10000              
+0FE8 - Pointer           20C3B028 : P->3DCCCCCD        20BFDC28 : P->3DCCCCCD        
+0FEC - 4 Bytes           20C3B02C : 0                  20BFDC2C : 0                  
+0FF0 - 4 Bytes           20C3B030 : 0                  20BFDC30 : 0                  
+0FF4 - Pointer           20C3B034 : P->3EA1A36F        20BFDC34 : P->3E9BE0DF        
+0FF8 - Pointer           20C3B038 : P->3E666666        20BFDC38 : P->3E666666        
+0FFC - Float             20C3B03C : 26.5               20BFDC3C : 25.5               
+1000 - Float             20C3B040 : 1                  20BFDC40 : 1                  
+1004 - Double            20C3B044 : 0.012230316127534  20BFDC44 : 0.0115543771040393 
+100C - Double            20C3B04C : 0.0250000096587082 20BFDC4C : 0.0250000096583934 
+1014 - Float             20C3B054 : 6012               20BFDC54 : 5510               
+1018 - Float             20C3B058 : 16                 20BFDC58 : 16                 
+101C - Float             20C3B05C : 0.5                20BFDC5C : 0.4499999881       
+1020 - Float             20C3B060 : 7.5                20BFDC60 : 7.5                
+1024 - String            20C3B064 : DCH_EVO1           20BFDC64 : FIA_COU            
+102D - Byte              20C3B06D : 211                20BFDC6D : 211                
+102E - 2 Bytes           20C3B06E : 18370              20BFDC6E : 18370              
+1030 - Float             20C3B070 : 10000              20BFDC70 : 10000              
+1034 - Pointer           20C3B074 : P->3DCCCCCD        20BFDC74 : P->3DCCCCCD        
+1038 - 4 Bytes           20C3B078 : 0                  20BFDC78 : 0                  
+103C - Float             20C3B07C : 70000              20BFDC7C : 70000              
+1040 - Float             20C3B080 : 10000              20BFDC80 : 10000              
+1044 - Pointer           20C3B084 : P->3DCCCCCD        20BFDC84 : P->3DCCCCCD        
+1048 - 4 Bytes           20C3B088 : 0                  20BFDC88 : 0                  
+104C - 4 Bytes           20C3B08C : 0                  20BFDC8C : 0                  
+1050 - Pointer           20C3B090 : P->3EA1A36F        20BFDC90 : P->3E9BE0DF        
+1054 - Pointer           20C3B094 : P->3E666666        20BFDC94 : P->3E666666        
+1058 - Float             20C3B098 : 26.5               20BFDC98 : 25.5               
+105C - Float             20C3B09C : 1                  20BFDC9C : 1                  
+1060 - Double            20C3B0A0 : 0.0141793731105281 20BFDCA0 : 0.0134837496530963 
+1068 - Double            20C3B0A8 : 0.0250000096596158 20BFDCA8 : 0.0250000096592918 
+1070 - Float             20C3B0B0 : 6012               20BFDCB0 : 5510               
+1074 - Float             20C3B0B4 : 16                 20BFDCB4 : 16                 
+1078 - Float             20C3B0B8 : 0.5                20BFDCB8 : 0.4499999881       
+107C - Float             20C3B0BC : 7.5                20BFDCBC : 7.5                
+1080 - String            20C3B0C0 : DCH_EVO1           20BFDCC0 : FIA_COU            
+1089 - Byte              20C3B0C9 : 211                20BFDCC9 : 211                
+108A - 2 Bytes           20C3B0CA : 18370              20BFDCCA : 18370              
+108C - Float             20C3B0CC : 10000              20BFDCCC : 10000              
+1090 - Pointer           20C3B0D0 : P->3DCCCCCD        20BFDCD0 : P->3DCCCCCD        
+1094 - 4 Bytes           20C3B0D4 : 0                  20BFDCD4 : 0                  
+1098 - Float             20C3B0D8 : 70000              20BFDCD8 : 70000              
+109C - Float             20C3B0DC : 10000              20BFDCDC : 10000              
+10A0 - Pointer           20C3B0E0 : P->3DCCCCCD        20BFDCE0 : P->3DCCCCCD        
+10A4 - 4 Bytes           20C3B0E4 : 0                  20BFDCE4 : 0                  
+10A8 - 4 Bytes           20C3B0E8 : 0                  20BFDCE8 : 0                  
+10AC - Pointer           20C3B0EC : P->3EA1A36F        20BFDCEC : P->3E9BE0DF        
+10B0 - Pointer           20C3B0F0 : P->3E666666        20BFDCF0 : P->3E666666        
+10B4 - Float             20C3B0F4 : 26.5               20BFDCF4 : 25.5               
+10B8 - Float             20C3B0F8 : 1                  20BFDCF8 : 1                  
+10BC - Double            20C3B0FC : 0.0166318750882056 20BFDCFC : 0.0154131296527339 
+10C4 - Double            20C3B104 : 0.0250000096605234 20BFDD04 : 0.0250000096601903 
+10CC - Float             20C3B10C : 6012               20BFDD0C : 5510               
+10D0 - Float             20C3B110 : 16                 20BFDD10 : 16                 
+10D4 - Float             20C3B114 : 0.5                20BFDD14 : 0.4499999881       
+10D8 - Float             20C3B118 : 7.5                20BFDD18 : 7.5                
+10DC - String            20C3B11C : DCH_EVO1           20BFDD1C : FIA_COU            
+10E5 - Byte              20C3B125 : 211                20BFDD25 : 211                
+10E6 - 2 Bytes           20C3B126 : 18370              20BFDD26 : 18370              
+10E8 - Float             20C3B128 : 10000              20BFDD28 : 10000              
+10EC - Pointer           20C3B12C : P->3DCCCCCD        20BFDD2C : P->3DCCCCCD        
+10F0 - 4 Bytes           20C3B130 : 0                  20BFDD30 : 0                  
+10F4 - Float             20C3B134 : 70000              20BFDD34 : 70000              
+10F8 - Float             20C3B138 : 10000              20BFDD38 : 10000              
+10FC - Pointer           20C3B13C : P->3DCCCCCD        20BFDD3C : P->3DCCCCCD        
+1100 - 4 Bytes           20C3B140 : 0                  20BFDD40 : 0                  
+1104 - 4 Bytes           20C3B144 : 0                  20BFDD44 : 0                  
+1108 - Pointer           20C3B148 : P->3EA1A36F        20BFDD48 : P->3E9BE0DF        
+110C - Pointer           20C3B14C : P->3E666666        20BFDD4C : P->3E666666        
+1110 - Float             20C3B150 : 26.5               20BFDD50 : 25.5               
+1114 - Float             20C3B154 : 1                  20BFDD54 : 1                  
+1118 - Double            20C3B158 : 0.0205300039553549 20BFDD58 : 0.0190600044035818 
+1120 - Double            20C3B160 : 0.025000009661431  20BFDD60 : 0.0250000096610887 
+1128 - Float             20C3B168 : 6012               20BFDD68 : 5510               
+112C - Float             20C3B16C : 16                 20BFDD6C : 16                 
+1130 - Float             20C3B170 : 0.5                20BFDD70 : 0.4499999881       
+1134 - Float             20C3B174 : 7.5                20BFDD74 : 7.5                
+1138 - String            20C3B178 : DCH_EVO1           20BFDD78 : FIA_COU            
+1141 - Byte              20C3B181 : 211                20BFDD81 : 211                
+1142 - 2 Bytes           20C3B182 : 18370              20BFDD82 : 18370              
+1144 - Float             20C3B184 : 10000              20BFDD84 : 10000              
+1148 - Pointer           20C3B188 : P->3DCCCCCD        20BFDD88 : P->3DCCCCCD        
+114C - 4 Bytes           20C3B18C : 0                  20BFDD8C : 0                  
+1150 - Float             20C3B190 : 70000              20BFDD90 : 70000              
+1154 - Float             20C3B194 : 10000              20BFDD94 : 10000              
+1158 - Pointer           20C3B198 : P->3DCCCCCD        20BFDD98 : P->3DCCCCCD        
+115C - 4 Bytes           20C3B19C : 0                  20BFDD9C : 0                  
+1160 - 4 Bytes           20C3B1A0 : 0                  20BFDDA0 : 0                  
+1164 - Pointer           20C3B1A4 : P->3EA1A36F        20BFDDA4 : P->3E9BE0DF        
+1168 - Pointer           20C3B1A8 : P->3E666666        20BFDDA8 : P->3E666666        
+116C - Float             20C3B1AC : 26.5               20BFDDAC : 25.5               
+1170 - Float             20C3B1B0 : 1                  20BFDDB0 : 1                  
+1174 - Double            20C3B1B4 : 0.0244281328225043 20BFDDB4 : 0.0229187495016959 
+117C - Double            20C3B1BC : 0.0250000096623386 20BFDDBC : 0.0250000096619871 
+1184 - Float             20C3B1C4 : 6012               20BFDDC4 : 5510               
+1188 - Float             20C3B1C8 : 16                 20BFDDC8 : 16                 
+118C - Float             20C3B1CC : 0.5                20BFDDCC : 0.4499999881       
+1190 - Float             20C3B1D0 : 7.5                20BFDDD0 : 7.5                
+1194 - String            20C3B1D4 : DCH_EVO1           20BFDDD4 : FIA_COU            
+119D - Byte              20C3B1DD : 211                20BFDDDD : 211                
+119E - 2 Bytes           20C3B1DE : 18370              20BFDDDE : 18370              
+11A0 - Float             20C3B1E0 : 10000              20BFDDE0 : 10000              
+11A4 - Pointer           20C3B1E4 : P->3DCCCCCD        20BFDDE4 : P->3DCCCCCD        
+11A8 - 4 Bytes           20C3B1E8 : 0                  20BFDDE8 : 0                  
+11AC - Float             20C3B1EC : 70000              20BFDDEC : 70000              
+11B0 - Float             20C3B1F0 : 10000              20BFDDF0 : 10000              
+11B4 - Pointer           20C3B1F4 : P->3DCCCCCD        20BFDDF4 : P->3DCCCCCD        
+11B8 - 4 Bytes           20C3B1F8 : 0                  20BFDDF8 : 0                  
+11BC - 4 Bytes           20C3B1FC : 0                  20BFDDFC : 0                  
+11C0 - Pointer           20C3B200 : P->3EA1A36F        20BFDE00 : P->3E9BE0DF        
+11C4 - Pointer           20C3B204 : P->3E666666        20BFDE04 : P->3E666666        
+11C8 - Float             20C3B208 : 26.5               20BFDE08 : 25.5               
+11CC - Float             20C3B20C : 1                  20BFDE0C : 1                  
+11D0 - Double            20C3B210 : 0.012230316127534  20BFDE10 : 0.0115543771040393 
+11D8 - Double            20C3B218 : 0.0250000096587082 20BFDE18 : 0.0250000096583934 
+11E0 - Float             20C3B220 : 6012               20BFDE20 : 5510               
+11E4 - Float             20C3B224 : 16                 20BFDE24 : 16                 
+11E8 - Float             20C3B228 : 0.5                20BFDE28 : 0.4499999881       
+11EC - Float             20C3B22C : 7.5                20BFDE2C : 7.5                
+11F0 - String            20C3B230 : DCH_EVO1           20BFDE30 : FIA_COU            
+11F9 - Byte              20C3B239 : 211                20BFDE39 : 211                
+11FA - 2 Bytes           20C3B23A : 18370              20BFDE3A : 18370              
+11FC - Float             20C3B23C : 10000              20BFDE3C : 10000              
+1200 - Pointer           20C3B240 : P->3DCCCCCD        20BFDE40 : P->3DCCCCCD        
+1204 - 4 Bytes           20C3B244 : 0                  20BFDE44 : 0                  
+1208 - Float             20C3B248 : 70000              20BFDE48 : 70000              
+120C - Float             20C3B24C : 10000              20BFDE4C : 10000              
+1210 - Pointer           20C3B250 : P->3DCCCCCD        20BFDE50 : P->3DCCCCCD        
+1214 - 4 Bytes           20C3B254 : 0                  20BFDE54 : 0                  
+1218 - 4 Bytes           20C3B258 : 0                  20BFDE58 : 0                  
+121C - Pointer           20C3B25C : P->3EA1A36F        20BFDE5C : P->3E9BE0DF        
+1220 - Pointer           20C3B260 : P->3E666666        20BFDE60 : P->3E666666        
+1224 - Float             20C3B264 : 26.5               20BFDE64 : 25.5               
+1228 - Float             20C3B268 : 1                  20BFDE68 : 1                  
+122C - Double            20C3B26C : 0.0141793731105281 20BFDE6C : 0.0134837496530963 
+1234 - Double            20C3B274 : 0.0250000096596158 20BFDE74 : 0.0250000096592918 
+123C - Float             20C3B27C : 6012               20BFDE7C : 5510               
+1240 - Float             20C3B280 : 16                 20BFDE80 : 16                 
+1244 - Float             20C3B284 : 0.5                20BFDE84 : 0.4499999881       
+1248 - Float             20C3B288 : 7.5                20BFDE88 : 7.5                
+124C - String            20C3B28C : DCH_EVO1           20BFDE8C : FIA_COU            
+1255 - Byte              20C3B295 : 211                20BFDE95 : 211                
+1256 - 2 Bytes           20C3B296 : 18370              20BFDE96 : 18370              
+1258 - Float             20C3B298 : 10000              20BFDE98 : 10000              
+125C - Pointer           20C3B29C : P->3DCCCCCD        20BFDE9C : P->3DCCCCCD        
+1260 - 4 Bytes           20C3B2A0 : 0                  20BFDEA0 : 0                  
+1264 - Float             20C3B2A4 : 70000              20BFDEA4 : 70000              
+1268 - Float             20C3B2A8 : 10000              20BFDEA8 : 10000              
+126C - Pointer           20C3B2AC : P->3DCCCCCD        20BFDEAC : P->3DCCCCCD        
+1270 - 4 Bytes           20C3B2B0 : 0                  20BFDEB0 : 0                  
+1274 - 4 Bytes           20C3B2B4 : 0                  20BFDEB4 : 0                  
+1278 - Pointer           20C3B2B8 : P->3EA1A36F        20BFDEB8 : P->3E9BE0DF        
+127C - Pointer           20C3B2BC : P->3E666666        20BFDEBC : P->3E666666        
+1280 - Float             20C3B2C0 : 26.5               20BFDEC0 : 25.5               
+1284 - Float             20C3B2C4 : 1                  20BFDEC4 : 1                  
+1288 - Double            20C3B2C8 : 0.0166318750882056 20BFDEC8 : 0.0154131296527339 
+1290 - Double            20C3B2D0 : 0.0250000096605234 20BFDED0 : 0.0250000096601903 
+1298 - Float             20C3B2D8 : 6012               20BFDED8 : 5510               
+129C - Float             20C3B2DC : 16                 20BFDEDC : 16                 
+12A0 - Float             20C3B2E0 : 0.5                20BFDEE0 : 0.4499999881       
+12A4 - Float             20C3B2E4 : 7.5                20BFDEE4 : 7.5                
+12A8 - String            20C3B2E8 : DCH_EVO1           20BFDEE8 : FIA_COU            
+12B1 - Byte              20C3B2F1 : 211                20BFDEF1 : 211                
+12B2 - 2 Bytes           20C3B2F2 : 18370              20BFDEF2 : 18370              
+12B4 - Float             20C3B2F4 : 10000              20BFDEF4 : 10000              
+12B8 - Pointer           20C3B2F8 : P->3DCCCCCD        20BFDEF8 : P->3DCCCCCD        
+12BC - 4 Bytes           20C3B2FC : 0                  20BFDEFC : 0                  
+12C0 - Float             20C3B300 : 70000              20BFDF00 : 70000              
+12C4 - Float             20C3B304 : 10000              20BFDF04 : 10000              
+12C8 - Pointer           20C3B308 : P->3DCCCCCD        20BFDF08 : P->3DCCCCCD        
+12CC - 4 Bytes           20C3B30C : 0                  20BFDF0C : 0                  
+12D0 - 4 Bytes           20C3B310 : 0                  20BFDF10 : 0                  
+12D4 - Pointer           20C3B314 : P->3EA1A36F        20BFDF14 : P->3E9BE0DF        
+12D8 - Pointer           20C3B318 : P->3E666666        20BFDF18 : P->3E666666        
+12DC - Float             20C3B31C : 26.5               20BFDF1C : 25.5               
+12E0 - Float             20C3B320 : 1                  20BFDF20 : 1                  
+12E4 - Double            20C3B324 : 0.0205300039553549 20BFDF24 : 0.0190600044035818 
+12EC - Double            20C3B32C : 0.025000009661431  20BFDF2C : 0.0250000096610887 
+12F4 - Float             20C3B334 : 6012               20BFDF34 : 5510               
+12F8 - Float             20C3B338 : 16                 20BFDF38 : 16                 
+12FC - Float             20C3B33C : 0.5                20BFDF3C : 0.4499999881       
+1300 - Float             20C3B340 : 7.5                20BFDF40 : 7.5                
+1304 - String            20C3B344 : DCH_EVO1           20BFDF44 : FIA_COU            
+130D - Byte              20C3B34D : 211                20BFDF4D : 211                
+130E - 2 Bytes           20C3B34E : 18370              20BFDF4E : 18370              
+1310 - Float             20C3B350 : 10000              20BFDF50 : 10000              
+1314 - Pointer           20C3B354 : P->3DCCCCCD        20BFDF54 : P->3DCCCCCD        
+1318 - 4 Bytes           20C3B358 : 0                  20BFDF58 : 0                  
+131C - Float             20C3B35C : 70000              20BFDF5C : 70000              
+1320 - Float             20C3B360 : 10000              20BFDF60 : 10000              
+1324 - Pointer           20C3B364 : P->3DCCCCCD        20BFDF64 : P->3DCCCCCD        
+1328 - 4 Bytes           20C3B368 : 0                  20BFDF68 : 0                  
+132C - 4 Bytes           20C3B36C : 0                  20BFDF6C : 0                  
+1330 - Pointer           20C3B370 : P->3EA1A36F        20BFDF70 : P->3E9BE0DF        
+1334 - Pointer           20C3B374 : P->3E666666        20BFDF74 : P->3E666666        
+1338 - Float             20C3B378 : 26.5               20BFDF78 : 25.5               
+133C - Float             20C3B37C : 1                  20BFDF7C : 1                  
+1340 - Double            20C3B380 : 0.0244281328225043 20BFDF80 : 0.0229187495016959 
+1348 - Double            20C3B388 : 0.0250000096623386 20BFDF88 : 0.0250000096619871 
+1350 - Float             20C3B390 : 6012               20BFDF90 : 5510               
+1354 - Float             20C3B394 : 16                 20BFDF94 : 16                 
+1358 - Float             20C3B398 : 0.5                20BFDF98 : 0.4499999881       
+135C - Float             20C3B39C : 7.5                20BFDF9C : 7.5                
+1360 - String            20C3B3A0 : DCH_EVO1           20BFDFA0 : FIA_COU            
+1369 - Byte              20C3B3A9 : 211                20BFDFA9 : 211                
+136A - 2 Bytes           20C3B3AA : 18370              20BFDFAA : 18370              
+136C - Float             20C3B3AC : 10000              20BFDFAC : 10000              
+1370 - Pointer           20C3B3B0 : P->3DCCCCCD        20BFDFB0 : P->3DCCCCCD        
+1374 - 4 Bytes           20C3B3B4 : 0                  20BFDFB4 : 0                  
+1378 - Float             20C3B3B8 : 70000              20BFDFB8 : 70000              
+137C - Float             20C3B3BC : 10000              20BFDFBC : 10000              
+1380 - Pointer           20C3B3C0 : P->3DCCCCCD        20BFDFC0 : P->3DCCCCCD        
+1384 - 4 Bytes           20C3B3C4 : 0                  20BFDFC4 : 0                  
+1388 - 4 Bytes           20C3B3C8 : 0                  20BFDFC8 : 0                  
+138C - Pointer           20C3B3CC : P->3EA1A36F        20BFDFCC : P->3E9BE0DF        
+1390 - Pointer           20C3B3D0 : P->3E666666        20BFDFD0 : P->3E666666        
+1394 - Float             20C3B3D4 : 25                 20BFDFD4 : 24                 
+1398 - Float             20C3B3D8 : 1                  20BFDFD8 : 1                  
+139C - Double            20C3B3DC : 0.0102812516939593 20BFDFDC : 0.0096250045549823 
+13A4 - Double            20C3B3E4 : 0.0250000096578005 20BFDFE4 : 0.025000009657495  
+13AC - Float             20C3B3EC : 6012               20BFDFEC : 5510               
+13B0 - Float             20C3B3F0 : 16                 20BFDFF0 : 16                 
+13B4 - Float             20C3B3F4 : 0.5                20BFDFF4 : 0.4499999881       
+13B8 - Float             20C3B3F8 : 7.5                20BFDFF8 : 7.5                
+13BC - String            20C3B3FC : DCH_EVO1           20BFDFFC : FIA_COU            
+13C5 - Byte              20C3B405 : 211                20BFE005 : 211                
+13C6 - 2 Bytes           20C3B406 : 18370              20BFE006 : 18370              
+13C8 - Float             20C3B408 : 10000              20BFE008 : 10000              
+13CC - Pointer           20C3B40C : P->3DCCCCCD        20BFE00C : P->3DCCCCCD        
+13D0 - 4 Bytes           20C3B410 : 0                  20BFE010 : 0                  
+13D4 - Float             20C3B414 : 70000              20BFE014 : 70000              
+13D8 - Float             20C3B418 : 10000              20BFE018 : 10000              
+13DC - Pointer           20C3B41C : P->3DCCCCCD        20BFE01C : P->3DCCCCCD        
+13E0 - 4 Bytes           20C3B420 : 0                  20BFE020 : 0                  
+13E4 - 4 Bytes           20C3B424 : 0                  20BFE024 : 0                  
+13E8 - Pointer           20C3B428 : P->3EA1A36F        20BFE028 : P->3E9BE0DF        
+13EC - Pointer           20C3B42C : P->3E666666        20BFE02C : P->3E666666        
+13F0 - Float             20C3B430 : 25                 20BFE030 : 24                 
+13F4 - Float             20C3B434 : 1                  20BFE034 : 1                  
+13F8 - Double            20C3B438 : 0.012230316127534  20BFE038 : 0.0115543771040393 
+1400 - Double            20C3B440 : 0.0250000096587082 20BFE040 : 0.0250000096583934 
+1408 - Float             20C3B448 : 6012               20BFE048 : 5510               
+140C - Float             20C3B44C : 16                 20BFE04C : 16                 
+1410 - Float             20C3B450 : 0.5                20BFE050 : 0.4499999881       
+1414 - Float             20C3B454 : 7.5                20BFE054 : 7.5                
+1418 - String            20C3B458 : DCH_EVO1           20BFE058 : FIA_COU            
+1421 - Byte              20C3B461 : 211                20BFE061 : 211                
+1422 - 2 Bytes           20C3B462 : 18370              20BFE062 : 18370              
+1424 - Float             20C3B464 : 10000              20BFE064 : 10000              
+1428 - Pointer           20C3B468 : P->3DCCCCCD        20BFE068 : P->3DCCCCCD        
+142C - 4 Bytes           20C3B46C : 0                  20BFE06C : 0                  
+1430 - Float             20C3B470 : 70000              20BFE070 : 70000              
+1434 - Float             20C3B474 : 10000              20BFE074 : 10000              
+1438 - Pointer           20C3B478 : P->3DCCCCCD        20BFE078 : P->3DCCCCCD        
+143C - 4 Bytes           20C3B47C : 0                  20BFE07C : 0                  
+1440 - 4 Bytes           20C3B480 : 0                  20BFE080 : 0                  
+1444 - Pointer           20C3B484 : P->3EA1A36F        20BFE084 : P->3E9BE0DF        
+1448 - Pointer           20C3B488 : P->3E666666        20BFE088 : P->3E666666        
+144C - Float             20C3B48C : 25                 20BFE08C : 24                 
+1450 - Float             20C3B490 : 1                  20BFE090 : 1                  
+1454 - Double            20C3B494 : 0.0141793731105281 20BFE094 : 0.0134837496530963 
+145C - Double            20C3B49C : 0.0250000096596158 20BFE09C : 0.0250000096592918 
+1464 - Float             20C3B4A4 : 6012               20BFE0A4 : 5510               
+1468 - Float             20C3B4A8 : 16                 20BFE0A8 : 16                 
+146C - Float             20C3B4AC : 0.5                20BFE0AC : 0.4499999881       
+1470 - Float             20C3B4B0 : 7.5                20BFE0B0 : 7.5                
+1474 - String            20C3B4B4 : DCH_EVO1           20BFE0B4 : FIA_COU            
+147D - Byte              20C3B4BD : 211                20BFE0BD : 211                
+147E - 2 Bytes           20C3B4BE : 18370              20BFE0BE : 18370              
+1480 - Float             20C3B4C0 : 10000              20BFE0C0 : 10000              
+1484 - Pointer           20C3B4C4 : P->3DCCCCCD        20BFE0C4 : P->3DCCCCCD        
+1488 - 4 Bytes           20C3B4C8 : 0                  20BFE0C8 : 0                  
+148C - Float             20C3B4CC : 70000              20BFE0CC : 70000              
+1490 - Float             20C3B4D0 : 10000              20BFE0D0 : 10000              
+1494 - Pointer           20C3B4D4 : P->3DCCCCCD        20BFE0D4 : P->3DCCCCCD        
+1498 - 4 Bytes           20C3B4D8 : 0                  20BFE0D8 : 0                  
+149C - 4 Bytes           20C3B4DC : 0                  20BFE0DC : 0                  
+14A0 - Pointer           20C3B4E0 : P->3EA1A36F        20BFE0E0 : P->3E9BE0DF        
+14A4 - Pointer           20C3B4E4 : P->3E666666        20BFE0E4 : P->3E666666        
+14A8 - Float             20C3B4E8 : 25                 20BFE0E8 : 24                 
+14AC - Float             20C3B4EC : 1                  20BFE0EC : 1                  
+14B0 - Double            20C3B4F0 : 0.0166318750882056 20BFE0F0 : 0.0154131296527339 
+14B8 - Double            20C3B4F8 : 0.0250000096605234 20BFE0F8 : 0.0250000096601903 
+14C0 - Float             20C3B500 : 6012               20BFE100 : 5510               
+14C4 - Float             20C3B504 : 16                 20BFE104 : 16                 
+14C8 - Float             20C3B508 : 0.5                20BFE108 : 0.4499999881       
+14CC - Float             20C3B50C : 7.5                20BFE10C : 7.5                
+14D0 - String            20C3B510 : DCH_EVO1           20BFE110 : FIA_COU            
+14D9 - Byte              20C3B519 : 211                20BFE119 : 211                
+14DA - 2 Bytes           20C3B51A : 18370              20BFE11A : 18370              
+14DC - Float             20C3B51C : 10000              20BFE11C : 10000              
+14E0 - Pointer           20C3B520 : P->3DCCCCCD        20BFE120 : P->3DCCCCCD        
+14E4 - 4 Bytes           20C3B524 : 0                  20BFE124 : 0                  
+14E8 - Float             20C3B528 : 70000              20BFE128 : 70000              
+14EC - Float             20C3B52C : 10000              20BFE12C : 10000              
+14F0 - Pointer           20C3B530 : P->3DCCCCCD        20BFE130 : P->3DCCCCCD        
+14F4 - 4 Bytes           20C3B534 : 0                  20BFE134 : 0                  
+14F8 - 4 Bytes           20C3B538 : 0                  20BFE138 : 0                  
+14FC - Pointer           20C3B53C : P->3EA1A36F        20BFE13C : P->3E9BE0DF        
+1500 - Pointer           20C3B540 : P->3E666666        20BFE140 : P->3E666666        
+1504 - Float             20C3B544 : 25                 20BFE144 : 24                 
+1508 - Float             20C3B548 : 1                  20BFE148 : 1                  
+150C - Double            20C3B54C : 0.0205300039553549 20BFE14C : 0.0190600044035818 
+1514 - Double            20C3B554 : 0.025000009661431  20BFE154 : 0.0250000096610887 
+151C - Float             20C3B55C : 6012               20BFE15C : 5510               
+1520 - Float             20C3B560 : 16                 20BFE160 : 16                 
+1524 - Float             20C3B564 : 0.5                20BFE164 : 0.4499999881       
+1528 - Float             20C3B568 : 7.5                20BFE168 : 7.5                
+152C - String            20C3B56C : DCH_EVO1           20BFE16C : FIA_COU            
+1535 - Byte              20C3B575 : 211                20BFE175 : 211                
+1536 - 2 Bytes           20C3B576 : 18370              20BFE176 : 18370              
+1538 - Float             20C3B578 : 10000              20BFE178 : 10000              
+153C - Pointer           20C3B57C : P->3DCCCCCD        20BFE17C : P->3DCCCCCD        
+1540 - 4 Bytes           20C3B580 : 0                  20BFE180 : 0                  
+1544 - Float             20C3B584 : 70000              20BFE184 : 70000              
+1548 - Float             20C3B588 : 10000              20BFE188 : 10000              
+154C - Pointer           20C3B58C : P->3DCCCCCD        20BFE18C : P->3DCCCCCD        
+1550 - 4 Bytes           20C3B590 : 0                  20BFE190 : 0                  
+1554 - 4 Bytes           20C3B594 : 0                  20BFE194 : 0                  
+1558 - Pointer           20C3B598 : P->3EA1A36F        20BFE198 : P->3E9BE0DF        
+155C - Pointer           20C3B59C : P->3E666666        20BFE19C : P->3E666666        
+1560 - Float             20C3B5A0 : 25                 20BFE1A0 : 24                 
+1564 - Float             20C3B5A4 : 1                  20BFE1A4 : 1                  
+1568 - Double            20C3B5A8 : 0.0244281328225043 20BFE1A8 : 0.0229187495016959 
+1570 - Double            20C3B5B0 : 0.0250000096623386 20BFE1B0 : 0.0250000096619871 
+1578 - Float             20C3B5B8 : 6012               20BFE1B8 : 5510               
+157C - Float             20C3B5BC : 16                 20BFE1BC : 16                 
+1580 - Float             20C3B5C0 : 0.5                20BFE1C0 : 0.4499999881       
+1584 - Float             20C3B5C4 : 7.5                20BFE1C4 : 7.5                
+1588 - String            20C3B5C8 : DCH_EVO1           20BFE1C8 : FIA_COU            
+1591 - Byte              20C3B5D1 : 211                20BFE1D1 : 211                
+1592 - 2 Bytes           20C3B5D2 : 18370              20BFE1D2 : 18370              
+1594 - Float             20C3B5D4 : 10000              20BFE1D4 : 10000              
+1598 - Pointer           20C3B5D8 : P->3DCCCCCD        20BFE1D8 : P->3DCCCCCD        
+159C - 4 Bytes           20C3B5DC : 0                  20BFE1DC : 0                  
+15A0 - Float             20C3B5E0 : 70000              20BFE1E0 : 70000              
+15A4 - Float             20C3B5E4 : 10000              20BFE1E4 : 10000              
+15A8 - Pointer           20C3B5E8 : P->3DCCCCCD        20BFE1E8 : P->3DCCCCCD        
+15AC - 4 Bytes           20C3B5EC : 0                  20BFE1EC : 0                  
+15B0 - 4 Bytes           20C3B5F0 : 0                  20BFE1F0 : 0                  
+15B4 - Pointer           20C3B5F4 : P->3EA1A36F        20BFE1F4 : P->3E9BE0DF        
+15B8 - Pointer           20C3B5F8 : P->3E666666        20BFE1F8 : P->3E666666        
+15BC - Float             20C3B5FC : 25                 20BFE1FC : 24                 
+15C0 - Float             20C3B600 : 1                  20BFE200 : 1                  
+15C4 - Double            20C3B604 : 0.0179312563443091 20BFE204 : 0.0164874977373984 
+15CC - Double            20C3B60C : 0.0250000096608259 20BFE20C : 0.0250000096604897 
+15D4 - Float             20C3B614 : 6012               20BFE214 : 5510               
+15D8 - Float             20C3B618 : 16                 20BFE218 : 16                 
+15DC - Float             20C3B61C : 0.5                20BFE21C : 0.4499999881       
+15E0 - Float             20C3B620 : 7.5                20BFE220 : 7.5                
+15E4 - String            20C3B624 : DCH_EVO1           20BFE224 : FIA_COU            
+15ED - Byte              20C3B62D : 211                20BFE22D : 211                
+15EE - 2 Bytes           20C3B62E : 18370              20BFE22E : 18370              
+15F0 - Float             20C3B630 : 10000              20BFE230 : 10000              
+15F4 - Pointer           20C3B634 : P->3DCCCCCD        20BFE234 : P->3DCCCCCD        
+15F8 - 4 Bytes           20C3B638 : 0                  20BFE238 : 0                  
+15FC - Float             20C3B63C : 70000              20BFE23C : 70000              
+1600 - Float             20C3B640 : 10000              20BFE240 : 10000              
+1604 - Pointer           20C3B644 : P->3DCCCCCD        20BFE244 : P->3DCCCCCD        
+1608 - 4 Bytes           20C3B648 : 0                  20BFE248 : 0                  
+160C - 4 Bytes           20C3B64C : 0                  20BFE24C : 0                  
+1610 - Pointer           20C3B650 : P->3EA1A36F        20BFE250 : P->3E9BE0DF        
+1614 - Pointer           20C3B654 : P->3E666666        20BFE254 : P->3E666666        
+1618 - Float             20C3B658 : 25                 20BFE258 : 24                 
+161C - Float             20C3B65C : 1                  20BFE25C : 1                  
+1620 - Double            20C3B660 : 0.0244281328225043 20BFE260 : 0.0229187495016959 
+1628 - Double            20C3B668 : 0.0250000096623386 20BFE268 : 0.0250000096619871 
+1630 - Float             20C3B670 : 6012               20BFE270 : 5510               
+1634 - Float             20C3B674 : 16                 20BFE274 : 16                 
+1638 - Float             20C3B678 : 0.5                20BFE278 : 0.4499999881       
+163C - Float             20C3B67C : 7.5                20BFE27C : 7.5                
+1640 - String            20C3B680 : DCH_EVO1           20BFE280 : FIA_COU            
+1649 - Byte              20C3B689 : 211                20BFE289 : 211                
+164A - 2 Bytes           20C3B68A : 18370              20BFE28A : 18370              
+164C - Float             20C3B68C : 10000              20BFE28C : 10000              
+1650 - Pointer           20C3B690 : P->3DCCCCCD        20BFE290 : P->3DCCCCCD        
+1654 - 4 Bytes           20C3B694 : 0                  20BFE294 : 0                  
+1658 - Float             20C3B698 : 70000              20BFE298 : 70000              
+165C - Float             20C3B69C : 10000              20BFE29C : 10000              
+1660 - Pointer           20C3B6A0 : P->3DCCCCCD        20BFE2A0 : P->3DCCCCCD        
+1664 - 4 Bytes           20C3B6A4 : 0                  20BFE2A4 : 0                  
+1668 - 4 Bytes           20C3B6A8 : 0                  20BFE2A8 : 0                  
+166C - Pointer           20C3B6AC : P->3EA1A36F        20BFE2AC : P->3E9BE0DF        
+1670 - Pointer           20C3B6B0 : P->3E666666        20BFE2B0 : P->3E666666        
+1674 - Float             20C3B6B4 : 25                 20BFE2B4 : 24                 
+1678 - Float             20C3B6B8 : 1                  20BFE2B8 : 1                  
+167C - Double            20C3B6BC : 0.0309250093006995 20BFE2BC : 0.0293500012659933 
+1684 - Double            20C3B6C4 : 0.0250000096638512 20BFE2C4 : 0.0250000096634845 
+168C - Float             20C3B6CC : 6012               20BFE2CC : 5510               
+1690 - Float             20C3B6D0 : 16                 20BFE2D0 : 16                 
+1694 - Float             20C3B6D4 : 0.5                20BFE2D4 : 0.4499999881       
+1698 - Float             20C3B6D8 : 7.5                20BFE2D8 : 7.5                
+169C - String            20C3B6DC : DCH_EVO1           20BFE2DC : FIA_COU            
+16A5 - Byte              20C3B6E5 : 211                20BFE2E5 : 211                
+16A6 - 2 Bytes           20C3B6E6 : 18370              20BFE2E6 : 18370              
+16A8 - Float             20C3B6E8 : 10000              20BFE2E8 : 10000              
+16AC - Pointer           20C3B6EC : P->3DCCCCCD        20BFE2EC : P->3DCCCCCD        
+16B0 - 4 Bytes           20C3B6F0 : 0                  20BFE2F0 : 0                  
+16B4 - Float             20C3B6F4 : 70000              20BFE2F4 : 70000              
+16B8 - Float             20C3B6F8 : 10000              20BFE2F8 : 10000              
+16BC - Pointer           20C3B6FC : P->3DCCCCCD        20BFE2FC : P->3DCCCCCD        
+16C0 - 4 Bytes           20C3B700 : 0                  20BFE300 : 0                  
+16C4 - 4 Bytes           20C3B704 : 0                  20BFE304 : 0                  
+16C8 - Pointer           20C3B708 : P->3EA1A36F        20BFE308 : P->3E9BE0DF        
+16CC - Pointer           20C3B70C : P->3E666666        20BFE30C : P->3E666666        
+16D0 - Float             20C3B710 : 25                 20BFE310 : 24                 
+16D4 - Float             20C3B714 : 1                  20BFE314 : 1                  
+16D8 - Double            20C3B718 : 0.0435937715577893 20BFE318 : 0.0403125060605817 
+16E0 - Double            20C3B720 : 0.0250000096653639 20BFE320 : 0.0250000096649819 
+16E8 - Float             20C3B728 : 6012               20BFE328 : 5510               
+16EC - Float             20C3B72C : 16                 20BFE32C : 16                 
+16F0 - Float             20C3B730 : 0.5                20BFE330 : 0.4499999881       
+16F4 - Float             20C3B734 : 7.5                20BFE334 : 7.5                
+16F8 - String            20C3B738 : DCH_EVO1           20BFE338 : FIA_COU            
+1701 - Byte              20C3B741 : 211                20BFE341 : 211                
+1702 - 2 Bytes           20C3B742 : 18370              20BFE342 : 18370              
+1704 - Float             20C3B744 : 10000              20BFE344 : 10000              
+1708 - Pointer           20C3B748 : P->3DCCCCCD        20BFE348 : P->3DCCCCCD        
+170C - 4 Bytes           20C3B74C : 0                  20BFE34C : 0                  
+1710 - Float             20C3B750 : 70000              20BFE350 : 70000              
+1714 - Float             20C3B754 : 10000              20BFE354 : 10000              
+1718 - Pointer           20C3B758 : P->3DCCCCCD        20BFE358 : P->3DCCCCCD        
+171C - 4 Bytes           20C3B75C : 0                  20BFE35C : 0                  
+1720 - 4 Bytes           20C3B760 : 0                  20BFE360 : 0                  
+1724 - Pointer           20C3B764 : P->3EA1A36F        20BFE364 : P->3E9BE0DF        
+1728 - Pointer           20C3B768 : P->3E666666        20BFE368 : P->3E666666        
+172C - Float             20C3B76C : 25                 20BFE36C : 24                 
+1730 - Float             20C3B770 : 1                  20BFE370 : 1                  
+1734 - Double            20C3B774 : 0.0565874947118573 20BFE374 : 0.0531750095891766 
+173C - Double            20C3B77C : 0.0250000096668766 20BFE37C : 0.0250000096664793 
+1744 - Float             20C3B784 : 6012               20BFE384 : 5510               
+1748 - Float             20C3B788 : 16                 20BFE388 : 16                 
+174C - Float             20C3B78C : 0.5                20BFE38C : 0.4499999881       
+1750 - Float             20C3B790 : 7.5                20BFE390 : 7.5                
+1754 - String            20C3B794 : DCH_EVO1           20BFE394 : FIA_COU            
+175D - Byte              20C3B79D : 211                20BFE39D : 211                
+175E - 2 Bytes           20C3B79E : 18370              20BFE39E : 18370              
+1760 - Float             20C3B7A0 : 10000              20BFE3A0 : 10000              
+1764 - Pointer           20C3B7A4 : P->3DCCCCCD        20BFE3A4 : P->3DCCCCCD        
+1768 - 4 Bytes           20C3B7A8 : 0                  20BFE3A8 : 0                  
+176C - Float             20C3B7AC : 70000              20BFE3AC : 70000              
+1770 - Float             20C3B7B0 : 10000              20BFE3B0 : 10000              
+1774 - Pointer           20C3B7B4 : P->3DCCCCCD        20BFE3B4 : P->3DCCCCCD        
+1778 - 4 Bytes           20C3B7B8 : 0                  20BFE3B8 : 0                  
+177C - 4 Bytes           20C3B7BC : 0                  20BFE3BC : 0                  
+1780 - Pointer           20C3B7C0 : P->3EA1A36F        20BFE3C0 : P->3E9BE0DF        
+1784 - Pointer           20C3B7C4 : P->3E666666        20BFE3C4 : P->3E666666        
+1788 - Float             20C3B7C8 : 25                 20BFE3C8 : 24                 
+178C - Float             20C3B7CC : 1                  20BFE3CC : 1                  
+1790 - Double            20C3B7D0 : 0.012230316127534  20BFE3D0 : 0.0115543771040393 
+1798 - Double            20C3B7D8 : 0.0250000096587082 20BFE3D8 : 0.0250000096583934 
+17A0 - Float             20C3B7E0 : 6012               20BFE3E0 : 5510               
+17A4 - Float             20C3B7E4 : 16                 20BFE3E4 : 16                 
+17A8 - Float             20C3B7E8 : 0.5                20BFE3E8 : 0.4499999881       
+17AC - Float             20C3B7EC : 7.5                20BFE3EC : 7.5                
+17B0 - String            20C3B7F0 : DCH_EVO1           20BFE3F0 : FIA_COU            
+17B9 - Byte              20C3B7F9 : 211                20BFE3F9 : 211                
+17BA - 2 Bytes           20C3B7FA : 18370              20BFE3FA : 18370              
+17BC - Float             20C3B7FC : 10000              20BFE3FC : 10000              
+17C0 - Pointer           20C3B800 : P->3DCCCCCD        20BFE400 : P->3DCCCCCD        
+17C4 - 4 Bytes           20C3B804 : 0                  20BFE404 : 0                  
+17C8 - Float             20C3B808 : 70000              20BFE408 : 70000              
+17CC - Float             20C3B80C : 10000              20BFE40C : 10000              
+17D0 - Pointer           20C3B810 : P->3DCCCCCD        20BFE410 : P->3DCCCCCD        
+17D4 - 4 Bytes           20C3B814 : 0                  20BFE414 : 0                  
+17D8 - 4 Bytes           20C3B818 : 0                  20BFE418 : 0                  
+17DC - Pointer           20C3B81C : P->3EA1A36F        20BFE41C : P->3E9BE0DF        
+17E0 - Pointer           20C3B820 : P->3E666666        20BFE420 : P->3E666666        
+17E4 - Float             20C3B824 : 25                 20BFE424 : 24                 
+17E8 - Float             20C3B828 : 1                  20BFE428 : 1                  
+17EC - Double            20C3B82C : 0.0141793731105281 20BFE42C : 0.0134837496530963 
+17F4 - Double            20C3B834 : 0.0250000096596158 20BFE434 : 0.0250000096592918 
+17FC - Float             20C3B83C : 6012               20BFE43C : 5510               
+1800 - Float             20C3B840 : 16                 20BFE440 : 16                 
+1804 - Float             20C3B844 : 0.5                20BFE444 : 0.4499999881       
+1808 - Float             20C3B848 : 7.5                20BFE448 : 7.5                
+180C - String            20C3B84C : DCH_EVO1           20BFE44C : FIA_COU            
+1815 - Byte              20C3B855 : 211                20BFE455 : 211                
+1816 - 2 Bytes           20C3B856 : 18370              20BFE456 : 18370              
+1818 - Float             20C3B858 : 10000              20BFE458 : 10000              
+181C - Pointer           20C3B85C : P->3DCCCCCD        20BFE45C : P->3DCCCCCD        
+1820 - 4 Bytes           20C3B860 : 0                  20BFE460 : 0                  
+1824 - Float             20C3B864 : 70000              20BFE464 : 70000              
+1828 - Float             20C3B868 : 10000              20BFE468 : 10000              
+182C - Pointer           20C3B86C : P->3DCCCCCD        20BFE46C : P->3DCCCCCD        
+1830 - 4 Bytes           20C3B870 : 0                  20BFE470 : 0                  
+1834 - 4 Bytes           20C3B874 : 0                  20BFE474 : 0                  
+1838 - Pointer           20C3B878 : P->3EA1A36F        20BFE478 : P->3E9BE0DF        
+183C - Pointer           20C3B87C : P->3E666666        20BFE47C : P->3E666666        
+1840 - Float             20C3B880 : 25                 20BFE480 : 24                 
+1844 - Float             20C3B884 : 1                  20BFE484 : 1                  
+1848 - Double            20C3B888 : 0.0166318750882056 20BFE488 : 0.0154131296527339 
+1850 - Double            20C3B890 : 0.0250000096605234 20BFE490 : 0.0250000096601903 
+1858 - Float             20C3B898 : 6012               20BFE498 : 5510               
+185C - Float             20C3B89C : 16                 20BFE49C : 16                 
+1860 - Float             20C3B8A0 : 0.5                20BFE4A0 : 0.4499999881       
+1864 - Float             20C3B8A4 : 7.5                20BFE4A4 : 7.5                
+1868 - String            20C3B8A8 : DCH_EVO1           20BFE4A8 : FIA_COU            
+1871 - Byte              20C3B8B1 : 211                20BFE4B1 : 211                
+1872 - 2 Bytes           20C3B8B2 : 18370              20BFE4B2 : 18370              
+1874 - Float             20C3B8B4 : 10000              20BFE4B4 : 10000              
+1878 - Pointer           20C3B8B8 : P->3DCCCCCD        20BFE4B8 : P->3DCCCCCD        
+187C - 4 Bytes           20C3B8BC : 0                  20BFE4BC : 0                  
+1880 - Float             20C3B8C0 : 70000              20BFE4C0 : 70000              
+1884 - Float             20C3B8C4 : 10000              20BFE4C4 : 10000              
+1888 - Pointer           20C3B8C8 : P->3DCCCCCD        20BFE4C8 : P->3DCCCCCD        
+188C - 4 Bytes           20C3B8CC : 0                  20BFE4CC : 0                  
+1890 - 4 Bytes           20C3B8D0 : 0                  20BFE4D0 : 0                  
+1894 - Pointer           20C3B8D4 : P->3EA1A36F        20BFE4D4 : P->3E9BE0DF        
+1898 - Pointer           20C3B8D8 : P->3E666666        20BFE4D8 : P->3E666666        
+189C - Float             20C3B8DC : 25                 20BFE4DC : 24                 
+18A0 - Float             20C3B8E0 : 1                  20BFE4E0 : 1                  
+18A4 - Double            20C3B8E4 : 0.0205300039553549 20BFE4E4 : 0.0190600044035818 
+18AC - Double            20C3B8EC : 0.025000009661431  20BFE4EC : 0.0250000096610887 
+18B4 - Float             20C3B8F4 : 6012               20BFE4F4 : 5510               
+18B8 - Float             20C3B8F8 : 16                 20BFE4F8 : 16                 
+18BC - Float             20C3B8FC : 0.5                20BFE4FC : 0.4499999881       
+18C0 - Float             20C3B900 : 7.5                20BFE500 : 7.5                
+18C4 - String            20C3B904 : DCH_EVO1           20BFE504 : FIA_COU            
+18CD - Byte              20C3B90D : 211                20BFE50D : 211                
+18CE - 2 Bytes           20C3B90E : 18370              20BFE50E : 18370              
+18D0 - Float             20C3B910 : 10000              20BFE510 : 10000              
+18D4 - Pointer           20C3B914 : P->3DCCCCCD        20BFE514 : P->3DCCCCCD        
+18D8 - 4 Bytes           20C3B918 : 0                  20BFE518 : 0                  
+18DC - Float             20C3B91C : 70000              20BFE51C : 70000              
+18E0 - Float             20C3B920 : 10000              20BFE520 : 10000              
+18E4 - Pointer           20C3B924 : P->3DCCCCCD        20BFE524 : P->3DCCCCCD        
+18E8 - 4 Bytes           20C3B928 : 0                  20BFE528 : 0                  
+18EC - 4 Bytes           20C3B92C : 0                  20BFE52C : 0                  
+18F0 - Pointer           20C3B930 : P->3EA1A36F        20BFE530 : P->3E9BE0DF        
+18F4 - Pointer           20C3B934 : P->3E666666        20BFE534 : P->3E666666        
+18F8 - Float             20C3B938 : 25                 20BFE538 : 24                 
+18FC - Float             20C3B93C : 1                  20BFE53C : 1                  
+1900 - Double            20C3B940 : 0.0244281328225043 20BFE540 : 0.0229187495016959 
+1908 - Double            20C3B948 : 0.0250000096623386 20BFE548 : 0.0250000096619871 
+1910 - Float             20C3B950 : 6012               20BFE550 : 5510               
+1914 - Float             20C3B954 : 16                 20BFE554 : 16                 
+1918 - Float             20C3B958 : 0.5                20BFE558 : 0.4499999881       
+191C - Float             20C3B95C : 7.5                20BFE55C : 7.5                
+1920 - String            20C3B960 : DCH_EVO1           20BFE560 : FIA_COU            
+1929 - Byte              20C3B969 : 211                20BFE569 : 211                
+192A - 2 Bytes           20C3B96A : 18370              20BFE56A : 18370              
+192C - Float             20C3B96C : 10000              20BFE56C : 10000              
+1930 - Pointer           20C3B970 : P->3DCCCCCD        20BFE570 : P->3DCCCCCD        
+1934 - 4 Bytes           20C3B974 : 0                  20BFE574 : 0                  
+1938 - Float             20C3B978 : 70000              20BFE578 : 70000              
+193C - Float             20C3B97C : 10000              20BFE57C : 10000              
+1940 - Pointer           20C3B980 : P->3DCCCCCD        20BFE580 : P->3DCCCCCD        
+1944 - 4 Bytes           20C3B984 : 0                  20BFE584 : 0                  
+1948 - 4 Bytes           20C3B988 : 0                  20BFE588 : 0                  
+194C - Pointer           20C3B98C : P->3EA1A36F        20BFE58C : P->3E9BE0DF        
+1950 - Pointer           20C3B990 : P->3E666666        20BFE590 : P->3E666666        
+1954 - Float             20C3B994 : 25                 20BFE594 : 24                 
+1958 - Float             20C3B998 : 1                  20BFE598 : 1                  
+195C - Double            20C3B99C : 0.012230316127534  20BFE59C : 0.0115543771040393 
+1964 - Double            20C3B9A4 : 0.0250000096587082 20BFE5A4 : 0.0250000096583934 
+196C - Float             20C3B9AC : 6012               20BFE5AC : 5510               
+1970 - Float             20C3B9B0 : 16                 20BFE5B0 : 16                 
+1974 - Float             20C3B9B4 : 0.5                20BFE5B4 : 0.4499999881       
+1978 - Float             20C3B9B8 : 7.5                20BFE5B8 : 7.5                
+197C - String            20C3B9BC : DCH_EVO1           20BFE5BC : FIA_COU            
+1985 - Byte              20C3B9C5 : 211                20BFE5C5 : 211                
+1986 - 2 Bytes           20C3B9C6 : 18370              20BFE5C6 : 18370              
+1988 - Float             20C3B9C8 : 10000              20BFE5C8 : 10000              
+198C - Pointer           20C3B9CC : P->3DCCCCCD        20BFE5CC : P->3DCCCCCD        
+1990 - 4 Bytes           20C3B9D0 : 0                  20BFE5D0 : 0                  
+1994 - Float             20C3B9D4 : 70000              20BFE5D4 : 70000              
+1998 - Float             20C3B9D8 : 10000              20BFE5D8 : 10000              
+199C - Pointer           20C3B9DC : P->3DCCCCCD        20BFE5DC : P->3DCCCCCD        
+19A0 - 4 Bytes           20C3B9E0 : 0                  20BFE5E0 : 0                  
+19A4 - 4 Bytes           20C3B9E4 : 0                  20BFE5E4 : 0                  
+19A8 - Pointer           20C3B9E8 : P->3EA1A36F        20BFE5E8 : P->3E9BE0DF        
+19AC - Pointer           20C3B9EC : P->3E666666        20BFE5EC : P->3E666666        
+19B0 - Float             20C3B9F0 : 25                 20BFE5F0 : 24                 
+19B4 - Float             20C3B9F4 : 1                  20BFE5F4 : 1                  
+19B8 - Double            20C3B9F8 : 0.0141793731105281 20BFE5F8 : 0.0134837496530963 
+19C0 - Double            20C3BA00 : 0.0250000096596158 20BFE600 : 0.0250000096592918 
+19C8 - Float             20C3BA08 : 6012               20BFE608 : 5510               
+19CC - Float             20C3BA0C : 16                 20BFE60C : 16                 
+19D0 - Float             20C3BA10 : 0.5                20BFE610 : 0.4499999881       
+19D4 - Float             20C3BA14 : 7.5                20BFE614 : 7.5                
+19D8 - String            20C3BA18 : DCH_EVO1           20BFE618 : FIA_COU            
+19E1 - Byte              20C3BA21 : 211                20BFE621 : 211                
+19E2 - 2 Bytes           20C3BA22 : 18370              20BFE622 : 18370              
+19E4 - Float             20C3BA24 : 10000              20BFE624 : 10000              
+19E8 - Pointer           20C3BA28 : P->3DCCCCCD        20BFE628 : P->3DCCCCCD        
+19EC - 4 Bytes           20C3BA2C : 0                  20BFE62C : 0                  
+19F0 - Float             20C3BA30 : 70000              20BFE630 : 70000              
+19F4 - Float             20C3BA34 : 10000              20BFE634 : 10000              
+19F8 - Pointer           20C3BA38 : P->3DCCCCCD        20BFE638 : P->3DCCCCCD        
+19FC - 4 Bytes           20C3BA3C : 0                  20BFE63C : 0                  
+1A00 - 4 Bytes           20C3BA40 : 0                  20BFE640 : 0                  
+1A04 - Pointer           20C3BA44 : P->3EA1A36F        20BFE644 : P->3E9BE0DF        
+1A08 - Pointer           20C3BA48 : P->3E666666        20BFE648 : P->3E666666        
+1A0C - Float             20C3BA4C : 25                 20BFE64C : 24                 
+1A10 - Float             20C3BA50 : 1                  20BFE650 : 1                  
+1A14 - Double            20C3BA54 : 0.0166318750882056 20BFE654 : 0.0154131296527339 
+1A1C - Double            20C3BA5C : 0.0250000096605234 20BFE65C : 0.0250000096601903 
+1A24 - Float             20C3BA64 : 6012               20BFE664 : 5510               
+1A28 - Float             20C3BA68 : 16                 20BFE668 : 16                 
+1A2C - Float             20C3BA6C : 0.5                20BFE66C : 0.4499999881       
+1A30 - Float             20C3BA70 : 7.5                20BFE670 : 7.5                
+1A34 - String            20C3BA74 : DCH_EVO1           20BFE674 : FIA_COU            
+1A3D - Byte              20C3BA7D : 211                20BFE67D : 211                
+1A3E - 2 Bytes           20C3BA7E : 18370              20BFE67E : 18370              
+1A40 - Float             20C3BA80 : 10000              20BFE680 : 10000              
+1A44 - Pointer           20C3BA84 : P->3DCCCCCD        20BFE684 : P->3DCCCCCD        
+1A48 - 4 Bytes           20C3BA88 : 0                  20BFE688 : 0                  
+1A4C - Float             20C3BA8C : 70000              20BFE68C : 70000              
+1A50 - Float             20C3BA90 : 10000              20BFE690 : 10000              
+1A54 - Pointer           20C3BA94 : P->3DCCCCCD        20BFE694 : P->3DCCCCCD        
+1A58 - 4 Bytes           20C3BA98 : 0                  20BFE698 : 0                  
+1A5C - 4 Bytes           20C3BA9C : 0                  20BFE69C : 0                  
+1A60 - Pointer           20C3BAA0 : P->3EA1A36F        20BFE6A0 : P->3E9BE0DF        
+1A64 - Pointer           20C3BAA4 : P->3E666666        20BFE6A4 : P->3E666666        
+1A68 - Float             20C3BAA8 : 25                 20BFE6A8 : 24                 
+1A6C - Float             20C3BAAC : 1                  20BFE6AC : 1                  
+1A70 - Double            20C3BAB0 : 0.0205300039553549 20BFE6B0 : 0.0190600044035818 
+1A78 - Double            20C3BAB8 : 0.025000009661431  20BFE6B8 : 0.0250000096610887 
+1A80 - Float             20C3BAC0 : 6012               20BFE6C0 : 5510               
+1A84 - Float             20C3BAC4 : 16                 20BFE6C4 : 16                 
+1A88 - Float             20C3BAC8 : 0.5                20BFE6C8 : 0.4499999881       
+1A8C - Float             20C3BACC : 7.5                20BFE6CC : 7.5                
+1A90 - String            20C3BAD0 : DCH_EVO1           20BFE6D0 : FIA_COU            
+1A99 - Byte              20C3BAD9 : 211                20BFE6D9 : 211                
+1A9A - 2 Bytes           20C3BADA : 18370              20BFE6DA : 18370              
+1A9C - Float             20C3BADC : 10000              20BFE6DC : 10000              
+1AA0 - Pointer           20C3BAE0 : P->3DCCCCCD        20BFE6E0 : P->3DCCCCCD        
+1AA4 - 4 Bytes           20C3BAE4 : 0                  20BFE6E4 : 0                  
+1AA8 - Float             20C3BAE8 : 70000              20BFE6E8 : 70000              
+1AAC - Float             20C3BAEC : 10000              20BFE6EC : 10000              
+1AB0 - Pointer           20C3BAF0 : P->3DCCCCCD        20BFE6F0 : P->3DCCCCCD        
+1AB4 - 4 Bytes           20C3BAF4 : 0                  20BFE6F4 : 0                  
+1AB8 - 4 Bytes           20C3BAF8 : 0                  20BFE6F8 : 0                  
+1ABC - Pointer           20C3BAFC : P->3EA1A36F        20BFE6FC : P->3E9BE0DF        
+1AC0 - Pointer           20C3BB00 : P->3E666666        20BFE700 : P->3E666666        
+1AC4 - Float             20C3BB04 : 25                 20BFE704 : 24                 
+1AC8 - Float             20C3BB08 : 1                  20BFE708 : 1                  
+1ACC - Double            20C3BB0C : 0.0244281328225043 20BFE70C : 0.0229187495016959 
+1AD4 - Double            20C3BB14 : 0.0250000096623386 20BFE714 : 0.0250000096619871 
+1ADC - Float             20C3BB1C : 6012               20BFE71C : 5510               
+1AE0 - Float             20C3BB20 : 16                 20BFE720 : 16                 
+1AE4 - Float             20C3BB24 : 0.5                20BFE724 : 0.4499999881       
+1AE8 - Float             20C3BB28 : 7.5                20BFE728 : 7.5                
+1AEC - String            20C3BB2C : DCH_EVO1           20BFE72C : FIA_COU ¿          
+1AF6 - Byte              20C3BB36 : 0                  20BFE736 : 5                  
+1AF7 - Byte              20C3BB37 : 13                 20BFE737 : 150                
+1AF8 - 4 Bytes (Hex)     20C3BB38 : 0D000000           20BFE738 : 960500BF           
+1AFC - 4 Bytes           20C3BB3C : 3087007744         20BFE73C : 3087007744         
+1B00 - 4 Bytes           20C3BB40 : 3087007744         20BFE740 : 3087007744         
+1B04 - Pointer           20C3BB44 : P->00000000        20BFE744 : P->BFDF002F        
+1B08 - Pointer           20C3BB48 : P->00000000        20BFE748 : P->BFDF002F        
+1B0C - 4 Bytes (Hex)     20C3BB4C : 00000000           20BFE74C : B8000000           
+1B10 - 4 Bytes (Hex)     20C3BB50 : 00000000           20BFE750 : B8000000           
+1B14 - Float             20C3BB54 : 0                  20BFE754 : 3.422600806E10     
+1B18 - Float             20C3BB58 : 0                  20BFE758 : 3.422600806E10     
+1B1C - 4 Bytes (Hex)     20C3BB5C : 00000000           20BFE75C : B8000000           
+1B20 - 4 Bytes (Hex)     20C3BB60 : 00000000           20BFE760 : B8000000           
+1B24 - 4 Bytes (Hex)     20C3BB64 : 00000000           20BFE764 : 61FF0164           
+1B28 - 4 Bytes (Hex)     20C3BB68 : 00000000           20BFE768 : 61FF0164           
+1B2C - 4 Bytes           20C3BB6C : 0                  20BFE76C : 3087007744         
+1B30 - 4 Bytes           20C3BB70 : 0                  20BFE770 : 3087007744         
+1B34 - 4 Bytes (Hex)     20C3BB74 : 00000000           20BFE774 : 6E000000           
+1B38 - 4 Bytes (Hex)     20C3BB78 : 00000000           20BFE778 : 6E000000           
+1B3C - 4 Bytes (Hex)     20C3BB7C : 00000000           20BFE77C : B8000000           
+1B40 - 4 Bytes (Hex)     20C3BB80 : 00000000           20BFE780 : B8000000           
+1B44 - 4 Bytes           20C3BB84 : 0                  20BFE784 : 369033320          
+1B48 - 4 Bytes           20C3BB88 : 0                  20BFE788 : 369033320          
+1B4C - 4 Bytes           20C3BB8C : 0                  20BFE78C : 3087007744         
+1B50 - 4 Bytes           20C3BB90 : 0                  20BFE790 : 3087007744         
+1B54 - 4 Bytes           20C3BB94 : 0                  20BFE794 : 0                  
+1B58 - 4 Bytes           20C3BB98 : 0                  20BFE798 : 0                  
+1B5C - 4 Bytes           20C3BB9C : 0                  20BFE79C : 0                  
+1B60 - 4 Bytes           20C3BBA0 : 0                  20BFE7A0 : 0                  
+1B64 - 4 Bytes           20C3BBA4 : 0                  20BFE7A4 : 0                  
+1B68 - 4 Bytes           20C3BBA8 : 0                  20BFE7A8 : 0                  
+1B6C - 4 Bytes           20C3BBAC : 0                  20BFE7AC : 0                  
+1B70 - 4 Bytes           20C3BBB0 : 0                  20BFE7B0 : 0                  
+1B74 - 4 Bytes           20C3BBB4 : 0                  20BFE7B4 : 0                  
+1B78 - 4 Bytes           20C3BBB8 : 0                  20BFE7B8 : 0                  
+1B7C - 4 Bytes           20C3BBBC : 0                  20BFE7BC : 0                  
+1B80 - 4 Bytes           20C3BBC0 : 0                  20BFE7C0 : 0                  
+1B84 - 4 Bytes           20C3BBC4 : 0                  20BFE7C4 : 0                  
+1B88 - 4 Bytes           20C3BBC8 : 0                  20BFE7C8 : 0                  
+1B8C - 4 Bytes           20C3BBCC : 0                  20BFE7CC : 0                  
+1B90 - 4 Bytes           20C3BBD0 : 0                  20BFE7D0 : 0                  
+1B94 - 4 Bytes           20C3BBD4 : 0                  20BFE7D4 : 0                  
+1B98 - 4 Bytes           20C3BBD8 : 0                  20BFE7D8 : 0                  
+1B9C - 4 Bytes           20C3BBDC : 0                  20BFE7DC : 0                  
+1BA0 - 4 Bytes           20C3BBE0 : 0                  20BFE7E0 : 0                  
+1BA4 - 4 Bytes           20C3BBE4 : 0                  20BFE7E4 : 0                  
+1BA8 - 4 Bytes           20C3BBE8 : 0                  20BFE7E8 : 0                  
+1BAC - 4 Bytes           20C3BBEC : 0                  20BFE7EC : 0                  
+1BB0 - 4 Bytes           20C3BBF0 : 0                  20BFE7F0 : 0                  
+1BB4 - 4 Bytes           20C3BBF4 : 0                  20BFE7F4 : 0                  
+1BB8 - 4 Bytes           20C3BBF8 : 0                  20BFE7F8 : 0                  
+1BBC - 4 Bytes           20C3BBFC : 0                  20BFE7FC : 0                  
+1BC0 - 4 Bytes           20C3BC00 : 0                  20BFE800 : 0                  
+1BC4 - 4 Bytes           20C3BC04 : 1                  20BFE804 : 6                  
+1BC8 - String            20C3BC08 : DCH_EVO1           20BFE808 : FIA_COU            
+1BD1 - Byte              20C3BC11 : 0                  20BFE811 : 0                  
+1BD2 - 2 Bytes           20C3BC12 : 32000              20BFE812 : 32000              
+1BD4 - 4 Bytes           20C3BC14 : 2097152000         20BFE814 : 2097152000         
+1BD8 - 4 Bytes           20C3BC18 : 96                 20BFE818 : 96                 
+1BDC - 4 Bytes           20C3BC1C : 2097152000         20BFE81C : 2097152000         
+1BE0 - 4 Bytes           20C3BC20 : 2097152000         20BFE820 : 2097152000         
+1BE4 - 4 Bytes           20C3BC24 : 96                 20BFE824 : 96                 
+1BE8 - Double            20C3BC28 : 32                 20BFE828 : 32                 
+1BF0 - 4 Bytes           20C3BC30 : 0                  20BFE830 : 0                  
+1BF4 - String            20C3BC34 : 000000000000RIV_1  20BFE834 : 000000000000FIA_TCR 
+1C09 - Byte              20C3BC49 : 0                  20BFE849 : 0                  
+1C0A - Byte              20C3BC4A : 0                  20BFE84A : 0                  
+1C0B - Byte              20C3BC4B : 0                  20BFE84B : 0                  
+1C0C - 4 Bytes           20C3BC4C : 0                  20BFE84C : 0                  
+1C10 - Float             20C3BC50 : 0.4196520746       20BFE850 : 0.3088666499       
+1C14 - Double            20C3BC54 : 1.33973336222475   20BFE854 : 0.0224052108593297 
+1C1C - Double            20C3BC5C : 1228.7998046875    20BFE85C : 143.359985351563   
+1C24 - Double            20C3BC64 : 0.639999985098839  20BFE864 : 0.0849999933619983 
+1C2C - 4 Bytes           20C3BC6C : 0                  20BFE86C : 0                  
+1C30 - Pointer           20C3BC70 : P->3E2EEEEF        20BFE870 : P->BDDD4F7B        
+1C34 - Pointer           20C3BC74 : P->3EAF6ABC        20BFE874 : P->3E83126F        
+1C38 - 4 Bytes           20C3BC78 : 0                  20BFE878 : 0                  
+1C3C - Double            20C3BC7C : -4                 20BFE87C : -0.430000066757202 
+1C44 - Double            20C3BC84 : -0.002499999478459320BFE884 : -0.000332031166180968
+1C4C - Double            20C3BC8C : 4                  20BFE88C : 0.430000066757202  
+1C54 - Double            20C3BC94 : 0.0024999999417923420BFE894 : 0.000332031224070306
+1C5C - Double            20C3BC9C : -2048              20BFE89C : -0.0078125         
+1C64 - Pointer           20C3BCA4 : P->3D8C17C1        20BFE8A4 : P->3DA2EA0C        
+1C68 - Double            20C3BCA8 : 0.0078125          20BFE8A8 : 0.0078125          
+1C70 - Float             20C3BCB0 : 1                  20BFE8B0 : 1                  
+1C74 - Float             20C3BCB4 : 1                  20BFE8B4 : 1                  
+1C78 - 4 Bytes           20C3BCB8 : 0                  20BFE8B8 : 0                  
+1C7C - 4 Bytes           20C3BCBC : 0                  20BFE8BC : 0                  
+1C80 - 4 Bytes           20C3BCC0 : 0                  20BFE8C0 : 0                  
+1C84 - 4 Bytes           20C3BCC4 : 0                  20BFE8C4 : 0                  
+1C88 - 4 Bytes           20C3BCC8 : 1058642330         20BFE8C8 : 0                  
+1C8C - 4 Bytes           20C3BCCC : 0                  20BFE8CC : 0                  
+1C90 - 4 Bytes           20C3BCD0 : 1118568448         20BFE8D0 : 0                  
+1C94 - Pointer           20C3BCD4 : P->3D851EB8        20BFE8D4 : P->3D7DF3B6        
+1C98 - Pointer           20C3BCD8 : P->3DCCCCCD        20BFE8D8 : P->3DCCCCCD        
+1C9C - Float             20C3BCDC : -0.200000003       20BFE8DC : -0.200000003       
+1CA0 - Float             20C3BCE0 : -3.666666746       20BFE8E0 : -3                 
+1CA4 - Byte              20C3BCE4 : 246                20BFE8E4 : 191                
+1CA5 - Byte              20C3BCE5 : 22                 20BFE8E5 : 237                
+1CA6 - Byte              20C3BCE6 : 29                 20BFE8E6 : 111                
+1CA7 - Byte              20C3BCE7 : 62                 20BFE8E7 : 62                 
+1CA8 - Double            20C3BCE8 : 0.0078125          20BFE8E8 : 0.0078125          
+1CB0 - Float             20C3BCF0 : 1                  20BFE8F0 : 1                  
+1CB4 - Float             20C3BCF4 : 1                  20BFE8F4 : 1                  
+1CB8 - 4 Bytes           20C3BCF8 : 0                  20BFE8F8 : 0                  
+1CBC - 4 Bytes           20C3BCFC : 0                  20BFE8FC : 0                  
+1CC0 - 4 Bytes           20C3BD00 : 0                  20BFE900 : 0                  
+1CC4 - Double            20C3BD04 : 0.125              20BFE904 : 0.000030517578125  
+1CCC - 4 Bytes           20C3BD0C : 1065353216         20BFE90C : 0                  
+1CD0 - Float             20C3BD10 : 172                20BFE910 : 39                 
+1CD4 - Pointer           20C3BD14 : P->3D851EB8        20BFE914 : P->3D7DF3B6        
+1CD8 - Pointer           20C3BD18 : P->3DA3D70A        20BFE918 : P->3DA3D70A        
+1CDC - Float             20C3BD1C : -0.1599999964      20BFE91C : -0.1599999964      
+1CE0 - Pointer           20C3BD20 : P->4130C531        20BFE920 : P->407CC72D        
+1CE4 - Pointer           20C3BD24 : P->3DCCCCCD        20BFE924 : P->3DCCCCCD        
+1CE8 - Pointer           20C3BD28 : P->3EB33333        20BFE928 : P->3EB33333        
+1CEC - Float             20C3BD2C : 0.1841000021       20BFE92C : 0.1300999969       
+1CF0 - Float             20C3BD30 : 6.093903065        20BFE930 : 5.458906651        
+1CF4 - Pointer           20C3BD34 : P->40E54174        20BFE934 : P->4082D854        
+1CF8 - Float             20C3BD38 : 0.25               20BFE938 : 0.25               
+1CFC - Pointer           20C3BD3C : P->3EB33333        20BFE93C : P->3EB33333        
+1D00 - Float             20C3BD40 : 0.1967999935       20BFE940 : 0.1351000071       
+1D04 - Float             20C3BD44 : 11.41682148        20BFE944 : 1.964079976        
+1D08 - Float             20C3BD48 : 2                  20BFE948 : 2                  
+1D0C - Double            20C3BD4C : 0.0002929687618006920BFE94C : 0.000292968761414159
+1D14 - Double            20C3BD54 : 3.44000053408695   20BFE954 : 3.4400005340874    
+1D1C - Double            20C3BD5C : 0.0002929687618416220BFE95C : 0.000292968761414159
+1D24 - 4 Bytes (Hex)     20C3BD64 : 00010201           20BFE964 : 00010601           
+1D28 - Float             20C3BD68 : 800                20BFE968 : 800                
+1D2C - Float             20C3BD6C : 650                20BFE96C : 350                
+1D30 - 4 Bytes           20C3BD70 : 0                  20BFE970 : 0                  
+1D34 - Float             20C3BD74 : 0.009999999776     20BFE974 : 0.009999999776     
+1D38 - Pointer           20C3BD78 : P->400037B5        20BFE978 : P->3F918E22        
+1D3C - Double            20C3BD7C : 0.000030517578125  20BFE97C : 0.000030517578125  
+1D44 - Float             20C3BD84 : 1                  20BFE984 : 1                  
+1D48 - Float             20C3BD88 : 1                  20BFE988 : 1                  
+1D4C - Float             20C3BD8C : 1                  20BFE98C : 1                  
+1D50 - Float             20C3BD90 : 1                  20BFE990 : 1                  
+1D54 - Float             20C3BD94 : 1                  20BFE994 : 1                  
+1D58 - Float             20C3BD98 : 1                  20BFE998 : 1                  
+1D5C - Float             20C3BD9C : 1                  20BFE99C : 1                  
+1D60 - Float             20C3BDA0 : 1                  20BFE9A0 : 1                  
+1D64 - 4 Bytes           20C3BDA4 : 2                  20BFE9A4 : 1                  
+1D68 - 4 Bytes           20C3BDA8 : 0                  20BFE9A8 : 0                  
+1D6C - 4 Bytes           20C3BDAC : 0                  20BFE9AC : 0                  
+1D70 - Double            20C3BDB0 : 151.0400390625     20BFE9B0 : 852.992187500001   
+1D78 - Double            20C3BDB8 : 0.0078125017503043620BFE9B8 : 0.00273437469251803
+1D80 - Float             20C3BDC0 : -3.826999903       20BFE9C0 : -3.38499999        
+1D84 - Float             20C3BDC4 : 3.826999903        20BFE9C4 : 3.38499999         
+1D88 - Float             20C3BDC8 : 2.359999895        20BFE9C8 : 2.055000067        
+1D8C - Float             20C3BDCC : 1.684999943        20BFE9CC : 1.332999945        
+1D90 - Float             20C3BDD0 : 1.312000036        20BFE9D0 : 1.036999941        
+1D94 - Pointer           20C3BDD4 : P->3F800000        20BFE9D4 : P->3F656042        
+1D98 - 4 Bytes           20C3BDD8 : 1061880332         20BFE9D8 : 0                  
+1D9C - 4 Bytes           20C3BDDC : 0                  20BFE9DC : 0                  
+1DA0 - 4 Bytes           20C3BDE0 : 0                  20BFE9E0 : 0                  
+1DA4 - Pointer           20C3BDE4 : P->3C23D70A        20BFE9E4 : P->3C23D70A        
+1DA8 - Pointer           20C3BDE8 : P->3C23D70A        20BFE9E8 : P->3C23D70A        
+1DAC - Pointer           20C3BDEC : P->3C0B4396        20BFE9EC : P->3C0B4396        
+1DB0 - Float             20C3BDF0 : 0.007000000216     20BFE9F0 : 0.007000000216     
+1DB4 - Float             20C3BDF4 : 0.00549999997      20BFE9F4 : 0.00549999997      
+1DB8 - Float             20C3BDF8 : 0.00400000019      20BFE9F8 : 0.00400000019      
+1DBC - Float             20C3BDFC : 0.002499999944     20BFE9FC : 0.002499999944     
+1DC0 - Pointer           20C3BE00 : P->3C23D70A        20BFEA00 : P->3C23D70A        
+1DC4 - Float             20C3BE04 : 0.001000000047     20BFEA04 : 0.001000000047     
+1DC8 - Float             20C3BE08 : 1                  20BFEA08 : 1                  
+1DCC - Double            20C3BE0C : 0.0078125018480932320BFEA0C : 0.00656250211584847
+1DD4 - Double            20C3BE14 : 0.0078125018480932320BFEA14 : 0.00656250211584847
+1DDC - Double            20C3BE1C : 0.0078125018480932320BFEA1C : 0.00656250211584847
+1DE4 - Double            20C3BE24 : 0.0078125018480932320BFEA24 : 0.00656250211584847
+1DEC - Double            20C3BE2C : 1.34110482247207E-820BFEA2C : 0.000878906458274287
+1DF4 - Double            20C3BE34 : 1.34110482247207E-820BFEA34 : 0.000878906458274287
+1DFC - Double            20C3BE3C : 1.34110482247207E-820BFEA3C : 0.000878906458274287
+1E04 - Double            20C3BE44 : 1.34110482247207E-820BFEA44 : 0.000878906458274287
+1E0C - Pointer           20C3BE4C : P->3E4CCCCD        20BFEA4C : P->3F4CCCCD        
+1E10 - Pointer           20C3BE50 : P->3C23D70A        20BFEA50 : P->3C23D70A        
+1E14 - Float             20C3BE54 : 1136               20BFEA54 : 499                
+1E18 - Double            20C3BE58 : 0.153000027018716  20BFEA58 : 0.0250000096857548 
+1E20 - Pointer           20C3BE60 : P->3FD58106        20BFEA60 : P->3F99999A        
+1E24 - 4 Bytes           20C3BE64 : 0                  20BFEA64 : 0                  
+1E28 - 4 Bytes           20C3BE68 : 0                  20BFEA68 : 0                  
+1E2C - Pointer           20C3BE6C : P->3C23D70A        20BFEA6C : P->3C23D70A        
+1E30 - Float             20C3BE70 : 54.12755203        20BFEA70 : -108.2551041       
+1E34 - Float             20C3BE74 : 108.2551041        20BFEA74 : -108.2551041       
+1E38 - Float             20C3BE78 : 0.002000000095     20BFEA78 : 0.002000000095     
+1E3C - Float             20C3BE7C : 0.3300000131       20BFEA7C : 0.3799999952       
+1E40 - Float             20C3BE80 : 0.75               20BFEA80 : 0.75               
+1E44 - Float             20C3BE84 : 0.75               20BFEA84 : 0.75               
+1E48 - 4 Bytes           20C3BE88 : 0                  20BFEA88 : 0                  
+1E4C - 4 Bytes           20C3BE8C : 0                  20BFEA8C : 0                  
+1E50 - 4 Bytes           20C3BE90 : 0                  20BFEA90 : 0                  
+1E54 - Pointer           20C3BE94 : P->3D851EB8        20BFEA94 : P->3D7DF3B6        
+1E58 - Float             20C3BE98 : 800                20BFEA98 : 800                
+1E5C - String            20C3BE9C : fff?               20BFEA9C : fff?               
+1E61 - Byte              20C3BEA1 : 0                  20BFEAA1 : 0                  
+1E62 - Byte              20C3BEA2 : 128                20BFEAA2 : 128                
+1E63 - Byte              20C3BEA3 : 63                 20BFEAA3 : 63                 
+1E64 - Float             20C3BEA4 : 1                  20BFEAA4 : 1                  
+1E68 - Double            20C3BEA8 : 4.56000233689882   20BFEAA8 : 4.56000233689882   
+1E70 - Float             20C3BEB0 : 12                 20BFEAB0 : 9                  
+1E74 - Float             20C3BEB4 : 36                 20BFEAB4 : 36                 
+1E78 - 4 Bytes           20C3BEB8 : 0                  20BFEAB8 : 0                  
+1E7C - 4 Bytes           20C3BEBC : 0                  20BFEABC : 0                  
+1E80 - String            20C3BEC0 : RIV_1              20BFEAC0 : FIA_TCR            
+1E88 - 4 Bytes           20C3BEC8 : 0                  20BFEAC8 : 982                
+1E8C - Float             20C3BECC : 0                  20BFEACC : 108                
+1E90 - Float             20C3BED0 : 0                  20BFEAD0 : 8200               
+1E94 - Float             20C3BED4 : 0                  20BFEAD4 : 13.19999981        
+1E98 - Float             20C3BED8 : 0                  20BFEAD8 : 7000               
+1E9C - Float             20C3BEDC : -3.826999903       20BFEADC : -3.38499999        
+1EA0 - Float             20C3BEE0 : 3.826999903        20BFEAE0 : 3.38499999         
+1EA4 - Float             20C3BEE4 : 2.359999895        20BFEAE4 : 2.055000067        
+1EA8 - Float             20C3BEE8 : 1.684999943        20BFEAE8 : 1.332999945        
+1EAC - Float             20C3BEEC : 1.312000036        20BFEAEC : 1.036999941        
+1EB0 - Pointer           20C3BEF0 : P->3F800000        20BFEAF0 : P->3F656042        
+1EB4 - 4 Bytes           20C3BEF4 : 1061880332         20BFEAF4 : 0                  
+1EB8 - 4 Bytes           20C3BEF8 : 0                  20BFEAF8 : 0                  
+1EBC - Double            20C3BEFC : 151.0400390625     20BFEAFC : 852.9921875        
+1EC4 - 4 Bytes           20C3BF04 : 258                20BFEB04 : 1                  
+1EC8 - 4 Bytes           20C3BF08 : 0                  20BFEB08 : 583                
+1ECC - 4 Bytes           20C3BF0C : 4600               20BFEB0C : 3530               
+1ED0 - 4 Bytes           20C3BF10 : 1360               20BFEB10 : 1300               
+1ED4 - 4 Bytes           20C3BF14 : 1785               20BFEB14 : 1420               
+1ED8 - 4 Bytes           20C3BF18 : 6                  20BFEB18 : 5                  
+1EDC - 4 Bytes           20C3BF1C : 6500               20BFEB1C : 3000               
+1EE0 - 4 Bytes           20C3BF20 : 2                  20BFEB20 : 0                  
+1EE4 - 4 Bytes           20C3BF24 : 0                  20BFEB24 : 1                  
+1EE8 - 4 Bytes           20C3BF28 : 0                  20BFEB28 : 0                  
+1EEC - 4 Bytes           20C3BF2C : 1                  20BFEB2C : 0                  
+1EF0 - 4 Bytes           20C3BF30 : 6                  20BFEB30 : 8191               
+1EF4 - 4 Bytes (Hex)     20C3BF34 : FF041100           20BFEB34 : 03030B00           
+1EF8 - String            20C3BF38 : RIVAL CAR 000      20BFEB38 : ABARTH 1000TCR         
+1F10 - String            20C3BF50 : RIV_1              20BFEB50 : FIA_TCR            
+1F19 - Byte              20C3BF59 : 0                  20BFEB59 : 0                  
+1F1A - Byte              20C3BF5A : 0                  20BFEB5A : 0                  
+1F1B - Byte              20C3BF5B : 0                  20BFEB5B : 0                  
+1F1C - Float             20C3BF5C : 12800              20BFEB5C : 12800              
+1F20 - Float             20C3BF60 : 12800              20BFEB60 : 12800              
+1F24 - Float             20C3BF64 : 9500               20BFEB64 : 8500               
+1F28 - Pointer           20C3BF68 : P->448D6CE9        20BFEB68 : P->43006148        
+1F2C - Double            20C3BF6C : 2.14576771624079E-720BFEB6C : 5.4235863178998E-7 
+1F34 - Double            20C3BF74 : 1.52587949280303E-620BFEB74 : 9.46972610227681E-6
+1F3C - Byte              20C3BF7C : 113                20BFEB7C : 20                 
+1F3D - Byte              20C3BF7D : 61                 20BFEB7D : 150                
+1F3E - Byte              20C3BF7E : 234                20BFEB7E : 0                  
+1F3F - Byte              20C3BF7F : 62                 20BFEB7F : 63                 
+1F40 - Double            20C3BF80 : 0.0000976562876155620BFEB80 : 0.00010660158274145
+1F48 - Byte              20C3BF88 : 123                20BFEB88 : 132                
+1F49 - Byte              20C3BF89 : 20                 20BFEB89 : 71                 
+1F4A - Byte              20C3BF8A : 46                 20BFEB8A : 39                 
+1F4B - Byte              20C3BF8B : 63                 20BFEB8B : 63                 
+1F4C - Float             20C3BF8C : 0.7599999905       20BFEB8C : 0.6877859831       
+1F50 - Float             20C3BF90 : 0.8399999738       20BFEB90 : 0.741985023        
+1F54 - Byte              20C3BF94 : 96                 20BFEB94 : 47                 
+1F55 - Byte              20C3BF95 : 229                20BFEB95 : 78                 
+1F56 - Byte              20C3BF96 : 104                20BFEB96 : 72                 
+1F57 - Byte              20C3BF97 : 63                 20BFEB97 : 63                 
+1F58 - Double            20C3BF98 : 0.0078125018476421220BFEB98 : 0.00240040616579873
+1F60 - Byte              20C3BFA0 : 154                20BFEBA0 : 238                
+1F61 - String            20C3BFA1 : ™y?Í               20BFEBA1 : %q?î               
+1F65 - Byte              20C3BFA5 : 204                20BFEBA5 : 96                 
+1F66 - Byte              20C3BFA6 : 108                20BFEBA6 : 120                
+1F67 - Byte              20C3BFA7 : 63                 20BFEBA7 : 63                 
+1F68 - Byte              20C3BFA8 : 41                 20BFEBA8 : 217                
+1F69 - String            20C3BFA9 : \_?Ñ•P?š           20BFEBA9 : ?                
+1F71 - Byte              20C3BFB1 : 233                20BFEBB1 : 96                 
+1F72 - Byte              20C3BFB2 : 66                 20BFEBB2 : 120                
+1F73 - Byte              20C3BFB3 : 63                 20BFEBB3 : 63                 
+1F74 - Pointer           20C3BFB4 : P->3F392381        20BFEBB4 : P->3F6EFFA0        
+1F78 - Pointer           20C3BFB8 : P->3F2D3C15        20BFEBB8 : P->3F6313F0        
+1F7C - Pointer           20C3BFBC : P->3F22E59B        20BFEBBC : P->3F4DF8F4        
+1F80 - 4 Bytes (Hex)     20C3BFC0 : 3F13BC2C           20BFEBC0 : 3F329D1F           
+1F84 - 4 Bytes (Hex)     20C3BFC4 : 3F01D0FA           20BFEBC4 : 3F17414A           
+1F88 - 4 Bytes (Hex)     20C3BFC8 : 3ED806D1           20BFEBC8 : 3EEA80F1           
+1F8C - 4 Bytes (Hex)     20C3BFCC : 3EA70825           20BFEBCC : 3E886727           
+1F90 - 4 Bytes (Hex)     20C3BFD0 : 3E487D2C           20BFEBD0 : 3DCE5CD5           
+1F94 - 4 Bytes (Hex)     20C3BFD4 : 3DAE6C8F           20BFEBD4 : 00000000           
+1F98 - 4 Bytes (Hex)     20C3BFD8 : 360637BD           20BFEBD8 : 00000000           
+1F9C - 4 Bytes (Hex)     20C3BFDC : 360637BD           20BFEBDC : 00000000           
+1FA0 - 4 Bytes (Hex)     20C3BFE0 : 360637BD           20BFEBE0 : 00000000           
+1FA4 - 4 Bytes (Hex)     20C3BFE4 : 360637BD           20BFEBE4 : 00000000           
+1FA8 - 4 Bytes (Hex)     20C3BFE8 : 360637BD           20BFEBE8 : 00000000           
+1FAC - Double            20C3BFEC : 0.0027343747006671 20BFEBEC : 0.0027343747006671 
+1FB4 - Float             20C3BFF4 : 1                  20BFEBF4 : 1                  
+1FB8 - Pointer           20C3BFF8 : P->3E93C670        20BFEBF8 : P->3D8624DD        
+1FBC - Double            20C3BFFC : 3.33333396911621   20BFEBFC : 5461.33203125      
+1FC4 - Pointer           20C3C004 : P->40400000        20BFEC04 : P->00000000        
+1FC8 - Float             20C3C008 : 1.805128217        20BFEC08 : 10                 
+1FCC - Byte              20C3C00C : 174                20BFEC0C : 174                
+1FCD - Byte              20C3C00D : 71                 20BFEC0D : 71                 
+1FCE - Byte              20C3C00E : 97                 20BFEC0E : 97                 
+1FCF - Byte              20C3C00F : 62                 20BFEC0F : 62                 
+1FD0 - 4 Bytes           20C3C010 : 0                  20BFEC10 : 0                  
+1FD4 - Float             20C3C014 : 10                 20BFEC14 : 10                 
+1FD8 - 4 Bytes           20C3C018 : 3332               20BFEC18 : 2564               
+1FDC - String            20C3C01C : RIV_1              20BFEC1C : FIA_TCR            
+1FE5 - Byte              20C3C025 : 0                  20BFEC25 : 0                  
+1FE6 - Byte              20C3C026 : 0                  20BFEC26 : 0                  
+1FE7 - Byte              20C3C027 : 0                  20BFEC27 : 0                  
+1FE8 - Float             20C3C028 : 12800              20BFEC28 : 12800              
+1FEC - Float             20C3C02C : 12800              20BFEC2C : 12800              
+1FF0 - Float             20C3C030 : 9500               20BFEC30 : 8500               
+1FF4 - Pointer           20C3C034 : P->449B9167        20BFEC34 : P->4300A14E        
+1FF8 - Double            20C3C038 : 2.14576771624079E-720BFEC38 : 5.4235863178998E-7 
+2000 - Double            20C3C040 : 1.52587949280303E-620BFEC40 : 9.46972610227681E-6
+2008 - Byte              20C3C048 : 113                20BFEC48 : 20                 
+2009 - Byte              20C3C049 : 61                 20BFEC49 : 150                
+200A - Byte              20C3C04A : 234                20BFEC4A : 0                  
+200B - Byte              20C3C04B : 62                 20BFEC4B : 63                 
+200C - Double            20C3C04C : 0.0000976562876155620BFEC4C : 0.00010660158274145
+2014 - Byte              20C3C054 : 123                20BFEC54 : 132                
+2015 - Byte              20C3C055 : 20                 20BFEC55 : 71                 
+2016 - Byte              20C3C056 : 46                 20BFEC56 : 39                 
+2017 - Byte              20C3C057 : 63                 20BFEC57 : 63                 
+2018 - Float             20C3C058 : 0.7599999905       20BFEC58 : 0.6877859831       
+201C - Float             20C3C05C : 0.8399999738       20BFEC5C : 0.741985023        
+2020 - Byte              20C3C060 : 96                 20BFEC60 : 47                 
+2021 - Byte              20C3C061 : 229                20BFEC61 : 78                 
+2022 - Byte              20C3C062 : 104                20BFEC62 : 72                 
+2023 - Byte              20C3C063 : 63                 20BFEC63 : 63                 
+2024 - Double            20C3C064 : 0.0078125018476421220BFEC64 : 0.00240040616579874
+202C - Byte              20C3C06C : 154                20BFEC6C : 238                
+202D - String            20C3C06D : ™y?Í               20BFEC6D : %q?î               
+2031 - Byte              20C3C071 : 204                20BFEC71 : 96                 
+2032 - Byte              20C3C072 : 108                20BFEC72 : 120                
+2033 - Byte              20C3C073 : 63                 20BFEC73 : 63                 
+2034 - Byte              20C3C074 : 41                 20BFEC74 : 217                
+2035 - String            20C3C075 : \_?Ñ•P?š           20BFEC75 : ?                
+203D - Byte              20C3C07D : 233                20BFEC7D : 96                 
+203E - Byte              20C3C07E : 66                 20BFEC7E : 120                
+203F - Byte              20C3C07F : 63                 20BFEC7F : 63                 
+2040 - Pointer           20C3C080 : P->3F392381        20BFEC80 : P->3F6EFFA0        
+2044 - Pointer           20C3C084 : P->3F2D3C15        20BFEC84 : P->3F6313F0        
+2048 - Pointer           20C3C088 : P->3F22E59B        20BFEC88 : P->3F4DF8F4        
+204C - 4 Bytes (Hex)     20C3C08C : 3F13BC2C           20BFEC8C : 3F329D1F           
+2050 - 4 Bytes (Hex)     20C3C090 : 3F01D0FA           20BFEC90 : 3F17414A           
+2054 - 4 Bytes (Hex)     20C3C094 : 3ED806D1           20BFEC94 : 3EEA80F1           
+2058 - 4 Bytes (Hex)     20C3C098 : 3EA70825           20BFEC98 : 3E886727           
+205C - 4 Bytes (Hex)     20C3C09C : 3E487D2C           20BFEC9C : 3DCE5CD5           
+2060 - 4 Bytes (Hex)     20C3C0A0 : 3DAE6C8F           20BFECA0 : 00000000           
+2064 - 4 Bytes (Hex)     20C3C0A4 : 360637BD           20BFECA4 : 00000000           
+2068 - 4 Bytes (Hex)     20C3C0A8 : 360637BD           20BFECA8 : 00000000           
+206C - 4 Bytes (Hex)     20C3C0AC : 360637BD           20BFECAC : 00000000           
+2070 - 4 Bytes (Hex)     20C3C0B0 : 360637BD           20BFECB0 : 00000000           
+2074 - 4 Bytes (Hex)     20C3C0B4 : 360637BD           20BFECB4 : 00000000           
+2078 - Double            20C3C0B8 : 0.0027343747006671 20BFECB8 : 0.0027343747006671 
+2080 - Float             20C3C0C0 : 1                  20BFECC0 : 1                  
+2084 - Pointer           20C3C0C4 : P->3EA28D7C        20BFECC4 : P->3D8667C3        
+2088 - Double            20C3C0C8 : 3.33333396911621   20BFECC8 : 2668.60546875      
+2090 - Double            20C3C0D0 : 0.720512986648828  20BFECD0 : 0.000132427783682942
+2098 - Byte              20C3C0D8 : 174                20BFECD8 : 174                
+2099 - Byte              20C3C0D9 : 71                 20BFECD9 : 71                 
+209A - Byte              20C3C0DA : 97                 20BFECDA : 97                 
+209B - Byte              20C3C0DB : 62                 20BFECDB : 62                 
+209C - 4 Bytes           20C3C0DC : 0                  20BFECDC : 0                  
+20A0 - Float             20C3C0E0 : 10                 20BFECE0 : 10                 
+20A4 - 4 Bytes           20C3C0E4 : 3332               20BFECE4 : 2564               
+20A8 - String            20C3C0E8 : RIV_1              20BFECE8 : FIA_TCR            
+20B1 - Byte              20C3C0F1 : 0                  20BFECF1 : 0                  
+20B2 - Byte              20C3C0F2 : 0                  20BFECF2 : 0                  
+20B3 - Byte              20C3C0F3 : 0                  20BFECF3 : 0                  
+20B4 - Float             20C3C0F4 : 12800              20BFECF4 : 12800              
+20B8 - Float             20C3C0F8 : 12800              20BFECF8 : 12800              
+20BC - Float             20C3C0FC : 9500               20BFECFC : 8500               
+20C0 - Pointer           20C3C100 : P->44A9B5E5        20BFED00 : P->4300E154        
+20C4 - Double            20C3C104 : 2.14576771624079E-720BFED04 : 5.4235863178998E-7 
+20CC - Double            20C3C10C : 1.52587949280303E-620BFED0C : 9.46972610227681E-6
+20D4 - Byte              20C3C114 : 113                20BFED14 : 20                 
+20D5 - Byte              20C3C115 : 61                 20BFED15 : 150                
+20D6 - Byte              20C3C116 : 234                20BFED16 : 0                  
+20D7 - Byte              20C3C117 : 62                 20BFED17 : 63                 
+20D8 - Double            20C3C118 : 0.0000976562876155620BFED18 : 0.00010660158274145
+20E0 - Byte              20C3C120 : 123                20BFED20 : 132                
+20E1 - Byte              20C3C121 : 20                 20BFED21 : 71                 
+20E2 - Byte              20C3C122 : 46                 20BFED22 : 39                 
+20E3 - Byte              20C3C123 : 63                 20BFED23 : 63                 
+20E4 - Float             20C3C124 : 0.7599999905       20BFED24 : 0.6877859831       
+20E8 - Float             20C3C128 : 0.8399999738       20BFED28 : 0.741985023        
+20EC - Byte              20C3C12C : 96                 20BFED2C : 47                 
+20ED - Byte              20C3C12D : 229                20BFED2D : 78                 
+20EE - Byte              20C3C12E : 104                20BFED2E : 72                 
+20EF - Byte              20C3C12F : 63                 20BFED2F : 63                 
+20F0 - Double            20C3C130 : 0.0078125018476421220BFED30 : 0.00240040616579873
+20F8 - Byte              20C3C138 : 154                20BFED38 : 238                
+20F9 - String            20C3C139 : ™y?Í               20BFED39 : %q?î               
+20FD - Byte              20C3C13D : 204                20BFED3D : 96                 
+20FE - Byte              20C3C13E : 108                20BFED3E : 120                
+20FF - Byte              20C3C13F : 63                 20BFED3F : 63                 
+2100 - Byte              20C3C140 : 41                 20BFED40 : 217                
+2101 - String            20C3C141 : \_?Ñ•P?š           20BFED41 : ?                
+2109 - Byte              20C3C149 : 233                20BFED49 : 96                 
+210A - Byte              20C3C14A : 66                 20BFED4A : 120                
+210B - Byte              20C3C14B : 63                 20BFED4B : 63                 
+210C - Pointer           20C3C14C : P->3F392381        20BFED4C : P->3F6EFFA0        
+2110 - Pointer           20C3C150 : P->3F2D3C15        20BFED50 : P->3F6313F0        
+2114 - Pointer           20C3C154 : P->3F22E59B        20BFED54 : P->3F4DF8F4        
+2118 - 4 Bytes (Hex)     20C3C158 : 3F13BC2C           20BFED58 : 3F329D1F           
+211C - 4 Bytes (Hex)     20C3C15C : 3F01D0FA           20BFED5C : 3F17414A           
+2120 - 4 Bytes (Hex)     20C3C160 : 3ED806D1           20BFED60 : 3EEA80F1           
+2124 - 4 Bytes (Hex)     20C3C164 : 3EA70825           20BFED64 : 3E886727           
+2128 - 4 Bytes (Hex)     20C3C168 : 3E487D2C           20BFED68 : 3DCE5CD5           
+212C - 4 Bytes (Hex)     20C3C16C : 3DAE6C8F           20BFED6C : 00000000           
+2130 - 4 Bytes (Hex)     20C3C170 : 360637BD           20BFED70 : 00000000           
+2134 - 4 Bytes (Hex)     20C3C174 : 360637BD           20BFED74 : 00000000           
+2138 - 4 Bytes (Hex)     20C3C178 : 360637BD           20BFED78 : 00000000           
+213C - 4 Bytes (Hex)     20C3C17C : 360637BD           20BFED7C : 00000000           
+2140 - 4 Bytes (Hex)     20C3C180 : 360637BD           20BFED80 : 00000000           
+2144 - Double            20C3C184 : 0.0027343747006671 20BFED84 : 0.0027343747006671 
+214C - Float             20C3C18C : 1                  20BFED8C : 1                  
+2150 - Pointer           20C3C190 : P->3EB15486        20BFED90 : P->3D86AAAA        
+2154 - Double            20C3C194 : 3.33333396911621   20BFED94 : 1479.111328125     
+215C - Double            20C3C19C : 0.720512986648828  20BFED9C : 0.000336371595039964
+2164 - Byte              20C3C1A4 : 174                20BFEDA4 : 174                
+2165 - Byte              20C3C1A5 : 71                 20BFEDA5 : 71                 
+2166 - Byte              20C3C1A6 : 97                 20BFEDA6 : 97                 
+2167 - Byte              20C3C1A7 : 62                 20BFEDA7 : 62                 
+2168 - 4 Bytes           20C3C1A8 : 0                  20BFEDA8 : 0                  
+216C - Float             20C3C1AC : 10                 20BFEDAC : 10                 
+2170 - 4 Bytes           20C3C1B0 : 3332               20BFEDB0 : 2564               
+2174 - String            20C3C1B4 : RIV_1              20BFEDB4 : FIA_TCR            
+217D - Byte              20C3C1BD : 0                  20BFEDBD : 0                  
+217E - Byte              20C3C1BE : 0                  20BFEDBE : 0                  
+217F - Byte              20C3C1BF : 0                  20BFEDBF : 0                  
+2180 - Float             20C3C1C0 : 12800              20BFEDC0 : 12800              
+2184 - Float             20C3C1C4 : 12800              20BFEDC4 : 12800              
+2188 - Float             20C3C1C8 : 9500               20BFEDC8 : 8500               
+218C - Pointer           20C3C1CC : P->44B7DA63        20BFEDCC : P->4301215B        
+2190 - Double            20C3C1D0 : 2.14576771624079E-720BFEDD0 : 5.4235863178998E-7 
+2198 - Double            20C3C1D8 : 1.52587949280303E-620BFEDD8 : 9.46972610227681E-6
+21A0 - Byte              20C3C1E0 : 113                20BFEDE0 : 20                 
+21A1 - Byte              20C3C1E1 : 61                 20BFEDE1 : 150                
+21A2 - Byte              20C3C1E2 : 234                20BFEDE2 : 0                  
+21A3 - Byte              20C3C1E3 : 62                 20BFEDE3 : 63                 
+21A4 - Double            20C3C1E4 : 0.0000976562876155620BFEDE4 : 0.00010660158274145
+21AC - Byte              20C3C1EC : 123                20BFEDEC : 132                
+21AD - Byte              20C3C1ED : 20                 20BFEDED : 71                 
+21AE - Byte              20C3C1EE : 46                 20BFEDEE : 39                 
+21AF - Byte              20C3C1EF : 63                 20BFEDEF : 63                 
+21B0 - Float             20C3C1F0 : 0.7599999905       20BFEDF0 : 0.6877859831       
+21B4 - Float             20C3C1F4 : 0.8399999738       20BFEDF4 : 0.741985023        
+21B8 - Byte              20C3C1F8 : 96                 20BFEDF8 : 47                 
+21B9 - Byte              20C3C1F9 : 229                20BFEDF9 : 78                 
+21BA - Byte              20C3C1FA : 104                20BFEDFA : 72                 
+21BB - Byte              20C3C1FB : 63                 20BFEDFB : 63                 
+21BC - Double            20C3C1FC : 0.0078125018476421220BFEDFC : 0.00240040616579873
+21C4 - Byte              20C3C204 : 154                20BFEE04 : 238                
+21C5 - String            20C3C205 : ™y?Í               20BFEE05 : %q?î               
+21C9 - Byte              20C3C209 : 204                20BFEE09 : 96                 
+21CA - Byte              20C3C20A : 108                20BFEE0A : 120                
+21CB - Byte              20C3C20B : 63                 20BFEE0B : 63                 
+21CC - Byte              20C3C20C : 41                 20BFEE0C : 217                
+21CD - String            20C3C20D : \_?Ñ•P?š           20BFEE0D : ?                
+21D5 - Byte              20C3C215 : 233                20BFEE15 : 96                 
+21D6 - Byte              20C3C216 : 66                 20BFEE16 : 120                
+21D7 - Byte              20C3C217 : 63                 20BFEE17 : 63                 
+21D8 - Pointer           20C3C218 : P->3F392381        20BFEE18 : P->3F6EFFA0        
+21DC - Pointer           20C3C21C : P->3F2D3C15        20BFEE1C : P->3F6313F0        
+21E0 - Pointer           20C3C220 : P->3F22E59B        20BFEE20 : P->3F4DF8F4        
+21E4 - 4 Bytes (Hex)     20C3C224 : 3F13BC2C           20BFEE24 : 3F329D1F           
+21E8 - 4 Bytes (Hex)     20C3C228 : 3F01D0FA           20BFEE28 : 3F17414A           
+21EC - 4 Bytes (Hex)     20C3C22C : 3ED806D1           20BFEE2C : 3EEA80F1           
+21F0 - 4 Bytes (Hex)     20C3C230 : 3EA70825           20BFEE30 : 3E886727           
+21F4 - 4 Bytes (Hex)     20C3C234 : 3E487D2C           20BFEE34 : 3DCE5CD5           
+21F8 - 4 Bytes (Hex)     20C3C238 : 3DAE6C8F           20BFEE38 : 00000000           
+21FC - 4 Bytes (Hex)     20C3C23C : 360637BD           20BFEE3C : 00000000           
+2200 - 4 Bytes (Hex)     20C3C240 : 360637BD           20BFEE40 : 00000000           
+2204 - 4 Bytes (Hex)     20C3C244 : 360637BD           20BFEE44 : 00000000           
+2208 - 4 Bytes (Hex)     20C3C248 : 360637BD           20BFEE48 : 00000000           
+220C - 4 Bytes (Hex)     20C3C24C : 360637BD           20BFEE4C : 00000000           
+2210 - Double            20C3C250 : 0.0027343747006671 20BFEE50 : 0.0027343747006671 
+2218 - Float             20C3C258 : 1                  20BFEE58 : 1                  
+221C - Pointer           20C3C25C : P->3EC01B92        20BFEE5C : P->3D86ED90        
+2220 - Double            20C3C260 : 3.33333396911621   20BFEE60 : 879.58984375       
+2228 - Double            20C3C268 : 0.720512986648828  20BFEE68 : 0.000718649942427874
+2230 - Byte              20C3C270 : 174                20BFEE70 : 174                
+2231 - Byte              20C3C271 : 71                 20BFEE71 : 71                 
+2232 - Byte              20C3C272 : 97                 20BFEE72 : 97                 
+2233 - Byte              20C3C273 : 62                 20BFEE73 : 62                 
+2234 - 4 Bytes           20C3C274 : 0                  20BFEE74 : 0                  
+2238 - Float             20C3C278 : 10                 20BFEE78 : 10                 
+223C - 4 Bytes           20C3C27C : 3332               20BFEE7C : 2564               
+2240 - String            20C3C280 : RIV_1              20BFEE80 : FIA_TCR            
+2249 - Byte              20C3C289 : 0                  20BFEE89 : 0                  
+224A - Byte              20C3C28A : 0                  20BFEE8A : 0                  
+224B - Byte              20C3C28B : 0                  20BFEE8B : 0                  
+224C - Float             20C3C28C : 12800              20BFEE8C : 12800              
+2250 - Float             20C3C290 : 12800              20BFEE90 : 12800              
+2254 - Float             20C3C294 : 10000              20BFEE94 : 9000               
+2258 - Pointer           20C3C298 : P->44C5FEE1        20BFEE98 : P->43016161        
+225C - Pointer           20C3C29C : P->3E25F17C        20BFEE9C : P->3E417721        
+2260 - Double            20C3C2A0 : 2.14576771624079E-720BFEEA0 : 5.4235863178998E-7 
+2268 - Double            20C3C2A8 : 1.52587949280303E-620BFEEA8 : 9.46972610227681E-6
+2270 - Byte              20C3C2B0 : 113                20BFEEB0 : 20                 
+2271 - Byte              20C3C2B1 : 61                 20BFEEB1 : 150                
+2272 - Byte              20C3C2B2 : 234                20BFEEB2 : 0                  
+2273 - Byte              20C3C2B3 : 62                 20BFEEB3 : 63                 
+2274 - Double            20C3C2B4 : 0.0000976562876155620BFEEB4 : 0.00010660158274145
+227C - Byte              20C3C2BC : 123                20BFEEBC : 132                
+227D - Byte              20C3C2BD : 20                 20BFEEBD : 71                 
+227E - Byte              20C3C2BE : 46                 20BFEEBE : 39                 
+227F - Byte              20C3C2BF : 63                 20BFEEBF : 63                 
+2280 - Float             20C3C2C0 : 0.7599999905       20BFEEC0 : 0.6877859831       
+2284 - Float             20C3C2C4 : 0.8399999738       20BFEEC4 : 0.741985023        
+2288 - Byte              20C3C2C8 : 96                 20BFEEC8 : 47                 
+2289 - Byte              20C3C2C9 : 229                20BFEEC9 : 78                 
+228A - Byte              20C3C2CA : 104                20BFEECA : 72                 
+228B - Byte              20C3C2CB : 63                 20BFEECB : 63                 
+228C - Double            20C3C2CC : 0.0078125018476421220BFEECC : 0.00240040616579874
+2294 - Byte              20C3C2D4 : 154                20BFEED4 : 238                
+2295 - Byte              20C3C2D5 : 153                20BFEED5 : 37                 
+2296 - Byte              20C3C2D6 : 121                20BFEED6 : 113                
+2297 - Byte              20C3C2D7 : 63                 20BFEED7 : 63                 
+2298 - Byte              20C3C2D8 : 197                20BFEED8 : 238                
+2299 - String            20C3C2D9 : â[?ä               20BFEED9 : `x?Ù               
+229D - Byte              20C3C2DD : 103                20BFEEDD : 5                  
+229E - Byte              20C3C2DE : 79                 20BFEEDE : 127                
+229F - Byte              20C3C2DF : 63                 20BFEEDF : 63                 
+22A0 - Double            20C3C2E0 : 0.0003202851505708020BFEEE0 : 0.00595181527751265
+22A8 - Pointer           20C3C2E8 : P->3F2BEA1C        20BFEEE8 : P->3F6E8955        
+22AC - Pointer           20C3C2EC : P->3F20DC55        20BFEEEC : P->3F62A38C        
+22B0 - Byte              20C3C2F0 : 238                20BFEEF0 : 12                 
+22B1 - Byte              20C3C2F1 : 66                 20BFEEF1 : 147                
+22B2 - Byte              20C3C2F2 : 23                 20BFEEF2 : 77                 
+22B3 - Byte              20C3C2F3 : 63                 20BFEEF3 : 63                 
+22B4 - Byte              20C3C2F4 : 182                20BFEEF4 : 183                
+22B5 - Byte              20C3C2F5 : 46                 20BFEEF5 : 68                 
+22B6 - Byte              20C3C2F6 : 9                  20BFEEF6 : 50                 
+22B7 - 2 Bytes           20C3C2F7 : 26175              20BFEEF7 : 29503              
+22B9 - Byte              20C3C2F9 : 22                 20BFEEF9 : 246                
+22BA - Byte              20C3C2FA : 241                20BFEEFA : 22                 
+22BB - 2 Bytes           20C3C2FB : 37182              20BFEEFB : 62015              
+22BD - Byte              20C3C2FD : 152                20BFEEFD : 12                 
+22BE - Byte              20C3C2FE : 200                20BFEEFE : 234                
+22BF - 2 Bytes           20C3C2FF : 59198              20BFEEFF : 42814              
+22C1 - Byte              20C3C301 : 25                 20BFEF01 : 35                 
+22C2 - Byte              20C3C302 : 155                20BFEF02 : 136                
+22C3 - 2 Bytes           20C3C303 : 5950               20BFEF03 : 7998               
+22C5 - Byte              20C3C305 : 43                 20BFEF05 : 247                
+22C6 - Byte              20C3C306 : 58                 20BFEF06 : 205                
+22C7 - 2 Bytes           20C3C307 : 20798              20BFEF07 : 61                 
+22C9 - Byte              20C3C309 : 247                20BFEF09 : 0                  
+22CA - Byte              20C3C30A : 161                20BFEF0A : 0                  
+22CB - 2 Bytes           20C3C30B : 48445              20BFEF0B : 0                  
+22CD - Byte              20C3C30D : 55                 20BFEF0D : 0                  
+22CE - Byte              20C3C30E : 6                  20BFEF0E : 0                  
+22CF - 2 Bytes           20C3C30F : 48438              20BFEF0F : 0                  
+22D1 - Byte              20C3C311 : 55                 20BFEF11 : 0                  
+22D2 - Byte              20C3C312 : 6                  20BFEF12 : 0                  
+22D3 - 2 Bytes           20C3C313 : 48438              20BFEF13 : 0                  
+22D5 - Byte              20C3C315 : 55                 20BFEF15 : 0                  
+22D6 - Byte              20C3C316 : 6                  20BFEF16 : 0                  
+22D7 - 2 Bytes           20C3C317 : 48438              20BFEF17 : 0                  
+22D9 - String            20C3C319 : 76\               20BFEF19 :                    
+22DD - Byte              20C3C31D : 143                20BFEF1D : 143                
+22DE - String            20C3C31E : B=fff?             20BFEF1E : B=fff?             
+22E5 - Byte              20C3C325 : 0                  20BFEF25 : 0                  
+22E6 - Byte              20C3C326 : 128                20BFEF26 : 128                
+22E7 - Byte              20C3C327 : 63                 20BFEF27 : 63                 
+22E8 - Pointer           20C3C328 : P->3ECEE29D        20BFEF28 : P->3D873076        
+22EC - Double            20C3C32C : 5.33333206176758   20BFEF2C : 804.5712890625     
+22F4 - Double            20C3C334 : 0.509523988235742  20BFEF34 : 0.00137648824602365
+22FC - Byte              20C3C33C : 174                20BFEF3C : 174                
+22FD - Byte              20C3C33D : 71                 20BFEF3D : 71                 
+22FE - Byte              20C3C33E : 97                 20BFEF3E : 97                 
+22FF - Byte              20C3C33F : 62                 20BFEF3F : 62                 
+2300 - 4 Bytes           20C3C340 : 0                  20BFEF40 : 0                  
+2304 - Float             20C3C344 : 10                 20BFEF44 : 10                 
+2308 - 4 Bytes           20C3C348 : 3588               20BFEF48 : 2820               
+230C - String            20C3C34C : RIV_1              20BFEF4C : FIA_TCR            
+2315 - Byte              20C3C355 : 0                  20BFEF55 : 0                  
+2316 - Byte              20C3C356 : 0                  20BFEF56 : 0                  
+2317 - Byte              20C3C357 : 0                  20BFEF57 : 0                  
+2318 - Float             20C3C358 : 12800              20BFEF58 : 12800              
+231C - Float             20C3C35C : 12800              20BFEF5C : 12800              
+2320 - Float             20C3C360 : 10000              20BFEF60 : 9000               
+2324 - Pointer           20C3C364 : P->44D4235F        20BFEF64 : P->4301A167        
+2328 - Pointer           20C3C368 : P->3E25F17C        20BFEF68 : P->3E417721        
+232C - Double            20C3C36C : 2.14576771624079E-720BFEF6C : 5.4235863178998E-7 
+2334 - Double            20C3C374 : 1.52587949280303E-620BFEF74 : 9.46972610227681E-6
+233C - Byte              20C3C37C : 113                20BFEF7C : 20                 
+233D - Byte              20C3C37D : 61                 20BFEF7D : 150                
+233E - Byte              20C3C37E : 234                20BFEF7E : 0                  
+233F - Byte              20C3C37F : 62                 20BFEF7F : 63                 
+2340 - Double            20C3C380 : 0.0000976562876155620BFEF80 : 0.00010660158274145
+2348 - Byte              20C3C388 : 123                20BFEF88 : 132                
+2349 - Byte              20C3C389 : 20                 20BFEF89 : 71                 
+234A - Byte              20C3C38A : 46                 20BFEF8A : 39                 
+234B - Byte              20C3C38B : 63                 20BFEF8B : 63                 
+234C - Float             20C3C38C : 0.7599999905       20BFEF8C : 0.6877859831       
+2350 - Float             20C3C390 : 0.8399999738       20BFEF90 : 0.741985023        
+2354 - Byte              20C3C394 : 96                 20BFEF94 : 47                 
+2355 - Byte              20C3C395 : 229                20BFEF95 : 78                 
+2356 - Byte              20C3C396 : 104                20BFEF96 : 72                 
+2357 - Byte              20C3C397 : 63                 20BFEF97 : 63                 
+2358 - Double            20C3C398 : 0.0078125018476421220BFEF98 : 0.00240040616579873
+2360 - Byte              20C3C3A0 : 154                20BFEFA0 : 238                
+2361 - Byte              20C3C3A1 : 153                20BFEFA1 : 37                 
+2362 - Byte              20C3C3A2 : 121                20BFEFA2 : 113                
+2363 - Byte              20C3C3A3 : 63                 20BFEFA3 : 63                 
+2364 - Byte              20C3C3A4 : 197                20BFEFA4 : 238                
+2365 - String            20C3C3A5 : â[?ä               20BFEFA5 : `x?Ù               
+2369 - Byte              20C3C3A9 : 103                20BFEFA9 : 5                  
+236A - Byte              20C3C3AA : 79                 20BFEFAA : 127                
+236B - Byte              20C3C3AB : 63                 20BFEFAB : 63                 
+236C - Double            20C3C3AC : 0.0003202851505708020BFEFAC : 0.00595181527751265
+2374 - Pointer           20C3C3B4 : P->3F2BEA1C        20BFEFB4 : P->3F6E8955        
+2378 - Pointer           20C3C3B8 : P->3F20DC55        20BFEFB8 : P->3F62A38C        
+237C - Byte              20C3C3BC : 238                20BFEFBC : 12                 
+237D - Byte              20C3C3BD : 66                 20BFEFBD : 147                
+237E - Byte              20C3C3BE : 23                 20BFEFBE : 77                 
+237F - Byte              20C3C3BF : 63                 20BFEFBF : 63                 
+2380 - Byte              20C3C3C0 : 182                20BFEFC0 : 183                
+2381 - Byte              20C3C3C1 : 46                 20BFEFC1 : 68                 
+2382 - Byte              20C3C3C2 : 9                  20BFEFC2 : 50                 
+2383 - 2 Bytes           20C3C3C3 : 26175              20BFEFC3 : 29503              
+2385 - Byte              20C3C3C5 : 22                 20BFEFC5 : 246                
+2386 - Byte              20C3C3C6 : 241                20BFEFC6 : 22                 
+2387 - Byte              20C3C3C7 : 62                 20BFEFC7 : 63                 

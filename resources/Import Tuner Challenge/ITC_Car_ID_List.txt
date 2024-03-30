@@ -1,0 +1,67 @@
+[Import Tuner Challenge Car IDs]
+Mazda RX-7 = 0
+Mazda RX-8 = 1
+Skull Bullet (1st Scheme) = 2
+Eclipse GT '06 = 3
+Lancer Evolution IX = 4
+180SX Type X = 5
+Cima = 6
+350Z = 7
+Fairlady Z Z32 = 8
+Fairlady S30 = 9
+Silvia S15 = 10
+Skyline 350GT Coupe = 11
+Skyline GT-R R34 = 12
+Skyline GT-R R32 = 13
+Impreza WRX STi GD8 = 14
+Impreza WRX STi GC8 = 15
+Toyota Aristo = 16
+Toyota Celsoir = 17
+Toyota Levin Corrola AE86L = 18
+Toyota Crown = 19
+Toyota Trueno AE86T = 20
+Toyota Supra JZA80 = 21
+Toyota Supra JZA70 = 22
+UNKNOWN = 23
+Snake Eyes = 24
+Speed King = 25
+Crimson Devil = 26
+White Charisma = 27
+Melancholy Angel = 28
+The Rook = 29
+The Bishop = 30
+The Knight = 31
+Blood Hound = 32
+Midnight Cinderella = 33
+Platnium Prince = 34
+Skull Bullet (2nd Scheme) = 43
+Rolling Guy No. 1 = 47
+Rolling Gal No. 1 = 48
+White Fairy = 49
+Naniwas Warship = 50
+Death Driver = 51
+Matterhorn = 52
+Rolling Master = 53
+Gold License = 54
+Stalking Hammer = 72
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

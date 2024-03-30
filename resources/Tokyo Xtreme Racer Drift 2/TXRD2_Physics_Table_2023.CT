@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>185</ID>
+      <Description>"Local Car Vars"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>263</ID>
+          <Description>"Car Specific"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>259</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2" RealAddress="00B85A40"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>00B85A40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>260</ID>
+              <Description>"unk"</Description>
+              <LastState Value="88" RealAddress="00B85A42"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>00B85A42</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>261</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2" RealAddress="00B85A44"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>00B85A44</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>262</ID>
+              <Description>"unk"</Description>
+              <LastState Value="100" RealAddress="00B85A46"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>00B85A46</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>264</ID>
+              <Description>"unk"</Description>
+              <LastState Value="6268" RealAddress="00B854D0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00B854D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>265</ID>
+              <Description>"unk"</Description>
+              <LastState Value="0" RealAddress="00B85290"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>00B85290</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>257</ID>
+          <Description>"Engine"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>255</ID>
+              <Description>"Max RPM"</Description>
+              <LastState Value="10500" RealAddress="00B856E0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00B856E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>256</ID>
+              <Description>"Drop Off RPM?"</Description>
+              <LastState Value="0.5859375" RealAddress="00B856E4"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00B856E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>258</ID>
+              <Description>"Engine CCs"</Description>
+              <LastState Value="2997" RealAddress="00B856E8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00B856E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>317</ID>
+              <Description>"No description"</Description>
+              <LastState Value="12800" RealAddress="00B856D8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00B856D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>318</ID>
+              <Description>"No description"</Description>
+              <LastState Value="12800" RealAddress="00B856DC"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00B856DC</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>248</ID>
+          <Description>"Driveline"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>250</ID>
+              <Description>"Front Driveline"</Description>
+              <LastState Value="1" RealAddress="00B8528C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00B8528C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>251</ID>
+              <Description>"Rear driveline"</Description>
+              <LastState Value="0" RealAddress="00B85290"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00B85290</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>252</ID>
+              <Description>"No description"</Description>
+              <LastState Value="1748" RealAddress="00B85280"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00B85280</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>253</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0" RealAddress="00B85296"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00B85296</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>266</ID>
+          <Description>"unk"</Description>
+          <LastState Value="-0.7768675089" RealAddress="00B85690"/>
+          <VariableType>Float</VariableType>
+          <Address>00B85690</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>267</ID>
+          <Description>"unk"</Description>
+          <LastState Value="-0.3256356418" RealAddress="00B85494"/>
+          <VariableType>Float</VariableType>
+          <Address>00B85494</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>269</ID>
+          <Description>"unk"</Description>
+          <LastState Value="-0.3256356418" RealAddress="00B85684"/>
+          <VariableType>Float</VariableType>
+          <Address>00B85684</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>304</ID>
+          <Description>"unk"</Description>
+          <LastState Value="6268" RealAddress="00B854D0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B854D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>305</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="1.200000048" RealAddress="00B854CC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B854CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>307</ID>
+          <Description>"unk"</Description>
+          <LastState Value="-0.2426199764" RealAddress="00B854C8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B854C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>306</ID>
+          <Description>"unk"</Description>
+          <LastState Value="79517.51562" RealAddress="00B854C4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B854C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>308</ID>
+          <Description>"unk"</Description>
+          <LastState Value="287.4882812" RealAddress="00B854A0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B854A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>309</ID>
+          <Description>"unk"</Description>
+          <LastState Value="25589" RealAddress="00B854A5"/>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B854A5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>310</ID>
+          <Description>"unk"</Description>
+          <LastState Value="1146.75" RealAddress="00B85530"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85530</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>311</ID>
+          <Description>"unk"</Description>
+          <LastState Value="513.1149902" RealAddress="00B85534"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85534</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>312</ID>
+          <Description>"unk"</Description>
+          <LastState Value="476.6871948" RealAddress="00B85538"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85538</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>333</ID>
+          <Description>"unk"</Description>
+          <LastState Value="10" RealAddress="00B84E78"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B84530 + 948</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>136</ID>
+      <Description>"Part Effects"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>183</ID>
+          <Description>"Reinforcement"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>186</ID>
+              <Description>"unk"</Description>
+              <LastState Value="0.9250000119" RealAddress="00B850BC"/>
+              <VariableType>Float</VariableType>
+              <Address>00B850BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>187</ID>
+              <Description>"unk"</Description>
+              <LastState Value="12159.44824" RealAddress="00B850D0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B850D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>188</ID>
+              <Description>"unk"</Description>
+              <LastState Value="12159.44824" RealAddress="00B850D4"/>
+              <VariableType>Float</VariableType>
+              <Address>00B850D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>189</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1146.76001" RealAddress="00B851E0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B851E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>190</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1.614734173" RealAddress="00B85204"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85204</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>191</ID>
+              <Description>"unk"</Description>
+              <LastState Value="405.4575806" RealAddress="00B85220"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85220</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>192</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1602.797974" RealAddress="00B85224"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85224</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>193</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1824.415405" RealAddress="00B85228"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85228</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>194</ID>
+              <Description>"unk"</Description>
+              <LastState Value="321.0632019" RealAddress="00B85390"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85390</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>195</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1382.622925" RealAddress="00B853A0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B853A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>196</ID>
+              <Description>"unk"</Description>
+              <LastState Value="4839.179688" RealAddress="00B853A4"/>
+              <VariableType>Float</VariableType>
+              <Address>00B853A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>197</ID>
+              <Description>"unk"</Description>
+              <LastState Value="3341.834717" RealAddress="00B853B0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B853B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>198</ID>
+              <Description>"unk"</Description>
+              <LastState Value="3341.834717" RealAddress="00B85408"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85408</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>199</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1146.75" RealAddress="00B85420"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85420</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>200</ID>
+              <Description>"unk"</Description>
+              <LastState Value="627.02771" RealAddress="00B85424"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85424</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>201</ID>
+              <Description>"FrontStiffness"</Description>
+              <LastState Value="590.0394897" RealAddress="00B85428"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85428</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>202</ID>
+              <Description>"RearStiffness"</Description>
+              <LastState Value="287.4882812" RealAddress="00B854A0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>203</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2729.138672" RealAddress="00B854B0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>204</ID>
+              <Description>"unk"</Description>
+              <LastState Value="3820.793701" RealAddress="00B854B4"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>205</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2737.888916" RealAddress="00B854C0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>206</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2737.888916" RealAddress="00B85518"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85518</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>207</ID>
+              <Description>"SlideFactor"</Description>
+              <LastState Value="1146.75" RealAddress="00B85530"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85530</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>208</ID>
+              <Description>"unk"</Description>
+              <LastState Value="513.1149902" RealAddress="00B85534"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85534</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>209</ID>
+              <Description>"CenterOfMass"</Description>
+              <LastState Value="476.6871948" RealAddress="00B85538"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85538</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>210</ID>
+              <Description>"unk"</Description>
+              <LastState Value="0.9499999285" RealAddress="00B857F0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B857F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>211</ID>
+              <Description>"unk"</Description>
+              <LastState Value="0.6999999881" RealAddress="00B85908"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85908</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>184</ID>
+              <Description>"Chassis Strength"</Description>
+              <LastState Value="1240.76001" RealAddress="00B84574"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84574</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>212</ID>
+          <Description>"Lightweight"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>214</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1240.76001" RealAddress="00B84574"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84574</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>215</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1.262205839" RealAddress="00B846FC"/>
+              <VariableType>Float</VariableType>
+              <Address>00B846FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>216</ID>
+              <Description>"unk"</Description>
+              <LastState Value="15790.16699" RealAddress="00B84808"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84808</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>217</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1.54161346" RealAddress="00B8486C"/>
+              <VariableType>Float</VariableType>
+              <Address>00B8486C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>218</ID>
+              <Description>"unk"</Description>
+              <LastState Value="15790.16699" RealAddress="00B84978"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84978</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>219</ID>
+              <Description>"unk"</Description>
+              <LastState Value="-0.3962206244" RealAddress="00B849DC"/>
+              <VariableType>Float</VariableType>
+              <Address>00B849DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>220</ID>
+              <Description>"unk"</Description>
+              <LastState Value="6899.479004" RealAddress="00B84AE8"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84AE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>221</ID>
+              <Description>"unk"</Description>
+              <LastState Value="-0.4010753036" RealAddress="00B84B4C"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84B4C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>222</ID>
+              <Description>"unk"</Description>
+              <LastState Value="6899.479004" RealAddress="00B84C58"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84C58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>223</ID>
+              <Description>"unk"</Description>
+              <LastState Value="0.9250000119" RealAddress="00B850BC"/>
+              <VariableType>Float</VariableType>
+              <Address>00B850BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>224</ID>
+              <Description>"unk"</Description>
+              <LastState Value="12159.44824" RealAddress="00B850D0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B850D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>225</ID>
+              <Description>"unk"</Description>
+              <LastState Value="12159.44824" RealAddress="00B850D4"/>
+              <VariableType>Float</VariableType>
+              <Address>00B850D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>226</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1146.76001" RealAddress="00B851E0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B851E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>227</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1.614734173" RealAddress="00B85204"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85204</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>228</ID>
+              <Description>"unk"</Description>
+              <LastState Value="405.4575806" RealAddress="00B85220"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85220</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>229</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1602.797974" RealAddress="00B85224"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85224</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>230</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1824.415405" RealAddress="00B85228"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85228</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>231</ID>
+              <Description>"unk"</Description>
+              <LastState Value="321.0632019" RealAddress="00B85390"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85390</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>232</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1382.622925" RealAddress="00B853A0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B853A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>233</ID>
+              <Description>"unk"</Description>
+              <LastState Value="4839.179688" RealAddress="00B853A4"/>
+              <VariableType>Float</VariableType>
+              <Address>00B853A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>234</ID>
+              <Description>"unk"</Description>
+              <LastState Value="3341.834717" RealAddress="00B853B0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B853B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>235</ID>
+              <Description>"unk"</Description>
+              <LastState Value="3341.834717" RealAddress="00B85408"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85408</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>236</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1146.75" RealAddress="00B85420"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85420</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>237</ID>
+              <Description>"unk"</Description>
+              <LastState Value="627.02771" RealAddress="00B85424"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85424</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>238</ID>
+              <Description>"unk"</Description>
+              <LastState Value="590.0394897" RealAddress="00B85428"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85428</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>239</ID>
+              <Description>"unk"</Description>
+              <LastState Value="287.4882812" RealAddress="00B854A0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>240</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2729.138672" RealAddress="00B854B0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>241</ID>
+              <Description>"unk"</Description>
+              <LastState Value="3820.793701" RealAddress="00B854B4"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>242</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2737.888916" RealAddress="00B854C0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B854C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>243</ID>
+              <Description>"unk"</Description>
+              <LastState Value="2737.888916" RealAddress="00B85518"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85518</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>244</ID>
+              <Description>"unk"</Description>
+              <LastState Value="1146.75" RealAddress="00B85530"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85530</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>245</ID>
+              <Description>"unk"</Description>
+              <LastState Value="513.1149902" RealAddress="00B85534"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85534</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>246</ID>
+              <Description>"unk"</Description>
+              <LastState Value="476.6871948" RealAddress="00B85538"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85538</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>247</ID>
+              <Description>"unk"</Description>
+              <LastState Value="0.6999999881" RealAddress="00B85908"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85908</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>137</ID>
+          <Description>"Tires"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>138</ID>
+              <Description>"Front"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>140</ID>
+                  <Description>"ForwardGrip_Coef"</Description>
+                  <LastState Value="1.279999971" RealAddress="00B85C14"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C14</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>141</ID>
+                  <Description>"SideGrip_Coef ?"</Description>
+                  <LastState Value="1.638399839" RealAddress="00B85C18"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C18</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>142</ID>
+                  <Description>"LateralGrip_Coef"</Description>
+                  <LastState Value="0.9719998837" RealAddress="00B85C2C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C2C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>143</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="0.9447837472" RealAddress="00B85C30"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C30</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>144</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.151999831" RealAddress="00B85C44"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>145</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.327103496" RealAddress="00B85C48"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C48</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>146</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.279999971" RealAddress="00B85C5C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>147</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.638399839" RealAddress="00B85C60"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C60</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>148</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85C74"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C74</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>149</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85C78"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C78</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>150</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85C8C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C8C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>151</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85C90"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C90</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>152</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85CA4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CA4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>153</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85CA8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CA8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>154</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85CBC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CBC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>155</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85CC0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CC0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>156</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="0.8099999428" RealAddress="00B85CD4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CD4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>157</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="0.6560998559" RealAddress="00B85CD8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CD8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>139</ID>
+              <Description>"Rear"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>158</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="5.31497934E-38" RealAddress="008BB464"/>
+                  <VariableType>Float</VariableType>
+                  <Address>008BB464</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>159</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="-0.3962206244" RealAddress="00B849DC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B849DC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>160</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.279999971" RealAddress="00B84A74"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B84A74</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>161</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.638399839" RealAddress="00B84A78"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B84A78</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>162</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="-0.4010753036" RealAddress="00B84B4C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B84B4C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>163</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.279999971" RealAddress="00B84BE4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B84BE4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>164</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.638399839" RealAddress="00B84BE8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B84BE8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>165</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.279999971" RealAddress="00B85C14"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C14</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>166</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.638399839" RealAddress="00B85C18"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C18</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>167</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="0.9719998837" RealAddress="00B85C2C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C2C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>168</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="0.9447837472" RealAddress="00B85C30"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C30</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>169</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.151999831" RealAddress="00B85C44"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>170</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.327103496" RealAddress="00B85C48"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C48</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>171</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.279999971" RealAddress="00B85C5C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>172</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.638399839" RealAddress="00B85C60"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C60</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>173</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85C74"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C74</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>174</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85C78"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C78</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>175</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85C8C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C8C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>176</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85C90"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85C90</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>177</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85CA4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CA4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>178</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85CA8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CA8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>179</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.215999842" RealAddress="00B85CBC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CBC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>180</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="1.478655577" RealAddress="00B85CC0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CC0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>181</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="0.8099999428" RealAddress="00B85CD4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CD4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>182</ID>
+                  <Description>"unk"</Description>
+                  <LastState Value="0.6560998559" RealAddress="00B85CD8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85CD8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>125</ID>
+      <Description>"Settings"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>80</ID>
+          <Description>"ROM (power curve)"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>81</ID>
+              <Description>"No description"</Description>
+              <LastState Value="53.91880035" RealAddress="00B84DE0"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84DE0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>82</ID>
+              <Description>"No description"</Description>
+              <LastState Value="-0.001173123834" RealAddress="00B84DFC"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84DFC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>83</ID>
+              <Description>"No description"</Description>
+              <LastState Value="-0.001173123834" RealAddress="00B84E00"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84E00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>84</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.5454730988" RealAddress="00B84E3C"/>
+              <VariableType>Float</VariableType>
+              <Address>00B84E3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>85</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.9268593192" RealAddress="00B85720"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85720</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>86</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.9036878943" RealAddress="00B85724"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85724</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>87</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.8810957074" RealAddress="00B85728"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85728</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>88</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.8290162683" RealAddress="00B8572C"/>
+              <VariableType>Float</VariableType>
+              <Address>00B8572C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>89</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.7006474733" RealAddress="00B85730"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85730</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>90</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.5722786784" RealAddress="00B85734"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85734</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>91</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.4439099431" RealAddress="00B85738"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85738</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>92</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.3155412376" RealAddress="00B8573C"/>
+              <VariableType>Float</VariableType>
+              <Address>00B8573C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>93</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.1871724725" RealAddress="00B85740"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85740</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>94</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.05880499631" RealAddress="00B85744"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85744</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>95</ID>
+              <Description>"No description"</Description>
+              <LastState Value="0.3398329914" RealAddress="00B857EC"/>
+              <VariableType>Float</VariableType>
+              <Address>00B857EC</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"Drivetrain"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>19</ID>
+              <Description>"Gears"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>20</ID>
+                  <Description>"1st"</Description>
+                  <LastState Value="3.338999987" RealAddress="00B85800"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85800</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>21</ID>
+                  <Description>"2nd"</Description>
+                  <LastState Value="2.399999857" RealAddress="00B85804"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85804</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>22</ID>
+                  <Description>"3rd"</Description>
+                  <LastState Value="1.846999884" RealAddress="00B85808"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85808</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>23</ID>
+                  <Description>"4th"</Description>
+                  <LastState Value="1.43599999" RealAddress="00B8580C"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B8580C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>24</ID>
+                  <Description>"5th"</Description>
+                  <LastState Value="1.103999972" RealAddress="00B85810"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85810</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>25</ID>
+                  <Description>"6th"</Description>
+                  <LastState Value="0.861999929" RealAddress="00B85814"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85814</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>26</ID>
+                  <Description>"Final Gear"</Description>
+                  <LastState Value="3.122999907" RealAddress="00B85820"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85820</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>249</ID>
+                  <Description>"Total Gears"</Description>
+                  <LastState Value="6" RealAddress="00B856D4"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>00B856D4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"Limited Slip Settings"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>34</ID>
+                  <Description>"Initial Torque"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>27</ID>
+                      <Description>"Front intial Torque Coef"</Description>
+                      <LastState Value="0" RealAddress="00B8543C"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B8543C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>29</ID>
+                      <Description>"Rear Initial Torque Coef"</Description>
+                      <LastState Value="80" RealAddress="00B8554C"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B8554C</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>35</ID>
+                  <Description>"LSD Ratio"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" Activated="1" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>30</ID>
+                      <Description>"Front Ratio FL?"</Description>
+                      <LastState Value="0" RealAddress="00B85434"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B85434</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>31</ID>
+                      <Description>"Ratio FR?"</Description>
+                      <LastState Value="0" RealAddress="00B85438"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B85438</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>36</ID>
+                      <Description>"Ratio RL?"</Description>
+                      <LastState Value="1.75" RealAddress="00B85544"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B85544</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>37</ID>
+                      <Description>"Ratio RR?"</Description>
+                      <LastState Value="0.875" RealAddress="00B85548"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B85548</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"Suspension "</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>55</ID>
+              <Description>"Springs"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>343</ID>
+                  <Description>"Front Srping 1"</Description>
+                  <LastState Value="112809.3516" RealAddress="00B8539C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B8539C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>341</ID>
+                  <Description>"Front Spring 2"</Description>
+                  <LastState Value="112809.3516" RealAddress="00B85398"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85398</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>344</ID>
+                  <Description>"Rear Springs 1"</Description>
+                  <LastState Value="78537.86719" RealAddress="00B854A8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B854A8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>345</ID>
+                  <Description>"Rear Springs 2"</Description>
+                  <LastState Value="78537.86719" RealAddress="00B854AC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B854AC</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>58</ID>
+              <Description>"Dampers"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>59</ID>
+                  <Description>"Front "</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>338</ID>
+                      <Description>"Rebound"</Description>
+                      <LastState Value="4839.179688" RealAddress="00B853A4"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B853A4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>337</ID>
+                      <Description>"Bound"</Description>
+                      <LastState Value="1382.622925" RealAddress="00B853A0"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B853A0</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>60</ID>
+                  <Description>"Rear"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>340</ID>
+                      <Description>"Rebound"</Description>
+                      <LastState Value="3820.793701" RealAddress="00B854B4"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B854B4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>339</ID>
+                      <Description>"Bound"</Description>
+                      <LastState Value="2729.138672" RealAddress="00B854B0"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B854B0</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"Stabilizer"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>346</ID>
+                  <Description>"Front Stabilizer Force"</Description>
+                  <LastState Value="102668.4219" RealAddress="00B853B4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B853B4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>347</ID>
+                  <Description>"Unk"</Description>
+                  <LastState Value="10.47637081" RealAddress="00B858A4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B858A4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>348</ID>
+                  <Description>"Rear Stabilizer Force"</Description>
+                  <LastState Value="79517.51562" RealAddress="00B854C4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B854C4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>349</ID>
+                  <Description>"Unk"</Description>
+                  <LastState Value="8.114032745" RealAddress="00B858B8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B858B8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>128</ID>
+              <Description>"Ride Height"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>331</ID>
+                  <Description>"Front"</Description>
+                  <LastState Value="0.07599999756" RealAddress="00B853A8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B853A8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>334</ID>
+                  <Description>"Rear"</Description>
+                  <LastState Value="0.09199999273" RealAddress="00B854B8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B854B8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"Alignment"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>98</ID>
+              <Description>"Toe"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>350</ID>
+                  <Description>"Front Toe"</Description>
+                  <LastState Value="-1.43040868E-9" RealAddress="00B85400"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85400</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>351</ID>
+                  <Description>"Rear Toe"</Description>
+                  <LastState Value="1.812629819" RealAddress="00BF8780"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00BF8780</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"Camber"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"Others"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>107</ID>
+              <Description>"Brake Strength "</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>113</ID>
+                  <Description>"Brake Force"</Description>
+                  <LastState Value="2.519999743" RealAddress="00B852EC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B852EC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>108</ID>
+                  <Description>"Front"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>110</ID>
+                      <Description>"Brake Wear Effect"</Description>
+                      <LastState Value="15790.16699" RealAddress="00B84978"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B84978</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>112</ID>
+                      <Description>"Front Brake Force"</Description>
+                      <LastState Value="4.724999428" RealAddress="00B85264"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B85264</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>109</ID>
+                  <Description>"Rear"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>114</ID>
+                      <Description>"No description"</Description>
+                      <LastState Value="15790.16699" RealAddress="00B84978"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B84978</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>111</ID>
+                      <Description>"Brake Wear Effect"</Description>
+                      <LastState Value="6899.479004" RealAddress="00B84C58"/>
+                      <VariableType>Float</VariableType>
+                      <Address>00B84C58</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>105</ID>
+              <Description>"Steering Angle"</Description>
+              <LastState Value="10.33828449" RealAddress="00B85328"/>
+              <VariableType>Float</VariableType>
+              <Address>00B85328</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>117</ID>
+              <Description>"E-Brake "</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>116</ID>
+                  <Description>"E-Brake Strength"</Description>
+                  <LastState Value="1.947998881" RealAddress="00B852F0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B852F0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>115</ID>
+                  <Description>"Unk"</Description>
+                  <LastState Value="1.947998881" RealAddress="00B85274"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85274</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>120</ID>
+              <Description>"Downforce"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>119</ID>
+                  <Description>"Rear Angle"</Description>
+                  <LastState Value="0.3012986481" RealAddress="00B858F8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B858F8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>285</ID>
+                  <Description>"Unk"</Description>
+                  <LastState Value="0.03012987226" RealAddress="00B858F4"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B851E0 + 714</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>118</ID>
+                  <Description>"Unk"</Description>
+                  <LastState Value="0.3012986481" RealAddress="00B85894"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85894</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>286</ID>
+                  <Description>"Canards'"</Description>
+                  <LastState Value="2.307749748" RealAddress="00B858E8"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B851E0 + 708</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>287</ID>
+                  <Description>"Rally Kit"</Description>
+                  <LastState Value="5.762999535" RealAddress="00B858EC"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B851E0 + 70c</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>122</ID>
+              <Description>"Torque Distrubution"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>124</ID>
+                  <Description>"Front"</Description>
+                  <LastState Value="0" RealAddress="00B85294"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85294</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>121</ID>
+                  <Description>"Rear"</Description>
+                  <LastState Value="1" RealAddress="00B84D84"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B84D84</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>123</ID>
+                  <Description>"Unk"</Description>
+                  <LastState Value="1" RealAddress="00B852E4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>00B852E4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>292</ID>
+      <Description>"Tires"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>288</ID>
+          <Description>"Front Tire Grip"</Description>
+          <LastState Value="1.638399839" RealAddress="00B85B40"/>
+          <VariableType>Float</VariableType>
+          <Address>00B85B40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>293</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0" RealAddress="00B84F61"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>00B84530 + a31</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>289</ID>
+          <Description>"front_wear_type"</Description>
+          <LastState Value="1" RealAddress="00B84EE0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>00B84530 + 9b0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>291</ID>
+          <Description>"rear_wear_type"</Description>
+          <LastState Value="1" RealAddress="00B84EF0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>00B84EF0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>294</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0" RealAddress="00B84E87"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>00B84530 + 957</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>295</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0" RealAddress="00B84664"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>00B84530 + 134</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>298</ID>
+          <Description>"wear factor"</Description>
+          <LastState Value="1" RealAddress="00B853E4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85330 + b4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>335</ID>
+          <Description>"WheelObjects"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>336</ID>
+              <Description>"Front Right"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>314</ID>
+                  <Description>"FR_WheelOffsetX"</Description>
+                  <LastState Value="1.274999976" RealAddress="00B85550"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85550</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>315</ID>
+                  <Description>"FR_Wheel)ffsetY"</Description>
+                  <LastState Value="0.02400000021" RealAddress="00B85554"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85554</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>316</ID>
+                  <Description>"FL_WheelOffsetZ"</Description>
+                  <LastState Value="0.7849999666" RealAddress="00B85558"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>00B85558</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>279</ID>
+      <Description>"Unkowns"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>272</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="624.6547241" RealAddress="00B85D18"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B856D8 + 640</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>273</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="10.42769623" RealAddress="00B84E40"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 910</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>274</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="0" RealAddress="00B84E50"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 920</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>275</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="0.09753127396" RealAddress="00B84E58"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 928</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>276</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="2.508873701" RealAddress="00B84E60"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 930</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>277</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="2.606404781" RealAddress="00B84E48"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 918</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>278</ID>
+          <Description>"Unk"</Description>
+          <LastState Value="0.91899997" RealAddress="00B857E8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B856D4 + 114</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>299</ID>
+          <Description>"Camera Sway?"</Description>
+          <LastState Value="350.5800476" RealAddress="00B88EA4"/>
+          <VariableType>Float</VariableType>
+          <Address>00B88EA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>300</ID>
+          <Description>"No description"</Description>
+          <LastState Value="112809.3516" RealAddress="00B8539C"/>
+          <VariableType>Float</VariableType>
+          <Address>00B8539C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>301</ID>
+          <Description>"No description"</Description>
+          <LastState Value="4839.179688" RealAddress="00B853A4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85390 + 14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>302</ID>
+          <Description>"No description"</Description>
+          <LastState Value="-0.0003917033318" RealAddress="00B846EC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 1BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>303</ID>
+          <Description>"No description"</Description>
+          <LastState Value="-0.0001264495804" RealAddress="00B8485C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B846A0 + 1BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>313</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0.06400000304" RealAddress="00B85540"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85540</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>319</ID>
+          <Description>"unk"</Description>
+          <LastState Value="800" RealAddress="00B85284"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85284</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>320</ID>
+          <Description>"unk"</Description>
+          <LastState Value="2737.888916" RealAddress="00B85518"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85518</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>321</ID>
+          <Description>"unk"</Description>
+          <LastState Value="-1.401655555" RealAddress="00B85514"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85514</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>322</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0.4503311515" RealAddress="00B85524"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B85524</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>323</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0.9803169966" RealAddress="00B86120"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 1bf0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>324</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0.9982092977" RealAddress="00B84624"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + f4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>325</ID>
+          <Description>"unk"</Description>
+          <LastState Value="0" RealAddress="00B85E0C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 18dc</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>326</ID>
+          <Description>"unk"</Description>
+          <LastState Value="89.99999237" RealAddress="00B85DA4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 1874</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>329</ID>
+          <Description>"unk"</Description>
+          <LastState Value="152.5908203" RealAddress="00B85DDC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 18ac</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>330</ID>
+          <Description>"unk"</Description>
+          <LastState Value="152.5908203" RealAddress="00B85DD8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00B84530 + 18a8</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

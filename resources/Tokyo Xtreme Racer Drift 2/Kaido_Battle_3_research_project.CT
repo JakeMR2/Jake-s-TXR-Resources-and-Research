@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Player"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"Garage"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <Color>008000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>15</ID>
+              <Description>"Garage Car 1"</Description>
+              <LastState Value="0" RealAddress="2075A180"/>
+              <VariableType>Byte</VariableType>
+              <Address>2075A180</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"Garage Car 2"</Description>
+              <LastState Value="1" RealAddress="2075D780"/>
+              <VariableType>Byte</VariableType>
+              <Address>2075D780</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>30</ID>
+              <Description>"Garage Car 3"</Description>
+              <LastState Value="0" RealAddress="2075A330"/>
+              <VariableType>Byte</VariableType>
+              <Address>2075A330</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"Fans"</Description>
+          <LastState Value="0" RealAddress="2075A09C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>2075A09C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Days"</Description>
+          <LastState Value="1" RealAddress="2075A040"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>2075A040</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Credit Points"</Description>
+          <LastState Value="2740" RealAddress="2075A0A0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2075A0A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Category Level Points"</Description>
+          <LastState Value="0" RealAddress="207663E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>207663E4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Menus"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"Current Car Your Viewing..."</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>808000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>18</ID>
+              <Description>"SPONSORS"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>000080</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>20</ID>
+                  <Description>"Current Sponsor Car ID"</Description>
+                  <LastState Value="0" RealAddress="20D6CFA4"/>
+                  <Color>800000</Color>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>20D6CFA4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>17</ID>
+              <Description>"RIVALS"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>D76B00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>16</ID>
+                  <Description>"Currently Selected Rival Car"</Description>
+                  <LastState Value="10190" RealAddress="20D6DDB8"/>
+                  <Color>000080</Color>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>20D6DDB8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Used Car Dealer"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0080FF</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"Used Car 1"</Description>
+              <LastState Value="12" RealAddress="2075CF88"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2075CF88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"Used Car 2"</Description>
+              <LastState Value="132" RealAddress="2075D064"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2075D064</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"Used Car 3"</Description>
+              <LastState Value="151" RealAddress="2075D140"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2075D140</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>26</ID>
+              <Description>"Used Car 4"</Description>
+              <LastState Value="77" RealAddress="2075D21C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2075D21C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"Used Car 5"</Description>
+              <LastState Value="141" RealAddress="2075D2F8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2075D2F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"Used Car 6"</Description>
+              <LastState Value="30" RealAddress="2075D3D4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2075D3D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"Used Car 7"</Description>
+              <LastState Value="7" RealAddress="2075D4B0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>2075D4B0</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"Manufacture Cars (New)"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"Current New Car Price"</Description>
+              <LastState Value="6500" RealAddress="20D6CFAC"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20D6CFAC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>42</ID>
+              <Description>"Car ID (changable)"</Description>
+              <LastState Value="261" RealAddress="20D6CE04"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>20D6CE04</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>43</ID>
+              <Description>"Bottom Message Pannel"</Description>
+              <LastState Value="3481" RealAddress="20D6CFC0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20D6CFC0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>44</ID>
+              <Description>"Current Amount of Cars Shown in Dealer"</Description>
+              <LastState Value="0 0 0 0 0 0 0 12 0 0 0 0 0 0 0 0 0 0 0 0 0 192 255 255 255 255 255 255 255 255 255 0" RealAddress="20D6CDC2"/>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>32</ByteLength>
+              <Address>20D6CDC2</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>47</ID>
+          <Description>"Vinlyl Switcher"</Description>
+          <LastState Value="0" RealAddress="20D6CEDD"/>
+          <VariableType>Byte</VariableType>
+          <Address>20D6CEDD</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Gameplay"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"TA"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"LF"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"FL"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>6</ID>
+              <Description>"CA"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>5</ID>
+                  <Description>"Total CA Points"</Description>
+                  <LastState Value="1036831949" RealAddress="20B85D4C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>20B85D4C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>7</ID>
+                  <Description>"Current CA Sector"</Description>
+                  <LastState Value="0" RealAddress="20B85D50"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>20B85D50</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"Coords"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>C08080</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>33</ID>
+              <Description>"Test Track"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>32</ID>
+                  <Description>"X"</Description>
+                  <LastState Value="0" RealAddress="20C52FC8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>20C52FC8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>34</ID>
+                  <Description>"Y"</Description>
+                  <LastState Value="1" RealAddress="20C52FDC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>20C52FDC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>39</ID>
+                  <Description>"Possible Coords and Physics functs."</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <Color>2569CF</Color>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>36</ID>
+                      <Description>"No description"</Description>
+                      <LastState Value="0" RealAddress="21EF28D0"/>
+                      <VariableType>Float</VariableType>
+                      <Address>21EF28D0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>37</ID>
+                      <Description>"No description"</Description>
+                      <LastState Value="0" RealAddress="21EF4050"/>
+                      <VariableType>Float</VariableType>
+                      <Address>21EF4050</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>38</ID>
+                      <Description>"No description"</Description>
+                      <LastState Value="0" RealAddress="21EF4050"/>
+                      <VariableType>Float</VariableType>
+                      <Address>21EF4050</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>35</ID>
+                      <Description>"Area of coords to be editable"</Description>
+                      <LastState Value="0" RealAddress="21EF28C0"/>
+                      <VariableType>Byte</VariableType>
+                      <Address>21EF28C0</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>46</ID>
+      <Description>"&lt;Options&gt;"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"SE Effects"</Description>
+          <LastState Value="15" RealAddress="2077B09D"/>
+          <VariableType>Byte</VariableType>
+          <Address>2077B09D</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>48</ID>
+      <Description>"Credits"</Description>
+      <LastState Value="0" RealAddress="3075A0A0"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>3075A0A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>49</ID>
+      <Description>"part unlock"</Description>
+      <LastState Value="-126" RealAddress="2075D91C"/>
+      <VariableType>Byte</VariableType>
+      <Address>2075D91C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Change of fcom qword ptr [edi]</Description>
+      <AddressString>21BAEB98</AddressString>
+      <Before>
+        <Byte>D4</Byte>
+        <Byte>F1</Byte>
+        <Byte>EE</Byte>
+        <Byte>DC</Byte>
+        <Byte>D4</Byte>
+      </Before>
+      <Actual>
+        <Byte>DC</Byte>
+        <Byte>17</Byte>
+      </Actual>
+      <After>
+        <Byte>01</Byte>
+        <Byte>98</Byte>
+        <Byte>EA</Byte>
+        <Byte>E8</Byte>
+        <Byte>78</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>
