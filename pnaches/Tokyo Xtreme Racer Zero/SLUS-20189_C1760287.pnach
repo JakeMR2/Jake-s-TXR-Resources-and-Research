@@ -1,0 +1,74 @@
+[Progression\Unlock All Cars]
+author=JakeMR2
+comment=WARNING: When using this code do it when your in save, not before loading!
+patch=1,EE,0037DD66,word,FFFFFFFF
+patch=1,EE,3037DD6A,word,FFFFFFFF
+patch=1,EE,3037DD6E,word,FFFFFFFF
+patch=1,EE,3037DD72,word,FFFFFFFF
+patch=1,EE,3037DD76,word,FFFFFFFF
+patch=1,EE,3037DD7A,word,FFFFFFFF
+patch=1,EE,3037DD7F,word,FFFFFFFF
+
+[Progression\Unlock All Parts]
+author=JakeMR2
+comment=WARNING: When using this code do it when your in save, not before loading!
+patch=1,EE,3037FD64,word,FFFFFFFF
+patch=1,EE,3037DD66,word,FFFFFFFF
+patch=1,EE,3037FD68,word,FFFFFFFF
+patch=1,EE,3037FD6C,word,FFFFFFFF
+
+[Alterations\No Top Speed Cap]
+author=tok_ch, converted by JakeMR2
+comment=Eliminates the speed cap.
+patch=1,EE,3015A700,word,10000007
+
+/**
+All the Inputs for the controller are here:
+===========================================
+
+0x4 =  X Button (accel)
+0x8 =  Square Button (brake)
+0xC =  L1 Button (shift down)
+0x10 = R1 Button (shift up)
+0x14 = Circle Button (Reverse)
+0x18 = L2 Button (Look Back)
+0x1C = R2 Button (Challenge Rival)
+0x20 = Triangle Button
+0x24 = L3 Left Stick (Left Signal)
+0x28 = L3 Right Stick (Right Signal)
+0x2C = R3 Button (Warning Signals)
+0x30 = L3 Button (Horn)
+**\
+
+[Alterations\Controller Fixes\Controller Config Change (Type A)]
+author=JakeMR2
+comment=Changes the controller scheme to match TXR2's
+patch=1,EE,001586DC,word,8E240018 //Accel Button (R2)
+patch=1,EE,001586C0,word,8E24001C //Brake Button (L2)
+patch=1,EE,0015854C,word,8E240004 //Shift Down (Square)
+patch=1,EE,0015856C,word,8E240008 //Shift Up (X)
+patch=1,EE,001585AC,word,8E240010 //L1 Button (look back)
+patch=1,EE,001585CC,word,8E24000C //R1 Button (Flash Beams)
+patch=1,EE,0015858C,word,8E240014 //Circle Button (Reverse)
+patch=1,EE,001585EC,word,8E240020 //Triangle Button
+patch=1,EE,0015860C,word,8E240024 //L3 Left Stick (Left Signal)
+patch=1,EE,0015862C,word,8E240028 //L3 Right Stick (Right Stick)
+patch=1,EE,0015864C,word,8E24002C //R3 Button (Warning Signals)
+patch=1,EE,0015866C,word,8E240030 //L3 Button (Horn)
+
+[Alterations\Ibs to KG]
+author=JakeMR2
+description=Changes the units in the Garage and Car Shop menus.
+patch=1,EE,001D17E0,word,3C023F80
+patch=1,EE,001D17E4,word,00000000 //NOP address
+patch=1,EE,00371520,word,0000674B //Convert text to KG
+
+[Widescreen Fixes\Menu]
+//00 00 80 3F D9 EE 6E 3F 00 08 00 00 00 08 00 00 00 00 80 3F 00 24 74 4B 00 00 80 3F 00 00 FA 43
+patch=1,EE,20740294,word,3F400000
+
+[Widescreen]
+patch=1,EE,E001EED9,extended,00740298
+patch=1,EE,20740294,extended,3F400000
+patch=1,EE,E0010B10,extended,00740298
+patch=1,EE,20740294,extended,0019E800
