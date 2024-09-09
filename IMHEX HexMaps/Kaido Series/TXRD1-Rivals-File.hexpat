@@ -2,23 +2,44 @@
 // Made  by JakeMR2
 
 enum Rival_Type : u16{
-    Regular = 0, Tricker = 1,
-    Slasher = 2, Team = 3, 
-    EK = 4, Sponsor = 5
+    Regular = 0, Team_Leader = 1,
+    Team_Member= 2, Slasher = 3, 
+    EK = 6, Tricker = 7, Sponsor = 8
 };
 
 enum BetType : s16 {
-    None = -1, Car = 1,
-    Parts = 3
+    None = 5, Car = 1,
+    Parts = 2
 };
 
 struct RivalData {
-    s8 unkval[26];
-    s8 data[94];
-    s8 sponsors [32];
+    s16 unkval[11]; //Team stuff maybe
+    //adds to 94 bytes
+    s16 TeamIndex;
+    s16 TeamID;
+    Rival_Type rival_type;;
+    u16 CarID;
+    u16 CarColor;
+    u16 unk2;
+    u16 unk3;
+    u16 unk4;
+    u8 unk5[12];
+    BetType bet_type;
+    u16 unk7;
+    s32 BettingPart;
+    s8 BattleType;
+    s8 startPos;
+    s8 endPos;
+    s8 unknown;
+    s32 DriftPointThreshold;
+    s32 TimeThreshold;
+    float AI_Aggro[2];
+    u16 CarParts[6];
+    s16 CarSettings[15];
+    s16 sponsors [16];
 
 };
 struct Rivals {
-    RivalData Rival[215];
+    RivalData Rival[277]; //Last space is empty data
 };
 Rivals rival @0x00233A8A;
