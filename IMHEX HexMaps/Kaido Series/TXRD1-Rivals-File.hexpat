@@ -13,17 +13,19 @@ enum BetType : s16 {
 };
 
 struct RivalData {
-    s16 unkval[11]; //Team stuff maybe
+    s16 Conditons[11]; //Team stuff maybe
     //adds to 94 bytes
-    s16 TeamIndex;
     s16 TeamID;
+    s16 SponsorID;
     Rival_Type rival_type;;
     u16 CarID;
     u16 CarColor;
     u16 unk2;
     u16 unk3;
     u16 unk4;
-    u8 unk5[12];
+    u16 Course;
+    u16 Layout;
+    u8 unk5[8];
     BetType bet_type;
     u16 unk7;
     s32 BettingPart;
