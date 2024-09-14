@@ -18,7 +18,10 @@ struct RivalData {
     u8 unk5;
     u32 DriftPoints;
     u32 Time;
-    s16 car_stuff[21];
+    s16 car_parts_perf[16];
+    s16 suspension_settings[3];
+    s16 FWheel;
+    s16 RWheel;
     s16 sponsors[16];
 };
 struct Rivals {
