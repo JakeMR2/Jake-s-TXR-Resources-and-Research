@@ -1,6 +1,11 @@
 // TXRD1 Rival Data Struct
 // Made  by JakeMR2
 
+// Hints on gamebling upgrades
+//Engine 0-5, Exhaust = 6-14
+//Air Cleaner = 15-20, Cooling Module 21-26
+
+
 enum Rival_Type : u16{
     Regular = 0, Team_Leader = 1,
     Team_Member= 2, Slasher = 3, 
