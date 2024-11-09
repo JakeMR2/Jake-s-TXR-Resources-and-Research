@@ -105,10 +105,10 @@ struct stock_transmission {
     float second_gear;
     float third_gear;
     float fourth_gear;
-    float sixth_gear;
-    float seventh_gear; //unused in menus
-    float cvt_related; //not sure yet
-    float unk;
+    float fifth_gear;
+    float sixth_gear; 
+    float seveth_gear; //unused
+    float cvt_effect;
 };
 struct car_base2 {
     float rpm1;
@@ -272,12 +272,12 @@ struct tires {
     float unk8;
     float unk9;
     float unk10;
-    float unk11;
+    float tire_width;
     float unk12;
     float unk13;
     float unk14;
-    float unk15;
-    float unk16;
+    float GripLossForward;
+    float GripLateral;
     float unk17;
     float unk18;
     float unk19;
