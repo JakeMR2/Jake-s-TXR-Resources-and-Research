@@ -6,6 +6,12 @@ patch=1,EE,00889E4A,word,00004E20
 patch=1,EE,00873F2A,word,00004E20
 patch=1,EE,0088020A,word,00004E20
 
+//Draw Distance Alt
+[Improvements\Draw Distance V2]
+author=JakeMR2
+description=Increases Draw Distance
+patch=1,003470a8,word,0000803f
+
 [Improvements\lightmap change]
 patch=1,EE,003481F0,word,E1FF0000
 
@@ -27,6 +33,29 @@ patch=1,EE,20816761,word,FFFFFFFF
 patch=1,EE,20816765,word,0206060A
 patch=1,EE,20816769,word,06060606
 patch=1,EE,2081676D,word,06060606
+
+[Units\Metric Conversion]
+author=JakeMR2
+description=Converts to Metric Units
+//Ingame
+patch=1,EE,00325f60,word,40666666 //3.5999999 abouts
+patch=1,EE,00227910,word,3C023F80 //Trip
+patch=1,EE,00227894,word,3C023F80 //Odo
+
+//Results Menu
+patch=1,EE,0028CF8C,word,3C023F80 //Best Max Speed
+patch=1,EE,0028CD28,word,3C033F80 //Current Max Speed
+patch=1,EE,0028D00C,word,3C023F80 //Total Mileage
+
+//Player Information
+patch=1,EE,00284B58,word,3C023F80 //Best Top Speed
+patch=1,EE,00284c20,word,3C023F80 //Battle Speed
+patch=1,EE,00284CBC,word,3C023F80 //Total Mileage
+patch=1,EE,00284D74,word,3C023F80 //Distance
+
+[Progression\Max Odo Meter]
+author=Code Master
+patch=1,EE,203AEB54,extended,3B9AC9FF
 
 #test of something
 //patch=1,EE,301FCCD9,word,0200FF50 //Camera Speed/Stiffness/Sound?
