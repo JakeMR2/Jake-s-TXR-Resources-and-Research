@@ -124,7 +124,7 @@ patch=1,EE,20DE44F8,extended,00000000
 [Game Additions\Open All Vinyl Categories]
 comment=Enables the hidden category called Art in the vinyl editor
 author=JakeMR2
-patch=1,EE,00DE4498,word,0000000B
+patch=1,EE,00265034,word,2402000B
 
 [Game Additions\Better Chances With Rarer Cars (UCD)]
 comment=What it states, it's to increase your chances of Rare's, CAUTION: New Saves have 7 Rare's
